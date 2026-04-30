@@ -1,0 +1,3867 @@
+# Studiranje
+
+Generated: 2026-04-27T19:41:39.521112+00:00
+
+## Seed Sidebar Links
+
+### https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013
+
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/prva-godina-studija-za-elektrotehnicke-odseke
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/elektronika
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/energetika
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/racunarska-tehnika-i-informatika
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/signali-i-sistemi
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/telekomunikacije-i-informacione-tehnologije
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/fizicka-elektronika
+
+### https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019
+
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/prva-godina-studijskog-programa-er
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/elektronika-i-digitalni-sistemi
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/energetika
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/racunarska-tehnika-i-informatika
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/signali-i-sistemi
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/telekomunikacije-i-informacione-tehnologije
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/fizicka-elektronika
+
+### https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/softversko-inzenjerstvo-si
+
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/softversko-inzenjerstvo-si/nastavni-plan-i-program-2017
+- https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/softversko-inzenjerstvo-si/nastavni-plan-i-program-2024
+
+### https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013
+
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/audio-i-video-komunikacije
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/biomedicinsko-i-ekolosko-inzenjerstvo
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/elektroenergetski-sistemi
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/elektronika
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/mikrotalasna-tehnika
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/nanoelektronika-i-fotonika
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/opsteobrazovni-predmeti
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/primenjena-matematika
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/racunarska-tehnika-i-informatika
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/signali-i-sistemi
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/sistemsko-inzenjerstvo-i-radio-komunikacije
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/softversko-inzenjerstvo
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/energetska-efikasnost
+
+### https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019
+
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/audio-i-video-tehnologije
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/biomedicinski-i-ekoloski-inzenjering
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/elektroenergetski-sistemi
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/elektronika-i-digitalni-sistemi
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/energetska-efikasnost
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/mikrotalasna-tehnika
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/nanoelektronika-i-fotonika
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/opsteobrazovni-predmeti
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/informaciono-komunikacione-tehnologije
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/primenjena-matematika
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/racunarska-tehnika-i-informatika
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/signali-i-sistemi
+- https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/softversko-inzenjerstvo
+
+## Scraped Pages
+
+### Прва година студија за електротехничке одсеке
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/prva-godina-studija-za-elektrotehnicke-odseke
+- Study type: Osnovne akademske studije
+- Sidebar title: 2013
+- Strana header: Прва година студија за електротехничке одсеке
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е081ММ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E081MM1-2013) | Математика 1 | О | 3+3+0 | 7 |
+| [13Е071ОЕ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E071OE1-2013) | Основи електротехнике 1 | О | 3+3+0 | 7 |
+| [13Е061Ф1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E061F1-2013) | Физика 1 | О | 3+2+0 | 5 |
+| [13Е111П1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E111P1-2013) | Програмирање 1 | О | 3+2+0 | 5 |
+| [13Е061ЛФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E061LF-2013) | Лабораторијске вежбе из Физике | О | 0+0+2 | 2 |
+| Бирају се два од следећих шест практикума |  |  |  |  |
+| [13Е111ПКР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E111PKR-2013) | Практикум из коришћења рачунара | И | 1+0+1 | 2 |
+| [13Е081ПМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E081PM1-2013) | Практикум из Математике 1 | И | 1+1+0 | 2 |
+| [13Е111ПП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E111PP1-2013) | Практикум из Програмирања 1 | И | 0+0+2 | 2 |
+| [13Е091С](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091S-2013) | Социологија | И | 2+0+0 | 2 |
+| [13Е091ЕЈ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091EJ1-2013) [13Е091РЈ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091RJ1-2013) [13Е091НЈ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091NJ1-2013) [13Е091ФЈ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091FJ1-2013) | Страни језик 1 | И | 2+0+0 | 2 |
+| [13Е071ПЕ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E071PE1-2013) | Практикум из Основа електротехнике 1 | И | 1+1+0 | 2 |
+| Укупно |  | 28 | 30 |  |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е081ММ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E081MM2-2013) | Математика 2 | О | 3+3+0 | 7 |
+| [13Е071ОЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E071OE2-2013) | Основи електротехнике 2 | О | 3+3+0 | 7 |
+| [13Е111П2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E111P2-2013) | Програмирање 2 | О | 3+2+0 | 5 |
+| [13Е071ЛОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E071LOE-2013) | Лабораторијске вежбе из Основа електротехнике | О | 0,5+0+1,5 | 2 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13Е061Ф2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E061F2-2013) | Физика 2 | И | 3+2+0 | 5 |
+| [13Е111ОРТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E111ORT-2013) | Основи рачунарске технике | И | 3+2+0 | 5 |
+| Бирају се два од следећих девет практикума |  |  |  |  |
+| [13Е111ПОТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E111POT-2013) | Практикум из Основа рачунарске технике | И | 0+0+2 | 2 |
+| [13Е081ПМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E081PM2-2013) | Практикум из Математике 2 | И | 1+1+0 | 2 |
+| [13Е041УЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E041UE-2013) | Увод у електронику | И | 1+0+1 | 2 |
+| [13Е081ОПМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E081OPM-2013) | Одабрана поглавља из математике 2 | И | 1+1+0 | 2 |
+| [13Е111ПП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E111PP2-2013) | Практикум из Програмирања 2 | И | 0+0+2 | 2 |
+| [13Е091УМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091UM-2013) | Увод у менаџмент | И | 2+0+0 | 2 |
+| [13Е091ЕЈ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091EJ2-2013) [13Е091РЈ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091RJ2-2013) [13Е091НЈ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091NJ2-2013) [13Е091ФЈ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091FJ2-2013) | Страни језик 2 | И | 2+0+0 | 2 |
+| [13Е071ПE2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E071PE2-2013) | Практикум из Основа електротехнике 2 | И | 1+1+0 | 2 |
+| [13Е061ПФ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E061PF2-2013) | Практикум из Физике 2 | И | 0+0+2 | 2 |
+| Укупно |  | 28 | 30 |  |
+
+### Eлектроникa
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/elektronika
+- Study type: Osnovne akademske studije
+- Sidebar title: 2013
+- Strana header: Eлектроникa
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е042ОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OE-2013) | Основи електронике | О | 3+2+0 | 6 |
+| [13Е042ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042EM-2013) | Електрична мерења | O | 2+0+3 | 5 |
+| [13Е082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2013) | Математика 3 | О | 3+3+0 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2013) | Теорија електричних кола | О | 3+2+0 | 6 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13Е112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OOP-2013) | Објектно-оријентисано програмирање | И | 2+2+1 | 5 |
+| [13Е062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062OFE-2013) | Основи физичке електронике | И | 3+2+0 | 5 |
+| Бира се један од следећих изборних предмета |  |  |  |  |
+| [13E042ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042PSA-2013) | Практикум из софтверских алата у електроници 7) | И | 0+1+1 | 2 |
+| [13E092ЕЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2013) [13E092РЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2013) [13E092НЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2013) [13E092ФЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2013) | Страни језик 3 | И | 2+0+0 | 2 |
+| Укупно |  | 28 | 30 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е042ОАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OAE-2013) | Основи аналогне електронике | O | 3+2+0 | 5 |
+| [13Е042ОДЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042ODE-2013) | Основи дигиталне електронике 6) | O | 3+2+0 | 5 |
+| [13Е042СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042SIS-2013) | Сигнали и системи | O | 3+2+1 | 6 |
+| [13Е042ЛВОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042LVOE-2013) | Лабораторијске вежбе из основа електронике | O | 1+0+2 | 2 |
+| [13Е032ОТЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032OTE-2013) | Основи телекомуникација | O | 3+2+1 | 6 |
+| [13E082ВИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIS-2013) | Вероватноћа и статистика | O | 1+1+0.5 | 3 |
+| Ако је из претходне групе изабран предмет од 3ЕСПБ бира се један од следећих предмета |  |  |  |  |
+| [13E082САО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082SAO-2013) | Сложеност алгоритама и одабране методе оптимизације | И | 1+1+0.5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2013) | Нумеричка математика | И | 1+1+0.5 | 3 |
+| Укупно |  | 30 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E043АЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043AE-2013) | Аналогна електроника | O | 3+2+0 | 5 |
+| [13E043ДЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043DE-2013) | Дигитална електроника | O | 3+2+0 | 5 |
+| [13E043ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043DOS-2013) | Дигитална обрада сигнала | O | 3+1+1 | 6 |
+| [13E043ЛВЕ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043LVE1-2013) | Лабораторијске вежбе из електронике 1 | O | 0+0+2 | 2 |
+| [13E113АОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113AOR-2013) | Архитектура и организација рачунара | O | 3+2+1 | 6 |
+| [13E053ОСУЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053OSUE-2013) | Основи система управљања | O | 3+2+1 | 6 |
+| Укупно |  | 29 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E043ЛВЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043LVE2-2013) | Лабораторијске вежбе из електронике 2 | O | 0+0+2 | 2 |
+| Бирају се четири од следећих изборних предмета (опционо један предмет са листе предмета са других одсека) |  |  |  |  |
+| [13E043ЕЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043EE-2013) | Енергетска електроника | И | 3+1+1 | 6 |
+| [13E043ЛЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043LE-2013) | Линеарна електроника | И | 3+1+1 | 6 |
+| [13E043РЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043RE-2013) | Рачунарска електроника | И | 3+1+1 | 6 |
+| [13E043УПК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043UPK-2013) | Увод у пројектовање интегрисаних кола | И | 3+1+2 | 6 |
+| Листа предмета са других одсека |  |  |  |  |
+| [13E013EМА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EMA-2013) | Електричне машине | И | 3+1+1 | 6 |
+| [13E072ОЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OEM-2013) | Електромагнетика | И | 3+2+0 | 6 |
+| [13E033ОПТЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OPTE-2013) | Одабрана поглавља из телекомуникација 2) | И | 3+1+1 | 6 |
+| [13E112ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OS1-2013) | Оперативни системи 1 | И | 2+2+1 | 6 |
+| [13E112РМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112RM1-2013) | Рачунарске мреже 1 | И | 2+2+1 | 6 |
+| [13E053РА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053RA-2013) | Роботика и аутоматизација | И | 3+1+1 | 6 |
+| [13E063СП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SP-2013) | Сензори и претварачи | И | 3+0+2 | 6 |
+| Бирају се два од следећих изборних предмета |  |  |  |  |
+| [13E043ПКЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043PKE-2013) | Практикум - Компоненте и израда електронских кола | И | 0+1+1 | 2 |
+| [13E043ПИР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043PIR-2013) | Практикум из рачунара | И | 0+1+1 | 2 |
+| [13E092ЕЈ42](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ42-2013) [13E092РЈ42](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ42-2013) [13E092НЈ42](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ42-2013) [13E092ФЈ42](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ42-2013) | Страни језик 4 | И | 2+0+0 | 2 |
+| Укупно |  | 24-25 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бирају се четири од следећих изборних предмета (опционо један предмет са листе предмета са других одсека) |  |  |  |  |
+| [13E044ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044DOS-2013) | Дигитална обрада слике | И | 3+1+1 | 6 |
+| [13E044НРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NRS-2013) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+| [13E044РФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044RFE-2013) | RF електроника | И | 3+1+1 | 6 |
+| [13E044УПВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044UPV-2013) | Увод у пројектовање VLSI система | И | 2+1+2 | 6 |
+| [13Е044АМК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044AMK-2013) | Анализа и моделовање електронских кола употребом VHDL - AMS језика 4) | И | 3+1+1 | 6 |
+| Листа предмета са других одсека |  |  |  |  |
+| [13E112АСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112ASP-2013) | Алгоритми и структуре података | И | 3+2+0 | 6 |
+| [13E113БП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113BP1-2013) | Базе података 1 | И | 2+2+1 | 6 |
+| [13E064БМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064BMT-2013) | Биоматеријали 5) | И | 3+1+1 | 6 |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2013) | Електроакустика | И | 3+1+1 | 6 |
+| [13E114ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IP-2013) | Интернет програмирање | И | 3+1+1 | 6 |
+| [13E074МЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074ME-2013) | Микроталасна електроника | И | 3+1+1 | 6 |
+| [13E073МТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MT-2013) | Микроталасна техника | И | 3+1.5+0.5 | 6 |
+| [13E054НМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054NM-2013) | Неуралне мреже | И | 3+1+1 | 6 |
+| [13E063ОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OE-2013) | Оптоелектроника | И | 3+1+1 | 6 |
+| [13E054ПО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054PO-2013) | Препознавање облика | И | 3+1+1 | 6 |
+| [13E034ТВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TV-2013) | Телевизија | И | 3+1+1 | 6 |
+| Бирају се два од следећих изборних предмета |  |  |  |  |
+| [13E044ПВИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044PVI-2013) | Практикум из виртуелне инструментације | И | 1+1+0 | 2 |
+| [13E044ТД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044TD-2013) | Техничка документација 3) | И | 0+2+0 | 2 |
+| [13E044ППТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044PPT-2013) | Практикум - Примена TCP/IP технологија у наменским системима 1) | И | 0+1+1 | 2 |
+| [13E092ЕЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ32-2013) [13E092РЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ32-2013) [13E092НЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ32-2013) [13E092ФЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ32-2013) | Страни језик 3 | И | 2+0+0 | 2 |
+| [13E044ПР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044PR-2013) | Пројекат | О | 0+0+2 | 2 |
+| Укупно |  | 26 | 30 |  |
+|  |  |  |  |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бирају се три од следећих изборних предмета (опционо један предмет са листе предмета са других одсека) |  |  |  |  |
+| [13E044ЕМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044EMS-2013) | Електронски мерни системи | И | 2+1+2 | 6 |
+| [13E044ИРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044IRS-2013) | Интегрисани рачунарски системи | И | 3+1+1 | 6 |
+| [13E044СРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044SRV-2013) | Системи у реалном времену | И | 3+1+1 | 6 |
+| [13Е044ВХД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044VHD-2013) | Верификација хардвера у дигиталним интегрисаним системима 8) | И | 2+1+2 | 6 |
+| [13Е044ХСОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044HSOS-2013) | Хардверско - софтверска обрада сигнала 4) | И | 3+1+1 | 6 |
+| Листа предмета са других одсека |  |  |  |  |
+| [13E034АС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AS-2013) | Аудио системи | И | 3+1+1 | 6 |
+| [13E013ДПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013DPP-2013) | Дигитално управљање претварачима и погонима | И | 2+1+1 | 6 |
+| [13E054УИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054UIP-2013) | Управљање индустријским процесима | И | 3+1+1 | 6 |
+| [13E063ЕОИЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063EOIE-2013) | Еколошки/обновљиви извори енергије | И | 3+2+0 | 6 |
+| [13E074ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074EK-2013) | Електромагнетска компатибилност | И | 3+1+1 | 6 |
+| [13E064МЕМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064MEMS-2013) | Микроелектромеханички системи | И | 3+2+0 | 6 |
+| [13E113ЗП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113ZP-2013) | Заштита података | И | 2+2+1 | 6 |
+|  | Изборни предмет из 6. семестра Модула Електроника | И | 3+1+1 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 14-15 | 30 |  |
+
+### Енергетика
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/energetika
+- Study type: Osnovne akademske studije
+- Sidebar title: 2013
+- Strana header: Енергетика
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2013) | Математика 3 | О | 3+3+0 | 6 |
+| [13Е072ГЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072GEM-2013) | Електромагнетика | О | 3+2+0 | 5 |
+| [13Е072ГТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072GTEK-2013) | Теорија електричних кола | О | 3+2+0 | 5 |
+| [13Е022МЕХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E022MEH-2013) | Механика | О | 3+2+0 | 5 |
+| [13Е042ЕЕГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042EEG-2013) | Елементи електронике | О | 3+2+1 | 6 |
+| Бира се један од понуђених практикума или страни језик |  |  |  |  |
+| [13Е072ГПРК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072GPRK-2013) | Практикум из рачунарске анализе кола | И | 1+0+1 | 3 |
+| [13Е082РПМ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082RPM3-2013) | Рачунарски практикум из математике 3 | И | 1+0+1 | 3 |
+| [13Е062ПФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062PFE-2013) | Примењена физика у електроенергетици 9) | И | 2+1+0 | 3 |
+|  | Страни језик 3 | И | 2+0+0 | 3 |
+| Укупно |  | 29 | 30 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е052СИСГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SISG-2013) | Сигнали и системи | О | 3+2+1 | 6 |
+| [13Е022ЕМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E022EM1-2013) | Електрична мерења 1 | О | 2+0+3 | 5 |
+| [13Е012ГЕМА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E012GEMA-2013) | Електричне машине | О | 3+1+1 | 5 |
+| [13Е012ЕИНН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E012EINN-2013) | Електроенергетске инсталације ниског напона | О | 2,5+2+0,5 | 5 |
+| Бира се укупно три из следеће групе предмета и практикума |  |  |  |  |
+| [13Е082САО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082SAO-2013) | Сложеност алгоритама и одабране методе оптимизације | И | 1+1+0,5 | 3 |
+| [13Е082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2013) | Диференцијалне једначине | И | 1+1+0,5 | 3 |
+| [13Е082ЈМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082JMF-2013) | Једначине математичке физике | И | 1+1+0,5 | 3 |
+| [13Е082ВИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIS-2013) | Вероватноћа и статистика | И | 1+1+0,5 | 3 |
+| [13Е082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2013) | Нумеричка математика | И | 1+1+0,5 | 3 |
+| [13Е082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2013) | Одабрана поглавља из реалне и комплексне анализе | И | 1+1+0,5 | 3 |
+| [13Е022ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E022PSA-2013) | Практикум из софтверских алата у електроенергетици | И | 0+0+2 | 3 |
+|  | Страни језик 4 | И | 2+0+0 | 3 |
+| Укупно |  | 27,5-28,5 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е013АСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013ASM-2013) | Асинхроне машине | O | 2+1+1 | 5 |
+| [13Е013ЕНТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013ENT-2013) | Енергетски трансформатори | O | 3+1+0,5 | 5 |
+| [13Е023ЕЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E023EES-2013) | Елементи електроенергетских система | O | 2+2+0 | 5 |
+| [13Е053САУГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SAUG-2013) | Системи аутоматског управљања | O | 3+1+0 | 5 |
+| [13Е013ЕП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EP1-2013) | Енергетски претварачи 1 | O | 2+2+0,5 | 5 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 2+2+0 | 5 |
+| Укупно |  | 25 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е023АЕ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E023AE1-2013) | Анализа електроенергетских система 1 | O | 2+2+0 | 5 |
+| [13Е013ЕМП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EMP-2013) | Електромоторни погони | O | 2+1,5+0,5 | 5 |
+| [13Е023ТВН1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E023TVN1-2013) | Техника високог напона 1 | O | 2+1+1 | 5 |
+| [13Е013СИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013SIM-2013) | Синхроне машине | O | 2+1+1 | 5 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 2+2+0 | 5 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 2+2+0 | 5 |
+| Укупно |  | 24 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е024РПОГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024RPOG-2013) | Разводна постројења 6) | O | 2+2+0,5 | 5 |
+| [13Е024ДИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024DIM-2013) | Дистрибутивне и индустријске мреже | O | 3+1+0 | 5 |
+| [13Е014ТПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014TPE-2013) | Термички процеси у електроенергетици | O | 2+1+1 | 5 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 2+2+0 | 5 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 2+2+0 | 5 |
+|  | Практикум са листе 4 или 5 или Страни језик 3 1) | И | 0+2+0 2+0+0 | 3 3 |
+|  | Пројекат са листе 6 или 7 | И | 0+0+2 | 2 |
+| Укупно |  | 24 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е024РЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024RZ-2022) | Релејна заштита 10) | О | 2+1+2 | 5 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 2+2+0 | 5 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 2+2+0 | 5 |
+|  | Практикум или Страни језик 4 2) | И | 0+2+0/2+0+0 | 3/3 |
+|  | Стручна пракса | О |  | 2 |
+|  | Завршни рад | О |  | 10 |
+| Укупно |  | 14 | 30 |  |
+
+#### Table 4
+
+| Листа 1: Изборни предмети Катедре за електроенергетске системе Напомена: морају да се изаберу најмање 2 предмета са ове листе |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13Е024АЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024AE2-2013) | Анализа електроенергетских система 2 | Н | 2+2+0 | 5 |
+| [13Е024ТВН2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024TVN2-2013) | Техника високог напона 2 | Н | 2+1+1 | 5 |
+| [13Е023ЕМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E023EM2-2013) | Електрична мерења 2 | Н | 2+0+2 | 5 |
+| [13Е024ЕМН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024EMN-2013) | Електрична мерења неелектричних величина | П | 2+2+0 | 5 |
+| [13Е023ОИЕГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E023OIEG-2013) | Обновљиви извори енергије 6) | П | 2+2+0,5 | 5 |
+| [13Е024КЕЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024KEE-2013) | Квалитет електричне енергије | П | 2+1+1 | 5 |
+| [13Е023ЕЛЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E023ELE-2013) | Електране | П | 2+2+0 | 5 |
+| [13Е024ЕЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024EES-2013) | Експлоатација електроенергетских система | Н | 2+2+0 | 5 |
+| [13Е024ТЕД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024TED-2013) | Тржиште електричне енергије и дерегулација | П | 3+1+0 | 5 |
+| [13Е024ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PPR-2013) | Пројектовање помоћу рачунара у електронергетици | П | 2+1+1 | 5 |
+| [13Е023ОПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E023OPE-2013) | Општа енергетика 4) | Н | 3+1+0 | 5 |
+| [13Е024ВНО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024VNO-2013) | Високонапонска опрема | П | 2+2+0 | 5 |
+
+#### Table 5
+
+| Листа 2: Изборни предмети Катедре за енергетске претвараче и погоне Напомена: морају да се изаберу најмање 2 предмета са ове листе. |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13Е013ЕЛО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013ELO-2013) | Електрично осветљење | Н | 2+2+0 | 5 |
+| [13Е013ЕИ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EI2-2013) | Електричне инсталације ниског напона 2 | Н | 2+2+0,5 | 5 |
+| [13Е013ВМП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013VMP-2013) | Вишемоторни погони | П | 2+2+0 | 5 |
+| [13Е013РЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013REP-2013) | Регулација електромоторних погона | Н | 2+1,5+0,5 | 5 |
+| [13Е013ЕП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EP2-2013) | Енергетски претварачи 2 | П | 2+2+0,5 | 5 |
+| [13Е013УЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013UEP-2013) | Управљање енергетским претварачима 8) | Н | 2+1+1 | 5 |
+| [13Е013ГДПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013GDPP-2013) | Дигитално управљање претварачима и погонима | П | 2+1+1 | 5 |
+| [13Е013ЕВО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EVO-2013) | Електрична возила | Н | 2,5+1+0,5 | 5 |
+| [13Е013ЗЗЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013ZZE-2013) | Загревање и заштита електричних машина 7) | Н | 3+1+0 | 5 |
+| [13Е013ИЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013IEM-2013) | Испитивање електричних машина | П | 2+0+2 | 5 |
+| [13Е013ЕМЈС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EMJS-2013) | Електричне машине за једносмерну струју | Н | 2+1+1 | 5 |
+| [13Е013СЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013SEI-2013) | Специјалне електричне инсталације | П | 2+1+1 | 5 |
+| [13E013ЕФТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EFT-2013) | Енергетски ефикасни електротермички процеси | П | 2+1+1 | 5 |
+| [13Е013ПКО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013PKO-2013) | Претварачка кола за обновљиве изворе енергије | П | 2+2+0 | 5 |
+| [13Е013САЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013SAE-2013) | Софтверски алати у електроенергетици 3) | Н | 2+2+0 | 5 |
+| [13Е013ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013OPI-2013) | Општи инжењеринг 4*) | П | 2+2+0 | 5 |
+
+#### Table 6
+
+| Листа 3: Изборни предмети са осталих модула ЕТФ-а Напомена: са ове листе могуће је изабрати највише 2 предметa. |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13Е112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2013) | Објектно-оријентисано програмирање 1 | Н | 2+2+1 | 6 |
+| [13Е042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2013) | Основи дигиталне електронике 11) | Н | 3+1+1 | 6 |
+| [13Е053РА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053RA-2013) | Роботика и аутоматизација | П | 3+1+1 | 6 |
+| [13Е033ОТГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OTG-2013) | Основи телекомуникација 11) | П | 3+1+0 | 5 |
+| [13Е054УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054URV-2013) | Управљање у реалном времену | Н | 3+1+1 | 6 |
+| [13Е063ГМУЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063GMUE-2013) | Материјали у електроенергетици 5) | П | 3+1+1 | 5 |
+
+#### Table 7
+
+| Листа 4: Практикуми Катедре за електроенергетске системе Сви практикуми имају по 2 часа. |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Практикум | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13Е024ПЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PES-2013) | Практикум из елемената електроенергетских система | Н | 0+1+1 | 3 |
+| [13Е022ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E022PSA-2013) | Практикум из софтверских алата у електроенергетици * | Н | 0+0+2 | 3 |
+| [13Е024ПАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PAE-2013) | Практикум из анализе електроенергетских система | Н | 0+1+1 | 3 |
+| [13Е024ПЛВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PLV-2013) | Практикум - Лабораторијске вежбе из електроенергетских система | П | 0+0+2 | 3 |
+| * Практикум из софтверских алата у електроенергетици може се изабрати уколико није изабран у 4. семестру. |  |  |  |  |
+
+#### Table 8
+
+| Листа 5: Практикуми Катедре за енергетске претвараче и погоне Сви практикуми имају по 2 часа. |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Практикум | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13Е014ПЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PEP-2013) | Практикум из електромоторних погона | Н | 0+0+2 | 3 |
+| [13Е014ПРЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PREP-2013) | Практикум из регулације електромоторних погона | П | 0+0+2 | 3 |
+| [13Е013ПДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013PDS-2013) | Практикум из дигиталних сигналних процесора | Н | 0+0+2 | 3 |
+
+#### Table 9
+
+| Листа 6: Пројекти Катедре за електроенергетске системе |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Пројекат | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13Е024ПРРП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PRRP-2013) | Пројекат из разводних постројења | Н | 0+0+2 | 2 |
+| [13Е024ПРРЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PRRZ-2013) | Пројекат из релејне заштите | Н | 0+0+2 | 2 |
+| [13Е024ПРПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PRPP-2013) | Пројекат из пројектовања помоћу рачунара у електроенергетици | Н | 0+0+2 | 2 |
+| [13Е024ПРТВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PRTV-2013) | Пројекат из технике високог напона | Н | 0+0+2 | 2 |
+
+#### Table 10
+
+| Листа 7: Пројекти Катедре за енергетске претвараче и погоне |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Пројекат | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13Е014ПРЕТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PRET-2013) | Пројекат из енергетских трансформатора | Н | 0+0+2 | 2 |
+| [13Е014ПРЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PREI-2013) | Пројекат из електричних инсталација | Н | 0+0+2 | 2 |
+| [13Е014ПРПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PRPE-2013) | Пројекат из електромоторних погона | Н | 0+0+2 | 2 |
+| [13Е014ПРСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PRSM-2013) | Пројекат из синхроних машина | Н | 0+0+2 | 2 |
+| [13Е014ПРЕН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PREN-2013) | Пројекат из енергетских претварача | Н | 0+0+2 | 2 |
+| [13Е014ПРУП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PRUP-2013) | Пројекат из дигиталног управљања претварачима и погонима | Н | 0+0+2 | 2 |
+
+### Рачунарска техника и информатика
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/racunarska-tehnika-i-informatika
+- Study type: Osnovne akademske studije
+- Sidebar title: 2013
+- Strana header: Рачунарска техника и информатика
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E112АСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112ASP-2013) | Алгоритми и структуре података | O | 3+2+0 | 6 |
+| [13E082НАД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NAD-2013) | Нумеричка анализа и дискретна математика | O | 2+2+1 | 6 |
+| [13E112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2013) | Објектно-оријентисано програмирање 1 | O | 2+2+1 | 6 |
+| [13E112ОРТ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112ORT2-2013) | Основи рачунарске технике 2 | O | 2+2+1 | 6 |
+| [13E052СИСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SISR-2013) | Сигнали и системи | О | 3+1+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E112АР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112AR-2013) | Архитектура рачунара | O | 2+2+1 | 6 |
+| [13E112ОО2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO2-2013) | Објектно-оријентисано програмирање 2 | O | 2+2+1 | 6 |
+| [13E112ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OS1-2013) | Оперативни системи 1 | O | 2+2+1 | 6 |
+| [13E112РМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112RM1-2013) | Рачунарске мреже 1 | O | 2+2+1 | 6 |
+| Бира се један од следећа два предмета |  |  |  |  |
+| [13E082ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VS-2013) | Вероватноћа и статистика | И | 2+2+1 | 6 |
+| [13E082ВИСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VISR-2013) | Вероватноћа и статистика | И | 1+1+0.5 | 3 |
+| Ако се из претходне групе изабере предмет од 3 ЕСПБ, онда се мора изабрати и један практикум/предмет из следеће групе. |  |  |  |  |
+| [13E112ПОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112POS-2013) | Практикум из Оперативних система | И | 0+1+0.5 | 3 |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2013) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2013) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2013) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2013) | Страни језик 4 | И | 2+0+0 | 3 |
+| Укупно |  | 24-25 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E113АОР1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113AOR1-2013) | Архитектура и организација рачунара 1 | O | 2+2+1 | 6 |
+| [13E113БП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113BP1-2013) | Базе података 1 | O | 2+2+1 | 6 |
+| [13E113КДП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113KDP-2013) | Конкурентно и дистрибуирано програмирање | O | 2+2+1 | 6 |
+| Бира се један или два од следећа пет изборна предмета |  |  |  |  |
+| [13E113ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113OS2-2013) | Оперативни системи 2 | И | 2+2+1 | 6 |
+| [13E073РТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073RTEK-2013) | Теорија електричних кола | И | 2+2+1 | 6 |
+| [13E043ОАЕР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043OAER-2013) | Основи аналогне електронике | И | 2+2+1 | 6 |
+| [13E043ЕМР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043EMR-2013) | Електрична мерења 2) | И | 2+0+3 | 6 |
+| [13E053МСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053MSR-2013) | Мерни системи у рачунарству 4) | И | 2+2+1 | 6 |
+| Уколико се из претходне групе изабере само један предмет онда се бирају два од следећа три предмета |  |  |  |  |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2013) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2013) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2013) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2013) | Страни језик 3 | И | 2+0+0 | 3 |
+| [13E083ПРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E083PRM-2013) | Практикум из рачунарских алата у математици 1) | И | 1+0+1 | 3 |
+| [13E113ППК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113PPK-2013) | Практикум из пословне комуникације и презентације | И | 1+1+0.5 | 3 |
+| Укупно |  | 24-25 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E113ПИА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113PIA-2013) | Програмирање интернет апликација | O | 2+2+1 | 6 |
+| [13E113ЗП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113ZP-2013) | Заштита података | O | 2+2+1 | 6 |
+| [13E113СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113SS-2013) | Системски софтвер | O | 2+2+1 | 6 |
+| [13E033ОТР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OTR-2013) | Основи телекомуникација | O | 2+2+1 | 6 |
+| Бира се један од следећих седам изборна предмета |  |  |  |  |
+| [13E113АОР2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113AOR2-2013) | Архитектура и организација рачунара 2 | И | 2+2+1 | 6 |
+| [13E113УСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113USP-2013) | Управљање софтверским пројектима | И | 2+2+1 | 6 |
+| [13E043ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043OD-2013) | Основи дигиталне електронике | И | 2+2+1 | 6 |
+| [13E053ДОСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053DOSR-2013) | Дигитална обрада сигнала | И | 2+2+1 | 6 |
+| [13E033ПМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033PMT-2013) | Принципи модерних телекомуникација | И | 2+2+1 | 6 |
+| [13E072ОЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OEM-2013) | Електромагнетика | И | 3+2+0 | 6 |
+| [13E073АЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AEF-2013) | Аналогни електрични филтри 3) | И | 2+2+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E114МИПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114MIPS-2013) | Микропроцесорски системи | O | 2+2+1 | 6 |
+| [13E114ПП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PP1-2013) | Програмски преводиоци 1 | O | 2+2+1 | 6 |
+| [13E114ВЛСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114VLSI-2013) | Рачунарски VLSI системи | О | 2+2+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+| Бирају се два од следећа три изборна предмет а |  |  |  |  |
+| [13E114РМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114RM2-2013) | Рачунарске мреже 2 | И | 2+2+1 | 6 |
+| [13E114ПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PS-2013) | Пројектовање софтвера | И | 2+2+1 | 6 |
+| [13E114ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IS-2013) | Интелигентни системи | И | 2+2+1 | 6 |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E114ПРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PRS-2013) | Перформансе рачунарских система | O | 2+2+1 | 6 |
+| Бираjу се два од следећих седам изборних предмета |  |  |  |  |
+| [13E114БП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114BP2-2013) | Базе података 2 | И | 2+2+1 | 6 |
+| [13E114ИС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IS1-2013) | Информациони системи 1 | И | 2+2+1 | 6 |
+| [13E114ИЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IEP-2013) | Инфраструктура за електронско пословање | И | 2+2+1 | 6 |
+| [13E114МУПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114MUPS-2013) | Мултипроцесорски системи | И | 2+2+1 | 6 |
+| [13E114ПАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PAR-2013) | Паралелни рачунарски системи 5) | И | 2+2+1 | 6 |
+| [13E114РГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114RG-2013) | Рачунарска графика | И | 2+2+1 | 6 |
+| [13E114САБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114SAB-2013) | Софтверски алати база података | И | 2+2+1 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+### Сигнали и системи
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/signali-i-sistemi
+- Study type: Osnovne akademske studije
+- Sidebar title: 2013
+- Strana header: Сигнали и системи
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2013) | Математика 3 | O | 3+3+0 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2013) | Теорија електричних кола | O | 3+2+0 | 6 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E042ОЕЛ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OEL-2013) | Основи електронике | И | 3+2+1 | 5 |
+| [13E042EE](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042EE-2013) | Елементи електронике | И | 3+2+1 | 5 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2013) | Објектно оријентисано програмирање 1 | И | 2+2+1 | 6 |
+| [13E112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OOP-2013) | Објектно оријентисано програмирање | И | 2+2+1 | 5 |
+| Бира се један од пет изборних предмета |  |  |  |  |
+| [13E062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062OFE-2013) | Основи физичке електронике | И | 3+2+0 | 5 |
+| [13E052ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052EM-2013) | Електрична мерења | И | 2+0+3 | 5 |
+| [13E052MEX](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052MEH-2013) | Механика 3) | И | 3+2+0 | 5 |
+| [13E112ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OR-2013) | Организација рачунара | И | 2+2+1 | 5 |
+| [13E082НАДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NADS-2013) | Нумеричка анализа и дискретна математика | И | 2+2+1 | 5 |
+| Бира се један од следећа четири практикума |  |  |  |  |
+| [13E072ПРК3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072PRK3-2013) | Практикум из рачунарске анализе кола | И | 1+0+1 | 3 |
+| [13E082РПМ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082RPM3-2013) | Рачунарски практикум из математике 3 | И | 1+0+1 | 3 |
+| [13E112ПОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112POR-2013) | Практикум из организације рачунара | И | 0+0+2 | 3 |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2013) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2013) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2013) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2013) | Страни језик 3 | И | 2+0+0 | 3 |
+| Укупно |  | 29 | 30-31 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SIS-2013) | Сигнали и системи | O | 3+1+1 | 6 |
+| [13E032ОТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032OTS-2013) | Основи телекомуникација | O | 3+2+1 | 6 |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2013) | Основи дигиталне електронике | O | 3+1+1 | 6 |
+| Бирају се од два до три обавезна од следећих шест предмета |  |  |  |  |
+| [13E082САО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082SAO-2013) | Сложеност алгоритама и одабране методе оптимизације | И | 1+1+0.5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2013) | Диференцијалне једначине | И | 1+1+0.5 | 3 |
+| [13E082ЈМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082JMF-2013) | Једначине математичке физике | И | 1+1+0.5 | 3 |
+| [13E082ВИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIS-2013) | Вероватноћа и статистика | И | 1+1+0.5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2013) | Нумеричка математика | И | 1+1+0.5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2013) | Одабрана поглавља из реалне и комплексне анализе | И | 1+1+0.5 | 3 |
+| Ако су из претходне групе изабрана два предмета из следеће се може бирати један предмет или два практикума, а ако су из претходне групе изабрана три предмета из следеће се може бирати један практикум |  |  |  |  |
+| [13E072ОЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OEM-2013) | Електромагнетика | И | 3+2+0 | 6 |
+| [13E082ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VS-2013) | Вероватноћа и статистика | И | 2+2+1 | 6 |
+| [13E112ОО2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO2-2013) | Објектно-оријентисано програмирање 2 | И | 2+2+1 | 6 |
+| [13E052ДМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052DMS-2013) | Динамика механичких система 4) | И | 2+2+0 | 6 |
+| [13E112СМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112SMS-2013) | Системски софтвер 12) | И | 2+2+1 | 6 |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2013) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2013) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2013) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2013) | Страни језик 4 | И | 2+0+0 | 3 |
+| [13E052ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052PSA-2013) | Практикум из софтверских алата | И | 1+0+1.5 | 3 |
+| [13E052ПМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052PMS-2013) | Практикум из мерно-аквизиционих система 6) | И | 0+1+2 | 3 |
+| Укупно |  | 24.5-25 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E053САУ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SAU1-2013) | Системи аутоматског управљања 1 | O | 3+2+1 | 6 |
+| [13E053ССЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SSE-2013) | Стохастички системи и естимација | O | 3+2+0 | 6 |
+| [13E053ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053DOS-2013) | Дигитална обрада сигнала | O | 3+1+1 | 6 |
+| Из следеће групе се бирају 2 предмета или 1 предмет и 2 практикума у укупном износу од 12 кредита |  |  |  |  |
+| [13E053СА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SA-2013) | Сензори и актуатори | И | 3+1+1 | 6 |
+| [13E053ХПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053HPS-2013) | Хидраулички и пнеуматички системи | И | 3+1+1 | 6 |
+| [13E053ССО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SSO-2013) | Системи и сигнали у организму | И | 3+1+1 | 6 |
+| [13E013ПДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013PDS-2013) | Практикум из дигиталних сигналних процесора | И | 0+0+2 | 3 |
+| [13E083МОАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E083MOAR-2013) | Математичке основе аутоматског резоновања | И | 1+1+0.5 | 3 |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2013) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2013) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2013) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2013) | Страни језик 3 1) | И | 2+0+0 | 3 |
+| [13E053ПДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053PDO-2013) | Практикум из дигиталне обраде сигнала | И | 0+1+1 | 3 |
+|  | Било који предмет или практикуми са листе овог модула у трећем семестру у укупном збиру од 6 кредита | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе других модула у трећем или петом семестру у укупном збиру од 6 кредита | И | 3+1+1 | 6 |
+| Укупно |  | 25-26 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E053САУ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SAU2-2013) | Системи аутоматског управљања 2 | О | 3+2+1 | 6 |
+| Бира се један од два предмета 7) |  |  |  |  |
+| [13E013EМА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EMA-2013) | Електричне машине 7) | И | 3+1+1 | 6 |
+| [13E013УПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013UPE-2013) | Управљање електромоторним погонима 7) | И | 3+1+1 | 6 |
+| Бирају се предмети или практикуми из следеће групе у укупном збиру од 18 ЕСПБ |  |  |  |  |
+| [13E053САС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SAS-2013) | Спектрална анализа сигнала | И | 3+1+1 | 6 |
+| [13E053НСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053NSU-2013) | Нелинеарни системи управљања | И | 3+1+1 | 6 |
+| [13E053МИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053MIP-2013) | Моделирање и идентификација процеса | И | 3+1+1 | 6 |
+| [13E053РА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053RA-2013) | Роботика и аутоматизација | И | 3+1+1 | 6 |
+| [13E053АЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053AES-2013) | Аквизиција електрофизиолошких сигнала | И | 3+1+1 | 6 |
+| [13E063МФМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063MFMS-2013) | Методе формирања медицинске слике | И | 3+2+0 | 6 |
+| [13E053ПРП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053PRP-2013) | Практикум: Рачунарско пројектовање механичких система 4) | И | 0+1+1 | 3 |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2013) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2013) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2013) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2013) | Страни језик 4 2) | И | 2+0+0 | 3 |
+|  | Било који предмет или практикуми са листе овог модула у четвртом семестру у укупном збиру од 6 кредита | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе других модула у четвртом или шестом семестру у укупном збиру од 6 кредита | И | 3+1+1 | 6 |
+| Укупно |  | 24-26 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E054УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054URV-2013) | Управљање у реалном времену | О | 3+1+1 | 6 |
+| Бирају се четири од следећих предмета |  |  |  |  |
+| [13E054НМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054NM-2013) | Неуралне мреже | И | 3+1+1 | 6 |
+| [13E054ПО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054PO-2013) | Препознавање облика | И | 3+1+1 | 6 |
+| [13E054ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054DOS-2013) | Дигитална обрада слике | И | 3+1+1 | 6 |
+| [13E054АВО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054AVO-2013) | Аутоматско вођење објеката у простору 10) | И | 3+1+1 | 6 |
+| [13E054ЦНЦ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054CNC-2013) | ЦНЦ системи и флексибилна аутоматизација | И | 3+1+1 | 6 |
+| [13E054СУР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054SUR-2013) | Сензори у роботици 4) | И | 3+1+1 | 6 |
+| [13E054МАМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MAM-2013) | Методе анализе медицинске слике 5) | И | 3+2+0 | 6 |
+| [13E044НСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NSS-2013) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+| [13E114ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IP-2013) | Интернет програмирање | И | 2+2+1 | 6 |
+| [13E054НС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054NS2-2013) | Нелинеарни системи управљања 2 | И | 3+2+0 | 6 |
+| [13E054МАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MAS-2013) | Методе анализе електрофизиолошких сигнала | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе овог модула у петом семестру у укупном збиру од 6 кредита | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе других модула у петом или седмом семестру у укупном збиру од 6 кредита | И | 3+1+1 | 6 |
+| Укупно |  | 24-25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бирају се три из листе понуђених предмета |  |  |  |  |
+| [13E054КЛИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054KLIN-2020) | Клиничко инжењерство 11) | И | 3+1+1 | 6 |
+| [13E054МСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MSU-2013) | Мултиваријабилни системи управљања | И | 3+2+0 | 6 |
+| [13E054ВИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054VI-2013) | Вештачка интелигенција | И | 3+1+1 | 6 |
+| [13E054ОПГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054OPG-2013) | Обрада и препознавање говора | И | 3+1+1 | 6 |
+| [13E054АСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054ASS-2013) | Адаптивни системи за управљање и обраду сигнала 9) | И | 3+1+1 | 6 |
+| [13E054ТРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054TRS-2013) | Теорија роботских система | И | 3+2+0 | 6 |
+| [13E013ДПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013DPP-2013) | Дигитално управљање претварачима и погонима | И | 2+1+1 | 6 |
+| [13E054ПРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054PRV-2013) | Програмирање у реалном времену | И | 2+2+1 | 6 |
+| [13E054УИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054UIP-2013) | Управљање индустријским процесима | И | 3+1+1 | 6 |
+| [13Е054АБС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054ABS-2013) | Анализа биомедицинске слике 8) | И | 3+0+2 | 6 |
+|  | Било који предмет или практикуми са листе овог модула у шестом семестру у укупном збиру од 6 кредита | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе других модула у шестом или осмом семестру у укупном збиру од 6 кредита | И | 3+1+1 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 13-15 | 30 |  |
+
+### Телекомуникације и информационе технологије
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/telekomunikacije-i-informacione-tehnologije
+- Study type: Osnovne akademske studije
+- Sidebar title: 2013
+- Strana header: Телекомуникације и информационе технологије
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2013) | Математика 3 | O | 3+3+0 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2013) | Теорија електричних кола | O | 3+2+0 | 6 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E042EE](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042EE-2013) | Елементи електронике | И | 3+2+1 | 5 |
+| [13E042ОЕЛ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OEL-2013) | Основи електронике | И | 3+2+1 | 5 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OOP-2013) | Објектно-оријентисано програмирање | И | 2+2+1 | 5 |
+| [13E112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2013) | Објектно-оријентисано програмирање 1 | И | 2+2+1 | 6 |
+| Бира се један од следећа три изборна предмета |  |  |  |  |
+| [13E112ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OR-2013) | Организација рачунара | И | 2+2+1 | 5 |
+| [13E062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062OFE-2013) | Основи физичке електронике | И | 3+2+0 | 5 |
+| [13E032ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032EM-2013) | Електрична мерења | И | 2+0+3 | 5 |
+| Бира се један од следећа четири практикума |  |  |  |  |
+| [13E072ПРК3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072PRK3-2013) | Практикум из рачунарске анализе кола | И | 1+0+1 | 3 |
+| [13E082РПМ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082RPM3-2013) | Рачунарски практикум из математике 3 | И | 1+0+1 | 3 |
+| [13E112ПОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112POR-2013) | Практикум из организације рачунара | И | 0+0+2 | 3 |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2013) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2013) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2013) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2013) | Страни језик 3 | И | 2+0+0 | 3 |
+| Укупно |  | 29 | 30-31 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E072ТЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072TEM-2013) | Електромагнетика | O | 3+2+0 | 6 |
+| [13E052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SIS-2013) | Сигнали и системи | O | 3+1+1 | 6 |
+| [13E032Т1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032T1-2013) | Телекомуникације 1 | O | 3+2+1 | 6 |
+| [13E082ВИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIST-2013) | Вероватноћа и статистика | O | 1+1+0,5 | 3 |
+| Бира се један обавезно, а максимално два од следећа четири предмета |  |  |  |  |
+| [13E082ЕДМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082EDMT-2013) | Елементи дискретне математике у телекомуникацијама * | И | 1+1+0,5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2013) | Диференцијалне једначине # | И | 1+1+0,5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2013) | Нумеричка математика * | И | 1+1+0,5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2013) | Одабрана поглавља из реалне и комплексне анализе * | И | 1+1+0,5 | 3 |
+| * Означени предмети су корисни за студенте који упишу смер Системско инжењерство, Радио комуникације, Аудио и видео комуникације # Означени предмети су корисни за студенте који упишу смер Микроталасна техника Ако се из претходне групе изабере један предмет, онда се морају изабрати два практикума из следеће групе. Ако се из претходне групе изаберу два предмета, онда се мора изабрати један практикум из следеће групе. |  |  |  |  |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2013) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2013) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2013) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2013) | Страни језик 4 | И | 2+0+0 | 3 |
+| [13E032ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032PSA-2013) | Практикум софтверски алати | И | 1+0+1,5 | 3 |
+| Укупно |  | 25,5-26 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS1-2013) | Обрада сигнала 1 | O | 3+1+1 | 6 |
+| [13E033Т2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T2-2013) | Телекомуникације 2 | O | 3+2+1 | 6 |
+| [13E033УТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033UTM-2013) | Увод у телекомуникационе мреже | O | 3+1+1 | 6 |
+| [13E033ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OPI-2013) | Основе и примена Интернета | O | 3+2+0 | 6 |
+| Бира се један од следећа три изборна предмета |  |  |  |  |
+| [13E053ОСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053OSU-2013) | Основи система управљања | И | 3+1+1 | 6 |
+| [13E033ТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TM-2013) | Телекомуникациона мерења | И | 3+1+1 | 6 |
+| [13E073МТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MT-2013) | Микроталасна техника | И | 3+1,5+0,5 | 6 |
+| Укупно |  | 26 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033Т3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T3-2013) | Телекомуникације 3 | O | 3+1+1 | 6 |
+| [13E033РК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033RK-2013) | Радио комуникације | O | 3+1+1 | 6 |
+| [13E033ТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TS-2013) | Телекомуникациони системи | O | 3+1+1 | 6 |
+| [13E063ОТК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OTK-2013) | Оптоелектронске телекомуникационе компоненте | O | 3+1+1 | 6 |
+| Бира се један од следећих осам изборних предмета |  |  |  |  |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2013) | Основи дигиталне електронике | И | 3+1+1 | 6 |
+| [13E113БП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113BP-2013) | Базе података | И | 2+2+1 | 6 |
+| [13E033ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS2-2013) | Обрада сигнала 2 | И | 3+1+1 | 6 |
+| [13E033ОГК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OGK-2013) | Основи говорне комуникације 4) | И | 3+1+1 | 6 |
+| [13E033АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033AI-2013) | Архитектура интернета 6) | И | 3+1+1 | 6 |
+| [13E07АЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AEF-2013) | Аналогни електрични филтери 7) | И | 2+2+1 | 6 |
+| [13E073МПК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MPK-2013) | Микроталасна пасивна кола | И | 3+1+1 | 6 |
+| [13E073АП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AP-2013) | Aнтене и простирање | И | 3+1+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E034РС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RS-2013) | Радио системи | О | 3+1+1 | 6 |
+| [13E034МАП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MAP-2013) | Мрежна администрација и програмирање | О | 3+1+1 | 6 |
+| [13E034КС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034KS-2013) | Комутациони системи | О | 3+1+1 | 6 |
+| [13E034ТКМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TKM-2013) | Телекомуникационе мреже за приступ 3) | О | 3+2+0 | 6 |
+| Бираjу се два од следећих једанаест изборних предмета |  |  |  |  |
+| [13E034АОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AOS-2013) | Aдаптивна обрада сигнала | И | 3+1+1 | 6 |
+| [13E034ТВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TV-2013) | Телевизија | И | 3+1+1 | 6 |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2013) | Eлектроакустика | И | 3+1+1 | 6 |
+| [13E034УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034URV-2013) | Усмерене радио везе | И | 3+1+1 | 6 |
+| [13E034СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SS-2013) | Сателитски системи 1) | И | 3+1+1 | 6 |
+| [13E034Р](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034R-2013) | Радио технологије | И | 3+1+1 | 6 |
+| [13E034СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SOS-2013) | Системи за обраду слике | И | 3+1+1 | 6 |
+| [13E034ИПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IPT-2013) | ИП телефонија 5) | И | 3+1+1 | 6 |
+| [13E064ОТП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OTP-2013) | Оптоелектронски телекомуникациони подсистеми | И | 3+2+0 | 6 |
+| [13E034ТКМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TKM-2013) | Телекомуникационе мреже за приступ 3) | И | 3+2+0 | 6 |
+| [13Е034ИoТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IoT-2013) | IoT мреже 8) | И | 3+1+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E034ТИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TIK-2013) | Теорија информација и кодови у телекомуникацијама | О | 3+1+1 | 6 |
+| Бираjу се два од следећих осам изборних предмета |  |  |  |  |
+| [13E034ЈМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034JMS-2013) | Јавни мобилни системи | И | 3+1+1 | 6 |
+| [13E074ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074EK-2013) | Eлектромагнетска компатибилност | И | 3+1+1 | 6 |
+| [13E034ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IP-2013) | Интернет програмирање | И | 3+1+1 | 6 |
+| [13E034ПКХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PKH-2013) | Програмирање комуникационог хардвера | И | 3+1+1 | 6 |
+| [13E034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MIST-2013) | Моделирање и симулација у телекомуникацијама | И | 3+1+1 | 6 |
+| [13E064ПТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064PTS-2013) | Поузданост у телекомуникационим системима 10) | И | 3+1+1 | 6 |
+| [13E034ММС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MMS-2013) | Мултимедијални системи | И | 3+1+1 | 6 |
+| [13E034ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PPR-2013) | Принципи позиционирања у радио системима 2) | И | 3+1+1 | 6 |
+| [13E033АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033AI-2013) | Архитектура интернета 6) | И | 3+1+1 | 6 |
+| [13Е034РМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RMS-2013) | Развој мобилних сервиса 9) | И | 3+1+1 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+#### Table 4
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2013) | Математика 3 | O | 3+3+0 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2013) | Теорија електричних кола | O | 3+2+0 | 6 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E042EE](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042EE-2013) | Елементи електронике | И | 3+2+1 | 5 |
+| [13E042ОЕЛ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OEL-2013) | Основи електронике | И | 3+2+1 | 5 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OOP-2013) | Објектно-оријентисано програмирање | И | 2+2+1 | 5 |
+| [13E112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2013) | Објектно-оријентисано програмирање 1 | И | 2+2+1 | 6 |
+| Бира се један од следећа три изборна предмета |  |  |  |  |
+| [13E112ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OR-2013) | Организација рачунара | И | 2+2+1 | 5 |
+| [13E062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062OFE-2013) | Основи физичке електронике | И | 3+2+0 | 5 |
+| [13E032ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032EM-2013) | Електрична мерења | И | 2+0+3 | 5 |
+| Бира се један од следећа четири практикума |  |  |  |  |
+| [13E072ПРК3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072PRK3-2013) | Практикум из рачунарске анализе кола | И | 1+0+1 | 3 |
+| [13E082РПМ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082RPM3-2013) | Рачунарски практикум из математике 3 | И | 1+0+1 | 3 |
+| [13E112ПОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112POR-2013) | Практикум из организације рачунара | И | 0+0+2 | 3 |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2013) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2013) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2013) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2013) | Страни језик 3 | И | 2+0+0 | 3 |
+| Укупно |  | 29 | 30-31 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E072ТЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072TEM-2013) | Електромагнетика | O | 3+2+0 | 6 |
+| [13E052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SIS-2013) | Сигнали и системи | O | 3+1+1 | 6 |
+| [13E032Т1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032T1-2013) | Телекомуникације 1 | O | 3+2+1 | 6 |
+| [13E082ВИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIST-2013) | Вероватноћа и статистика | O | 1+1+0,5 | 3 |
+| Бира се један обавезно, а максимално два од следећа четири предмета |  |  |  |  |
+| [13E082ЕДМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082EDMT-2013) | Елементи дискретне математике у телекомуникацијама * | И | 1+1+0,5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2013) | Диференцијалне једначине # | И | 1+1+0,5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2013) | Нумеричка математика * | И | 1+1+0,5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2013) | Одабрана поглавља из реалне и комплексне анализе * | И | 1+1+0,5 | 3 |
+| * Означени предмети су корисни за студенте који упишу смер Системско инжењерство, Радио комуникације, Аудио и видео комуникације # Означени предмети су корисни за студенте који упишу смер Микроталасна техника Ако се из претходне групе изабере један предмет, онда се морају изабрати два практикума из следеће групе. Ако се из претходне групе изаберу два предмета, онда се мора изабрати један практикум из следеће групе. |  |  |  |  |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2013) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2013) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2013) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2013) | Страни језик 4 | И | 2+0+0 | 3 |
+| [13E032ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032PSA-2013) | Практикум софтверски алати | И | 1+0+1,5 | 3 |
+| Укупно |  | 25,5-26 | 30 |  |
+
+#### Table 5
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS1-2013) | Обрада сигнала 1 | O | 3+1+1 | 6 |
+| [13E033Т2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T2-2013) | Телекомуникације 2 | O | 3+2+1 | 6 |
+| [13E033УТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033UTM-2013) | Увод у телекомуникационе мреже | O | 3+1+1 | 6 |
+| [13E073МТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MT-2013) | Микроталасна техника | O | 3+1,5+0,5 | 6 |
+| Бира се један од следећа четири изборних предмета |  |  |  |  |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2013) | Електроакустика | И | 3+1+1 | 6 |
+| [13E033ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OPI-2013) | Основе и примена Интернета | И | 3+2+0 | 6 |
+| [13E053ОСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053OSU-2013) | Основи система управљања | И | 3+1+1 | 6 |
+| [13E033ТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TM-2013) | Телекомуникациона мерења | И | 3+1+1 | 6 |
+| Укупно |  | 26 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033Т3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T3-2013) | Телекомуникације 3 | O | 3+1+1 | 6 |
+| [13E033РК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033RK-2013) | Радио комуникације | O | 3+1+1 | 6 |
+| [13E033ТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TS-2013) | Телекомуникациони системи | O | 3+1+1 | 6 |
+| [13E063ОТК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OTK-2013) | Оптоелектронске телекомуникационе компоненте | O | 3+1+1 | 6 |
+| Бира се један од следећих седам изборних предмета |  |  |  |  |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2013) | Основи дигиталне електронике | И | 3+1+1 | 6 |
+| [13E073АП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AP-2013) | Aнтене и простирање | И | 3+1+1 | 6 |
+| [13E033ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS2-2013) | Обрада сигнала 2 | И | 3+1+1 | 6 |
+| [13E073МПК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MPK-2013) | Микроталасна пасивна кола | И | 3+1+1 | 6 |
+| [13E033ОГК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OGK-2013) | Oснови говорне комуникације 3) | И | 3+1+1 | 6 |
+| [13E033АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033AI-2013) | Архитектура Интернета 5) | И | 3+1+1 | 6 |
+| [13E073АЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AEF-2013) | Аналогни електрични филтeри 6) | И | 2+2+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 6
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E034РС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RS-2013) | Радио системи | О | 3+1+1 | 6 |
+| [13E034Р](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034R-2013) | Радио технологије | О | 3+1+1 | 6 |
+| [13E034КС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034KS-2013) | Комутациони системи | О | 3+1+1 | 6 |
+| Бирају се два од следећих десет изборних предмета |  |  |  |  |
+| [13E034ТВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TV-2013) | Телевизија | И | 3+1+1 | 6 |
+| [13E034УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034URV-2013) | Усмерене радио везе | И | 3+1+1 | 6 |
+| [13E034МАП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MAP-2013) | Мрежна администрација и програмирање | И | 3+1+1 | 6 |
+| [13E034ТКМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TKM-2013) | Телекомуникационе мреже за приступ 4) | И | 3+2+0 | 6 |
+| [13E034СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SS-2013) | Сателитски системи 1) | И | 3+1+1 | 6 |
+| [13E034АОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AOS-2013) | Адаптивна обрада сигнала | И | 3+1+1 | 6 |
+| [13E034ИПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IPT-2013) | IP телефонија 4) | И | 3+1+1 | 6 |
+| [13E034СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SOS-2013) | Системи за обраду слике | И | 3+1+1 | 6 |
+| [13E064ОТП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OTP-2013) | Оптоелектронски телекомуникациони подсистеми | И | 3+2+0 | 6 |
+| [13Е034ИoТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IoT-2013) | IoT мреже 7) | И | 3+1+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E034ТИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TIK-2013) | Теорија информација и кодови у телекомуникацијама | О | 3+1+1 | 6 |
+| Бираjу се два од следећих шест изборних предмета |  |  |  |  |
+| [13E034ЈМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034JMS-2013) | Јавни мобилни системи | И | 3+1+1 | 6 |
+| [13E074ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074EK-2013) | Eлектромагнетска компатибилност | И | 3+1+1 | 6 |
+| [13E034ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IP-2013) | Интернет програмирање | И | 3+1+1 | 6 |
+| [13E034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MIST-2013) | Моделирање и симулација у телекомуникацијама | И | 3+1+1 | 6 |
+| [13E034ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PPR-2013) | Принципи позиционирања у радио системима 2) | И | 3+1+1 | 6 |
+| [13E034ММС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MMS-2013) | Мултимедијални системи | И | 3+1+1 | 6 |
+| [13E033АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033AI-2013) | Архитектура Интернета 5) | И | 3+1+1 | 6 |
+| [13Е034РМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RMS-2013) | Развој мобилних сервиса 8) | И | 3+1+1 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+#### Table 7
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2013) | Математика 3 | O | 3+3+0 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2013) | Теорија електричних кола | O | 3+2+0 | 6 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E042EE](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042EE-2013) | Елементи електронике | И | 3+2+1 | 5 |
+| [13E042ОЕЛ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OEL-2013) | Основи електронике | И | 3+2+1 | 5 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OOP-2013) | Објектно-оријентисано програмирање | И | 2+2+1 | 5 |
+| [13E112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2013) | Објектно-оријентисано програмирање 1 | И | 2+2+1 | 6 |
+| Бира се један од следећа три изборна предмета |  |  |  |  |
+| [13E112ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OR-2013) | Организација рачунара | И | 2+2+1 | 5 |
+| [13E062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062OFE-2013) | Основи физичке електронике | И | 3+2+0 | 5 |
+| [13E032ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032EM-2013) | Електрична мерења | И | 2+0+3 | 5 |
+| Бира се један од следећа четири практикума |  |  |  |  |
+| [13E072ПРК3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072PRK3-2013) | Практикум из рачунарске анализе кола | И | 1+0+1 | 3 |
+| [13E082РПМ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082RPM3-2013) | Рачунарски практикум из математике 3 | И | 1+0+1 | 3 |
+| [13E112ПОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112POR-2013) | Практикум из организације рачунара | И | 0+0+2 | 3 |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2013) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2013) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2013) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2013) | Страни језик 3 | И | 2+0+0 | 3 |
+| Укупно |  | 29 | 30-31 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E072ТЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072TEM-2013) | Електромагнетика | O | 3+2+0 | 6 |
+| [13E052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SIS-2013) | Сигнали и системи | O | 3+1+1 | 6 |
+| [13E032Т1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032T1-2013) | Телекомуникације 1 | O | 3+2+1 | 6 |
+| [13E082ВИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIST-2013) | Вероватноћа и статистика | O | 1+1+0,5 | 3 |
+| Бира се један обавезно, а максимално два од следећа четири предмета |  |  |  |  |
+| [13E082ЕДМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082EDMT-2013) | Елементи дискретне математике у телекомуникацијама * | И | 1+1+0,5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2013) | Диференцијалне једначине # | И | 1+1+0,5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2013) | Нумеричка математика * | И | 1+1+0,5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2013) | Одабрана поглавља из реалне и комплексне анализе * | И | 1+1+0,5 | 3 |
+| * Означени предмети су корисни за студенте који упишу смер Системско инжењерство, Радио комуникације, Аудио и видео комуникације # Означени предмети су корисни за студенте који упишу смер Микроталасна техника Ако се из претходне групе изабере један предмет, онда се морају изабрати два практикума из следеће групе. Ако се из претходне групе изаберу два предмета, онда се мора изабрати један практикум из следеће групе. |  |  |  |  |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2013) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2013) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2013) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2013) | Страни језик 4 | И | 2+0+0 | 3 |
+| [13E032ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032PSA-2013) | Практикум софтверски алати | И | 1+0+1,5 | 3 |
+| Укупно |  | 25,5-26 | 30 |  |
+
+#### Table 8
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS1-2013) | Обрада сигнала 1 | O | 3+1+1 | 6 |
+| [13E033Т2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T2-2013) | Телекомуникације 2 | O | 3+2+1 | 6 |
+| [13E033УТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033UTM-2013) | Увод у телекомуникационе мреже | O | 3+1+1 | 6 |
+| [13E033ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OPI-2013) | Основе и примена Интернета | O | 3+2+0 | 6 |
+| Бира се један од следећа четири изборних предмета |  |  |  |  |
+| [13E043АЕЛ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043AEL-2013) | Аналогна електроника | И | 3+1+1 | 6 |
+| [13E053ОСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053OSU-2013) | Основи система управљања | И | 3+1+1 | 6 |
+| [13E073МТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MT-2013) | Микроталасна техника | И | 3+1,5+0,5 | 6 |
+| [13E033ТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TM-2013) | Телекомуникациона мерења | И | 3+1+1 | 6 |
+| Укупно |  | 26 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033Т3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T3-2013) | Телекомуникације 3 | O | 3+1+1 | 6 |
+| [13E033РК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033RK-2013) | Радио комуникације | O | 3+1+1 | 6 |
+| [13E033ТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TS-2013) | Телекомуникациони системи | O | 3+1+1 | 6 |
+| [13E033ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS2-2013) | Обрада сигнала 2 | O | 3+1+1 | 6 |
+| Бира се један од следећа четири изборна предмета |  |  |  |  |
+| [13E063ОТК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OTK-2013) | Оптоелектронске телекомуникационе компоненте | И | 3+1+1 | 6 |
+| [13E033ОГК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OGK-2013) | Основи говорне комуникације 1) | И | 3+1+1 | 6 |
+| [13E033АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033AI-2013) | Архитектура интернета 2) | И | 3+1+1 | 6 |
+| [13E073АЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AEF-2013) | Аналогни електрични филтри 4) | И | 2+2+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 9
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E034РС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RS-2013) | Радио системи | О | 3+1+1 | 6 |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2013) | Електроакустика | О | 3+1+1 | 6 |
+| [13E034ТВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TV-2013) | Телевизија | О | 3+1+1 | 6 |
+| Бираjу се два од следећих десет изборних предмета |  |  |  |  |
+| [13E034СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SOS-2013) | Системи за обраду слике * | И | 3+1+1 | 6 |
+| [13E034АОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AOS-2013) | Aдаптивна обрада сигнала * | И | 3+1+1 | 6 |
+| [13E034МАП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MAP-2013) | Мрежна администрација и програмирање | И | 3+1+1 | 6 |
+| [13E034ТКМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TKM-2013) | Телекомуникационе мреже за приступ 3) | И | 3+2+0 | 6 |
+| [13E034Р](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034R-2013) | Радио технологије | И | 3+1+1 | 6 |
+| [13E034ОГС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034OGS-2013) | Обрада говорног сигнала 6) | И | 3+1+1 | 6 |
+| [13E034КС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034KS-2013) | Комутациони системи | И | 3+1+1 | 6 |
+| [13E034ИПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IPT-2013) | ИП телефонија 3) | И | 3+1+1 | 6 |
+| [13E064ОТП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OTP-2013) | Оптоелектронски телекомуникациони подсистеми | И | 3+2+0 | 6 |
+| [13Е034ИoТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IoT-2013) | IoT мреже 5) | И | 3+1+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E034ТИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TIK-2013) | Теорија информација и кодови у телекомуникацијама | О | 3+1+1 | 6 |
+| [13E034АС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AS-2013) | Аудио системи | О | 3+1+1 | 6 |
+| [13E034ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034VS-2013) | Видео системи | О | 3+1+1 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+#### Table 10
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2013) | Математика 3 | O | 3+3+0 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2013) | Теорија електричних кола | O | 3+2+0 | 6 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E042EE](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042EE-2013) | Елементи електронике | И | 3+2+1 | 5 |
+| [13E042ОЕЛ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OEL-2013) | Основи електронике | И | 3+2+1 | 5 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OOP-2013) | Објектно-оријентисано програмирање | И | 2+2+1 | 5 |
+| [13E112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2013) | Објектно-оријентисано програмирање 1 | И | 2+2+1 | 6 |
+| Бира се један од следећа три изборна предмета |  |  |  |  |
+| [13E112ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OR-2013) | Организација рачунара | И | 2+2+1 | 5 |
+| [13E062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062OFE-2013) | Основи физичке електронике | И | 3+2+0 | 5 |
+| [13E032ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032EM-2013) | Електрична мерења | И | 2+0+3 | 5 |
+| Бира се један од следећа четири практикума |  |  |  |  |
+| [13E072ПРК3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072PRK3-2013) | Практикум из рачунарске анализе кола | И | 1+0+1 | 3 |
+| [13E082РПМ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082RPM3-2013) | Рачунарски практикум из математике 3 | И | 1+0+1 | 3 |
+| [13E112ПОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112POR-2013) | Практикум из организације рачунара | И | 0+0+2 | 3 |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2013) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2013) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2013) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2013) | Страни језик 3 | И | 2+0+0 | 3 |
+| Укупно |  | 29 | 30-31 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E072ТЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072TEM-2013) | Електромагнетика | O | 3+2+0 | 6 |
+| [13E052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SIS-2013) | Сигнали и системи | O | 3+1+1 | 6 |
+| [13E032Т1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032T1-2013) | Телекомуникације 1 | O | 3+2+1 | 6 |
+| [13E082ВИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIST-2013) | Вероватноћа и статистика | O | 1+1+0,5 | 3 |
+| Бира се један обавезно, а максимално два од следећа четири предмета |  |  |  |  |
+| [13E082ЕДМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082EDMT-2013) | Елементи дискретне математике у телекомуникацијама * | И | 1+1+0,5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2013) | Диференцијалне једначине # | И | 1+1+0,5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2013) | Нумеричка математика * | И | 1+1+0,5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2013) | Одабрана поглавља из реалне и комплексне анализе * | И | 1+1+0,5 | 3 |
+| * Означени предмети су корисни за студенте који упишу смер Системско инжењерство, Радио комуникације, Аудио и видео комуникације # Означени предмети су корисни за студенте који упишу смер Микроталасна техника Ако се из претходне групе изабере један предмет, онда се морају изабрати два практикума из следеће групе. Ако се из претходне групе изаберу два предмета, онда се мора изабрати један практикум из следеће групе. |  |  |  |  |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2013) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2013) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2013) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2013) | Страни језик 4 | И | 2+0+0 | 3 |
+| [13E032ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032PSA-2013) | Практикум софтверски алати | И | 1+0+1,5 | 3 |
+| Укупно |  | 25,5-26 | 30 |  |
+
+#### Table 11
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS1-2013) | Обрада сигнала 1 | O | 3+1+1 | 6 |
+| [13E033Т2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T2-2013) | Телекомуникације 2 | O | 3+2+1 | 6 |
+| [13E033УТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033UTM-2013) | Увод у телекомуникационе мреже | O | 3+1+1 | 6 |
+| [13E073МТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MT-2013) | Микроталасна техника | O | 3+1,5+0,5 | 6 |
+| Бира се један од следећих шест изборних предмета |  |  |  |  |
+| [13E043АЕЛ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043AEL-2013) | Аналогна електроника | И | 3+1+1 | 6 |
+| [13E053ОСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053OSU-2013) | Основи система управљања | И | 3+1+1 | 6 |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2013) | Eлектроакустика | И | 3+1+1 | 6 |
+| [13E033ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OPI-2013) | Основе и примена Интернета | И | 3+2+0 | 6 |
+| [13E063МУЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063MUE-2013) | Материјали у електротехници | И | 3+2+1 | 6 |
+| [13E033ТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TM-2013) | Телекомуникациона мерења | И | 3+1+1 | 6 |
+| Укупно |  | 26 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033Т3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T3-2013) | Телекомуникације 3 | O | 3+1+1 | 6 |
+| [13E033РК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033RK-2013) | Радио комуникације | O | 3+1+1 | 6 |
+| [13E033ТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TS-2013) | Телекомуникациони системи | O | 3+1+1 | 6 |
+| [13E073АП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AP-2013) | Антене и простирање | O | 3+1+1 | 6 |
+| Бира се један од следећих осам изборних предмета |  |  |  |  |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2013) | Основи дигиталне електронике | И | 3+1+1 | 6 |
+| [13E074САП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074SAP-2013) | Софтверски алати за пројектовање антена 1) | И | 3+1+1 | 6 |
+| [13E063ОТК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OTK-2013) | Оптоелектронске телекомуникационе компоненте | И | 3+1+1 | 6 |
+| [13E033ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS2-2013) | Обрада сигнала 2 | И | 3+1+1 | 6 |
+| [13E113БП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113BP-2013) | Базе података | И | 2+2+1 | 6 |
+| [13E073АЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AEF-2013) | Аналогни електрични филтри 9) | И | 2+2+1 | 6 |
+| [13E033ОГК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OGK-2013) | Основи говорне комуникације 6) | И | 3+1+1 | 6 |
+| [13E033АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033AI-2013) | Архитектура интернета | И | 3+1+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 12
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E034РС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RS-2013) | Радио системи | О | 3+1+1 | 6 |
+| [13E073МПК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MPK-2013) | Микроталасна пасивна кола 2) | О | 3+1+1 | 6 |
+| [13E074МЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074ME-2013) | Микроталасна електроника | О | 3+1+1 | 6 |
+| [13E074ММ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074MM-2013) | Микроталасна мерења | О | 3+1+1 | 6 |
+| Бирају се два од следећих тринаест изборних предмета |  |  |  |  |
+| [13E034МАП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MAP-2013) | Мрежна администрација и програмирање | И | 3+1+1 | 6 |
+| [13E074САП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074SAP-2013) | Софтверски алати за пројектовање антена 1) | И | 3+1+1 | 6 |
+| [13E034КС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034KS-2013) | Комутациони системи | И | 3+1+1 | 6 |
+| [13E034ТКМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TKM-2013) | Телекомуникационе мреже за приступ 8) | И | 3+1+1 | 6 |
+| [13E034ТВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TV-2013) | Телевизија | И | 3+1+1 | 6 |
+| [13E034АОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AOS-2013) | Aдаптивна обрада сигнала | И | 3+1+1 | 6 |
+| [13E034УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034URV-2013) | Усмерене радио везе | И | 3+1+1 | 6 |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2013) | Eлектроакустика 3) | И | 3+1+1 | 6 |
+| [13E034СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SOS-2013) | Системи за обраду слике | И | 3+1+1 | 6 |
+| [13E034СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SS-2013) | Сателитски системи 5) | И | 3+1+1 | 6 |
+| [13E034ИПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IPT-2013) | ИП телефонија 8) | И | 3+1+1 | 6 |
+| [13E034Р](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034R-2013) | Радио технологије | И | 3+1+1 | 6 |
+| [13E064ОТП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OTP-2013) | Оптоелектронски телекомуникациони подсистеми | И | 3+2+0 | 6 |
+| Укупно |  | 25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E034ТИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TIK-2013) | Теорија информација и кодови у телекомуникацијама | О | 3+1+1 | 6 |
+| [13E074ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074EK-2013) | Електромагнетска компатибилност | О | 3+1+1 | 6 |
+| [13E073МПК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MPK-2013) | Микроталасна пасивна кола 2) | О | 3+1+1 | 6 |
+| Не бира се ниједан предмет јер су сви обавезни *** |  |  |  |  |
+| [13E074САП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074SAP-2013) | Софтверски алати за пројектовање антена 1) | И | 3+1+1 | 6 |
+| [13E034ЈМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034JMS-2013) | Јавни мобилни системи 4) | И | 3+1+1 | 6 |
+| [13E034ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IP-2013) | Интернет програмирање 4) | И | 3+1+1 | 6 |
+| [13E034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MIST-2013) | Моделирање и симулација у телeкомуникацијама 4) | И | 3+1+1 | 6 |
+| [13E064ПТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064PTS-2013) | Поузданост у телекомуникационим системима 4) | И | 3+1+1 | 6 |
+| [13E044ИРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044IRS-2013) | Интегрисани рачунарски системи 4) | И | 3+1+1 | 6 |
+| [13E073ПТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073PTEK-2013) | Примена теорије електричних кола у електротехници 4) | И | 2+2+1 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+### Физичка електроника
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2013/fizicka-elektronika
+- Study type: Osnovne akademske studije
+- Sidebar title: 2013
+- Strana header: Физичка електроника
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2013) | Математика 3 | O | 3+3+0 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2013) | Теорија електричних кола | O | 3+2+0 | 6 |
+| [13E042ОЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OEF-2013) | Основи електронике | O | 3+2+1 | 6 |
+| Бира се два од пет изборних предмета и један од два практикума из следеће групе |  |  |  |  |
+| [13E062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062OFE-2013) | Основи физичке електронике | И | 3+2+0 | 5 |
+| [13E062МУЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062MUE-2013) | Материјали у електротехници | И | 3+2+1 | 5 |
+| [13E052ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052EM-2013) | Електрична мерења | И | 2+0+3 | 5 |
+| [13E112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OOP-2013) | Објектно-оријентисано програмирање | И | 2+2+1 | 5 |
+| [13E112ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OR-2013) | Организација рачунара | И | 2+2+1 | 5 |
+| [13E072ПРК2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072PRK2-2013) | Практикум из рачунарске анализе кола | И | 1+0+1 | 2 |
+| [13E092ЕЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ32-2013) [13E092РЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ32-2013) [13E092НЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ32-2013) [13E092ФЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ32-2013) | Страни језик 3 | И | 2+0+0 | 2 |
+| Укупно |  | 24-25 | 30 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SIS-2013) | Сигнали и системи | O | 3+1+1 | 6 |
+| [13E062КМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062KM-2013) | Квантна механика | O | 3+2+0 | 6 |
+| Бирају се два обавезна од шест предмета из следеће групе |  |  |  |  |
+| [13E082САО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082SAO-2013) | Сложеност алгоритама и одабране методе оптимизације | И | 1+1+0.5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2013) | Диференцијалне једначине | И | 1+1+0.5 | 3 |
+| [13E082ЈМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082JMF-2013) | Једначине математичке физике | И | 1+1+0.5 | 3 |
+| [13E082ВИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIS-2013) | Вероватноћа и статистика | И | 1+1+0.5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2013) | Нумеричка математика | И | 1+1+0.5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2013) | Одабрана поглавља из реалне и комплексне анализе | И | 1+1+0.5 | 3 |
+| Бирају се два изборна предмета и ниједан практикум или један изборни предмет и два практикума из следеће групе |  |  |  |  |
+| [13E042ОАЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OAEF-2013) | Основи аналогне електронике | И | 3+2+0 | 6 |
+| [13E072ОЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OEM-2013) | Електромагнетика | И | 3+2+0 | 6 |
+| [13E112ОО2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO2-2013) | Објектно-оријентисано програмирање 2 | И | 2+2+1 | 6 |
+| [13E062ПКЕУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062PKEU-2013) | Практикум из конструисања електронских уређаја | И | 1+0+1,5 | 3 |
+| [13E062ПСМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062PSMT-2013) | Практикум из савремених материјала и технологија 7) | И | 1+0+1,5 | 3 |
+| [13Е052ПМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052PMS-2013) | Практикум из мерно-аквизиционих система 2) | И | 0+1+2 | 3 |
+| Укупно |  | 25-25.5 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E063СФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SF-2013) | Статистичка физика | O | 3+2+0 | 6 |
+| [13E063ФТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063FTM-2013) | Физичко техничка мерења | O | 3+0+2 | 6 |
+| Бирају се три од следећих пет изборних предмета |  |  |  |  |
+| [13E063ОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OE-2013) | Оптоелектроника | И | 3+1+1 | 6 |
+| [13E063ФЕЧТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063FECT-2013) | Физичка електроника чврстог тела | И | 3+2+0 | 6 |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2013) | Основи дигиталне електронике 8) | И | 3+1+1 | 6 |
+| [13E063ЕЕУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063EEU-2013) | Елементи електронских уређаја | И | 3+1+1 | 6 |
+| [13E063КЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063KE-2013) | Квантна електроника | И | 3+2+0 | 6 |
+| Укупно |  | 25 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E063МИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063MIN-2013) | Микроелектроника и наноелектроника | О | 3+2+0 | 6 |
+| Бирају се четири из следеће групе изборних предмета |  |  |  |  |
+| [13E063ОПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OPT-2013) | Оптичке телекомуникације | И | 3+2+0 | 6 |
+| [13E033ОТФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OTF-2013) | Основи телекомуникација | И | 3+1+1 | 6 |
+| [13E063СП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SP-2013) | Сензори и претварачи | И | 3+0+2 | 6 |
+| [13E063ПОТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063POT-2013) | Простирање оптичких таласа | И | 3+2+0 | 6 |
+| [13E063МК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063MK-2013) | Микроелектронска кола | И | 3+2+0 | 6 |
+| [13E064ОН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064ON-2013) | Оптоелектронске направе 3) | И | 3+2+0 | 6 |
+|  | Било који предмет са другог смера/модула са минимум истим бројем кредита | И | 3+2+0 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бира се пет из следеће групе изборних предмета |  |  |  |  |
+| [13E064ЛТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064LT-2013) | Ласерска техника | И | 3+2+0 | 6 |
+| [13E064ОН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064ON-2013) | Оптоелектронске направе 3) | И | 3+2+0 | 6 |
+| [13E064СДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064SDOS-2013) | Системи за дигиталну обраду слике | И | 3+1+1 | 6 |
+| [13E064ПКН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064PKN-2013) | Полупроводничке квантне наноструктуре | И | 3+2+0 | 6 |
+| [13E064АМПН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064AMPN-2013) | Анализа и моделовање полупроводничких направа 6) | И | 3+2+0 | 6 |
+| [13E064ФС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FS-2013) | Фибероптички сензори | И | 3+1+1 | 6 |
+| [13E064ОПТ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OPT2-2013) | Оптичке телекомуникације 2 | И | 3+2+0 | 6 |
+| [13E064ФЕГП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FEGP-2013) | Физичка електроника гасова и плазме | И | 3+2+0 | 6 |
+| [13E044НРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NRS-2013) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+|  | Било који предмет са другог смера/модула са минимум истим бројем кредита | И | 3+2+0 | 6 |
+| Укупно |  | 25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бирају се три од следећих шест изборних предмета |  |  |  |  |
+| [13E064ОМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OM-2013) | Оптичке мреже | И | 3+2+0 | 6 |
+| [13E064ПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064PS-2013) | Поузданост система 6) | И | 3+2+0 | 6 |
+| [13E064НАН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064NAN-2013) | Наноелектронске направе | И | 3+2+0 | 6 |
+| [13E064ОЛМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OLMS-2013) | Оптоелектронски и ласерски мерни системи | И | 3+0+2 | 6 |
+| [13E064МЕМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064MEMS-2013) | Микроелектромеханички системи | И | 3+2+0 | 6 |
+|  | Било који предмет са другог смера/модула са минимум истим бројем кредита | И | 3+2+0 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+#### Table 4
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2013) | Математика 3 | O | 3+3+0 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2013) | Теорија електричних кола | O | 3+2+0 | 6 |
+| [13E042ОЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OEF-2013) | Основи електронике | O | 3+2+1 | 6 |
+| Бира се два од пет изборних предмета и један од два практикума из следеће групе |  |  |  |  |
+| [13E062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062OFE-2013) | Основи физичке електронике | И | 3+2+0 | 5 |
+| [13E062МУЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062MUE-2013) | Материјали у електротехници | И | 3+2+1 | 5 |
+| [13E052ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052EM-2013) | Електрична мерења | И | 2+0+3 | 5 |
+| [13E112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OOP-2013) | Објектно-оријентисано програмирање | И | 2+2+1 | 5 |
+| [13E112ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OR-2013) | Организација рачунара | И | 2+2+1 | 5 |
+| [13E072ПРК2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072PRK2-2013) | Практикум из рачунарске анализе кола | И | 1+0+1 | 2 |
+| [13E092ЕЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ32-2013) [13E092РЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ32-2013) [13E092НЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ32-2013) [13E092ФЈ32](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ32-2013) | Страни језик 3 | И | 2+0+0 | 2 |
+| Укупно |  | 24-25 | 30 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SIS-2013) | Сигнали и системи | O | 3+1+1 | 6 |
+| [13E062КМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062KM-2013) | Квантна механика | O | 3+2+0 | 6 |
+| Бирају се два обавезна од шест предмета из следеће групе |  |  |  |  |
+| [13E082САО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082SAO-2013) | Сложеност алгоритама и одабране методе оптимизације | О | 1+1+0.5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2013) | Диференцијалне једначине | О | 1+1+0.5 | 3 |
+| [13E082ЈМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082JMF-2013) | Једначине математичке физике | О | 1+1+0.5 | 3 |
+| [13E082ВИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIS-2013) | Вероватноћа и статистика | О | 1+1+0.5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2013) | Нумеричка математика | О | 1+1+0.5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2013) | Одабрана поглавља из реалне и комплексне анализе | О | 1+1+0.5 | 3 |
+| Бирају се два изборна предмета и ниједан практикум или један изборни предмет и два практикума из следеће групе |  |  |  |  |
+| [13E042ОАЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OAEF-2013) | Основи аналогне електронике | И | 3+2+0 | 6 |
+| [13E072ОЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OEM-2013) | Електромагнетика | И | 3+2+0 | 6 |
+| [13E112ОО2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO2-2013) | Објектно-оријентисано програмирање 2 | И | 2+2+1 | 6 |
+| [13E062ПКЕУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062PKEU-2013) | Практикум из конструисања електронских уређаја | И | 1+0+1,5 | 3 |
+| [13E062ПСМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062PSMT-2013) | Практикум из савремених материјала и технологија 7) | И | 1+0+1,5 | 3 |
+| [13Е052ПМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052PSM-2013) | Практикум из мерно-аквизиционих система 2) | И | 0+1+2 | 3 |
+| Укупно |  | 25-25.5 | 30 |  |
+
+#### Table 5
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E063СФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SF-2013) | Статистичка физика | O | 3+2+0 | 6 |
+| [13E063ФТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063FTM-2013) | Физичко техничка мерења | O | 3+0+2 | 6 |
+| [13E053ССО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SSO-2013) | Системи и сигнали у организму | O | 3+1+1 | 6 |
+| [13E063ОБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OB-2013) | Основи биофизике | O | 3+2+0 | 6 |
+| Бира се један од четири изборна предмета из следеће групе |  |  |  |  |
+| [13E063ПЛМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063PLM-2013) | Примена ласера у медицини | И | 3+2+0 | 6 |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2013) | Основи дигиталне електронике 8) | И | 3+1+1 | 6 |
+| [13E063ЕЕУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063EEU-2013) | Елементи електронских уређаја | И | 3+1+1 | 6 |
+|  | Било који предмет са другог смера/модула са минимум истим бројем кредита | И | 3+2+0 | 6 |
+| Укупно |  | 25 | 30 |  |
+|  |  |  |  |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E053АЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053AES-2013) | Аквизиција електрофизиолошких сигнала | О | 3+1+1 | 6 |
+| [13E063МФМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063MFMS-2013) | Методе формирања медицинске слике | О | 3+2+0 | 6 |
+| Бирају се три од шест изборних предмета из следеће групе |  |  |  |  |
+| [13E053СОМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SOM-2013) | Системи одлучивања у медицини | И | 3+1+1 | 6 |
+| [13E033ОТФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OTF-2013) | Основи телекомуникација | И | 3+1+1 | 6 |
+| [13E063СП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SP-2013) | Сензори и претварачи | И | 3+0+2 | 6 |
+| [13E063ЕОИЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063EOIE-2013) | Еколошки обновљиви извори енергије | И | 3+2+0 | 6 |
+| [13E093ЕИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E093EIM-2013) | Економија и менаџмент 5) | И | 3+2+0 | 6 |
+|  | Било који предмет са другог смера/модула са минимум истим бројем кредита | И | 3+2+0 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 6
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E064НФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064NF-2013) | Нуклеарна физика | О | 3+2+0 | 6 |
+| [13E064НМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064NMT-2013) | Нуклеарна медицинска техника | О | 3+1.5+0.5 | 6 |
+| [13E064СДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064SDOS-2013) | Системи за дигиталну обраду слике | О | 3+1+1 | 6 |
+| Бирају се два од пет изборних предмета из следеће групе |  |  |  |  |
+| [13E064БМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064BMT-2013) | Биоматеријали 6) | И | 3+1+1 | 6 |
+| [13E054БМХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054BMH-2013) | Биомеханика 1) | И | 3+1+1 | 6 |
+| [13E054МАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MAS-2013) | Методе анализе електрофизиолошких сигнала | И | 3+1+1 | 6 |
+| [13E053ОСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053OSU-2013) | Основи система управљања | И | 3+1+1 | 6 |
+|  | Било који предмет са другог смера/модула са минимум истим бројем кредита | И | 3+2+0 | 6 |
+| Укупно |  | 25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E064ДЗЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064DZZ-2013) | Дозиметрија и заштита од зрачења | О | 3+1+1 | 6 |
+| [13E064НТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064NT-2013) | Нуклеарна техника | О | 3+1.5+0.5 | 6 |
+| Бира се један од седам изборних предмета из следеће групе |  |  |  |  |
+| [13E054КЛИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054KLIN-2020) | Клиничко инжењерство 4) | И | 3+1+1 | 6 |
+| [13E064ТМД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064TMD-2013) | Телемедицина | И | 3+2+0 | 6 |
+| [13E064КИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064KI-2013) | Квантна информатика | И | 3+2+0 | 6 |
+| [13E064СНП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064SNP-2013) | Симулација нуклеарних процеса | И | 3+2+0 | 6 |
+| [13E064ФТФР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FTFR-2013) | Физички и технички принципи функционисања фузионих реактора | И | 3+2+0 | 6 |
+| [13E064ФЕА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FEA-2013) | Физика и екологија атмосфере | И | 3+2+0 | 6 |
+|  | Било који предмет са другог смера/модула са минимум истим бројем кредита | И | 3+2+0 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+### Прва година студијског програма ЕР
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/prva-godina-studijskog-programa-er
+- Study type: Osnovne akademske studije
+- Sidebar title: 2019
+- Strana header: Прва година студијског програма ЕР
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е081ММ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E081MM1-2019) | Математика 1 | О | 3+3+0 | 6 |
+| [19Е071ОЕ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E071OE1-2019) | Основи електротехнике 1 | О | 3+3+0 | 6 |
+| [19Е061Ф1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E061F1-2019) | Физика 1 | О | 3+2+0 | 6 |
+| [19Е111П1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E111P1-2019) | Програмирање 1 | О | 3+2+0.2 | 6 |
+| [13Е061ЛФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E061LF-2019) | Лабораторијске вежбе из Физике | О | 0+0+2 | 2 |
+| Бирају се један или два практикума из следеће листе практикума |  |  |  |  |
+| [19Е111УРА](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E111URA-2019) | Увод у рачунарство | И | 1+0+1 | 2 |
+| [13Е081ПМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E081PM1-2019) | Практикум из Математике 1 | И | 1+1+0 | 2 |
+| [13Е111ПП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E111PP1-2019) | Практикум из Програмирања 1 | И | 0+0+2 | 2 |
+| [13Е091ЕЈ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091EJ1-2019) [13Е091РЈ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091RJ1-2019) [13Е091НЈ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091NJ1-2019) [13Е091ФЈ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091FJ1-2019) | Страни језик 1 | И | 2+0+0 | 2 |
+| [13Е071ПЕ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E071PE1-2019) | Практикум из Основа електротехнике 1 | И | 1+1+0 | 2 |
+| [13Е091С](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091S-2019) | Социологија | И | 2+0+0 | 2 |
+| Укупно |  | 26.2 / 28.2 | 28 / 30 |  |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е081ММ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E081MM2-2019) | Математика 2 | О | 3+3+0 | 6 |
+| [19Е071ОЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E071OE2-2019) | Основи електротехнике 2 | О | 3+3+0 | 6 |
+| [19Е111П2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E111P2-2019) | Програмирање 2 | О | 3+2+0.2 | 6 |
+| [13Е071ЛОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E071LOE-2019) | Лабораторијске вежбе из Основа електротехнике | О | 0,5+0+1,5 | 2 |
+| Између следећа два бира се најмање један предмет |  |  |  |  |
+| [19Е061Ф2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E061F2-2019) | Физика 2 | И | 3+2+0 | 6 |
+| [19Е111ОРТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E111ORT-2019) | Основи рачунарске технике | И | 3+2+0 | 6 |
+| Бирају се практикуми до укупно 60 кредита |  |  |  |  |
+| [13Е081ПМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E081PM2-2019) | Практикум из Математике 2 | И | 1+1+0 | 2 |
+| [19Е041ИИЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E041IIE-2023) | Инжењерство и електроника 1) | И | 1+0,5+0,5 | 2 |
+| [13Е111ПП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E111PP2-2019) | Практикум из Програмирања 2 | И | 0+0+2 | 2 |
+| [13Е091ЕЈ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091EJ2-2019) [13Е091РЈ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091RJ2-2019) [13Е091НЈ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091NJ2-2019) [13Е091ФЈ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091FJ2-2019) | Страни језик 2 | И | 2+0+0 | 2 |
+| [13Е071ПE2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E071PE2-2019) | Практикум из Основа електротехнике 2 | И | 1+1+0 | 2 |
+| [13Е061ПФ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E061PF2-2019) | Практикум из Физике 2 | И | 0+0+2 | 2 |
+| [19Е011УЕГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E011UEG-2019) | Увод у електроенергетику | И | 1.5+0+0.5 | 2 |
+| [19Е031ПУК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E031PUK-2019) | Паметни уређаји и комуникације | И | 1+0+1 | 2 |
+| [13Е091УМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E091UM-2019) | Увод у менаџмент | И | 2+0+0 | 2 |
+| Укупно |  | 23.2 / 24.2 | 32 / 30 |  |
+
+### Електроника и дигитални системи
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/elektronika-i-digitalni-sistemi
+- Study type: Osnovne akademske studije
+- Sidebar title: 2019
+- Strana header: Електроника и дигитални системи
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е042ЕЛ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042EL-2019) | Електроника | О | 3+2+0.5 | 6 |
+| [19Е042ДЕ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042DE1-2019) | Дигитална електроника 1 | О | 3+2+0.5 | 6 |
+| [19Е042ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042EM-2019) | Електрична мерења | O | 2+0+3 | 4 |
+| [13Е082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2019) | Математика 3 | O | 3+3+0 | 6 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2019) | Теорија електричних кола | И | 3+2+0 | 6 |
+| [19Е062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E062OFE-2019) | Основи физичке електронике | И | 3+2+0 | 6 |
+| Бира се један од следећих изборних предмета |  |  |  |  |
+| [13E042ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042PSA-2019) | Практикум из софтверских алата у електроници 2) | И | 0+1+1 | 2 |
+| [19Е042ПИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042PIM-2019) | Практикум из микроконтролера | И | 0+1+1 | 2 |
+| Укупно |  | 29 | 30 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е042АЕ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042AE1-2019) | Аналогна електроника 1 | O | 3+2+0.5 | 6 |
+| [19Е042ДЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042DE2-2019) | Дигитална електроника 2 | O | 3+2+0.5 | 6 |
+| [19Е042СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042SIS-2019) | Сигнали и системи | O | 3+2+0.5 | 6 |
+| [19Е032ОТЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032OTE-2019) | Основи телекомуникација | O | 3+2+0.5 | 6 |
+| Бира се један од следећих изборних предмета |  |  |  |  |
+| [13Е082ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VS-2019) | Вероватноћа и статистика | И | 2+2+1 | 6 |
+| [13E082ВИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIS-2019) | Вероватноћа и статистика | И | 1+1+0.5 | 3 |
+| Ако је из претходне групе изабран предмет од 3ЕСПБ бира се један од следећих предмета |  |  |  |  |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2019) | Нумеричка математика | И | 1+1+0.5 | 3 |
+| [13E082САО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082SAO-2019) | Сложеност алгоритама и одабране методе оптимизације | И | 1+1+0.5 | 3 |
+| Укупно |  | 27 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е043АЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E043AE2-2019) | Аналогна електроника 2 | O | 3+2+0.5 | 6 |
+| [19Е043ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E043DOS-2019) | Дигитална обрада сигнала | O | 3+2+0.5 | 6 |
+| [19Е043АНР](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E043ANR-2019) | Архитектура и организација наменских рачунара | O | 3+2+0 | 6 |
+| [19Е043ВЛСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E043VLSI-2019) | Пројектовање VLSI система | O | 2+1+2 | 6 |
+| Бира се jeдaн од следећих изборних предмета |  |  |  |  |
+| [13E053ОСУЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053OSUE-2019) | Основи система управљања | И | 3+2+1 | 6 |
+| [19Е112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E112OOP-2019) | Објектно-оријентисано програмирање | И | 2+2+1 | 6 |
+| Укупно |  | 26-27 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бира се пет од следећих изборних предмета |  |  |  |  |
+| [13E043ЕЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043EE-2019) | Енергетска електроника 5) | И | 3+1+1 | 6 |
+| [13E043ЛЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043LE-2019) | Линеарна електроника | И | 3+1+1 | 6 |
+| [13E043РЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043RE-2019) | Рачунарска електроника | И | 3+1+1 | 6 |
+| [19Е043ПИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E043PIK-2019) | Пројектовање интегрисаних кола | И | 3+1+1 | 6 |
+| [19Е043МРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E043MRS-2019) | Микроконтролерски рачунарски системи | И | 3+1+1 | 6 |
+| [19Е043МС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E043MS-2019) | Мерни системи | И | 3+1+1 | 6 |
+| [19Е043ПЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E043PES-2019) | Пројектовање електронских система | И | 2+2+1 | 6 |
+|  | Изборни предмет 1 | И |  | 6 |
+|  | Изборни предмет 2 | И |  | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бира се пет од следећих изборних предмета |  |  |  |  |
+| [13E044ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044DOS-2019) | Дигитална обрада слике | И | 3+1+1 | 6 |
+| [13E044НРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NRS-2019) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+| [19Е044ДВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E044DVS-2019) | Дигитални VLSI системи | И | 3+1+1 | 6 |
+| [19Е044РНС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E044RNS-2019) | Развој наменског софтвера | И | 3+1+1 | 6 |
+| [19Е044АИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E044AIK-2019) | Аналогна интегрисана кола | И | 3+1+1 | 6 |
+| [19Е044АМК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E044AMK-2019) | Анализа и моделовање електронских кола употребом HDL - AMS језика 3) | И | 3+1+1 | 6 |
+| [19Е044ЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E044EI-2019) | Електронска инструментација 3) | И | 3+1+1 | 6 |
+|  | Изборни предмет 3 | И |  | 6 |
+|  | Изборни предмет 4 | И |  | 6 |
+| [19Е092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092EJ3-2019) [19Е092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092RJ3-2019) [19Е092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092NJ3-2019) [19Е092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092FJ3-2019) | Страни језик 3 | И | 2+0+0 | 3 |
+| Ако студент у 7. семестру изабере Страни језик 3, у 8. семестру мора да бира и Страни језик 4 |  |  |  |  |
+| Укупно |  | 22 / 25 | 27 / 30 |  |
+
+#### Table 4
+
+| 8. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бирају се три од следећих изборних предмета |  |  |  |  |
+| [13Е044ХСОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044HSOS-2019) | Хардверско - софтверска обрада сигнала | И | 3+1+1 | 6 |
+| [13E044СРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044SRV-2019) | Системи у реалном времену | И | 3+1+1 | 6 |
+| [19E044OСН1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E044OSN1-2019) | Оперативни системи наменских рачунара 1 3) | И | 3+1+1 | 6 |
+| [13Е044РФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044RFE-2019) | RF електроника | И | 3+1+1 | 6 |
+| [13Е044ВХД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044VHD-2019) | Верификација хардвера у дигиталним интегрисаним системима 4) | И | 2+1+2 | 6 |
+|  | Изборни предмет 5 | И |  | 6 |
+| Ако је студент у 7. семестру изабрао Страни језик 3, у 8. семестру мора додатно да бира и Страни језик 4 |  |  |  |  |
+| [19Е092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092EJ4-2019) [19Е092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092RJ4-2019) [19Е092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092NJ4-2019) [19Е092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092FJ4-2019) | Страни језик 4 | И | 2+0+0 | 3 |
+|  | Стручна пракса | О |  | 2 |
+|  | Завршни рад | О |  | 10 |
+| Укупно |  | 15-17 | 33 / 30 |  |
+
+#### Table 5
+
+| Листа препоручених предмета са других модула који се изводе у непарном семестру |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Са смера Микроталасна техника |  |  |  |  |
+| [13Е074МЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074ME-2019) | Микроталасна електроника | И | 3+1+1 | 6 |
+| [13Е073МТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MT-2019) | Микроталасна техника | И | 3+1.5+0.5 | 6 |
+| Са модула Рачунарска техника и информатика |  |  |  |  |
+| [13E112АСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112ASP-2019) | Алгоритми и структуре података | O | 3+2+0 | 6 |
+| [13E113БП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113BP1-2019) | Базе података 1 | O | 2+2+1 | 6 |
+| [13Е114ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IP-2019) | Интернет Програмирање | O | 2+2+1 | 6 |
+| Са модула Сигнали и системи |  |  |  |  |
+| [13E053ССО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SSO-2019) | Системи и сигнали у организму | И | 3+1+1 | 6 |
+| [13Е054НМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054NM-2019) | Неуралне мреже | И | 3+1+1 | 6 |
+| [13E054МАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MAS-2019) | Методе анализе електрофизиолошких сигнала | И | 3+1+1 | 6 |
+| [13Е054ПО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054PO-2019) | Препознавање облика | И | 3+1+1 | 6 |
+| Са модула Телекомуникације и информационе технологије |  |  |  |  |
+| [13Е033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2019) | Електроакустика | И | 3+1+1 | 6 |
+| [19Е033ТИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033TIK-2019) | Теорија информација и кодовање | И | 3+1+1 | 6 |
+| [13Е033ОПТЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OPTE-2013) | Одабрана поглавља из телекомуникација 6) | И | 3+1+1 | 6 |
+| Са модула Физичка електроника |  |  |  |  |
+| [13Е063ОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OE-2019) | Оптоелектроника | И | 3+1+1 | 6 |
+| Са било ког модула |  |  |  |  |
+|  | Предмет из 5. или 7. семестра са 6 кредита, уз одобрење руководиоца модула Електроника и дигитални системи | И |  | 6 |
+
+#### Table 6
+
+| Листа препоручених предмета са других модула који се изводе у парном семестру |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Са смера Микроталасна техника |  |  |  |  |
+| [13Е072ОЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OEM-2019) | Електромагнетика | И | 3+2+0 | 6 |
+| [13Е073МПК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MPK-2019) | Микроталасна пасивна кола | И | 3+1+1 | 6 |
+| [13Е074ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074EK-2019) | Електромагнетска компатибилност | И | 3+1+1 | 6 |
+| Са модула Енергетика |  |  |  |  |
+| [13Е013ЕМА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EMA-2019) | Електричне машине | И | 3+1+1 | 6 |
+| [13Е013ДПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013DPP-2019) | Дигитално управљање претварачима и погонима | И | 2+1+1 | 6 |
+| Са модула Рачунарска техника и информатика |  |  |  |  |
+| [13E112ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OS1-2019) | Оперативни системи 1 | O | 2+2+1 | 6 |
+| [13E112РМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112RM1-2019) | Рачунарске мреже 1 | O | 2+2+1 | 6 |
+| [13E113ЗП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113ZP-2019) | Заштита података | O | 2+2+1 | 6 |
+| Са модула Сигнали и системи |  |  |  |  |
+| [13E053АЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053AES-2019) | Аквизиција електрофизиолошких сигнала | И | 3+1+1 | 6 |
+| [13E053РА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053RA-2019) | Роботика и аутоматизација | И | 3+1+1 | 6 |
+| [13E054КЛИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054KLIN-2020) | Клиничко инжењерство 1) | И | 3+1+1 | 6 |
+| [13E054УИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054UIP-2019) | Управљање индустријским процесима | И | 3+1+1 | 6 |
+| [13E054ОПГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054OPG-2019) | Обрада и препознавање говора | И | 3+1+1 | 6 |
+| Са модула Телекомуникације и информационе технологије |  |  |  |  |
+| [13E034АС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AS-2019) | Аудио системи | О | 3+1+1 | 6 |
+| Са модула Физичка електроника |  |  |  |  |
+| [13E063СП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SP-2019) | Сензори и претварачи | И | 3+0+2 | 6 |
+| [19Е063ОПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E063OPT-2019) | Оптичке телекомуникације | И | 3+1+1 | 6 |
+| [19E064ЕОИЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E064EOIE-2019) | Еколошки обновљиви извори енергије | И | 3+2+0 | 6 |
+| [13E064МЕМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064MEMS-2019) | Микроелектромеханички системи | И | 3+2+0 | 6 |
+| Са било ког модула |  |  |  |  |
+|  | Предмет из 6. или 8. семестра са 6 кредита, уз одобрење руководиоца модула Електроника и дигитални системи | И |  | 6 |
+
+### Енергетика
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/energetika
+- Study type: Osnovne akademske studije
+- Sidebar title: 2019
+- Strana header: Енергетика
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13Е082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2019) | Математика 3 | О | 3+3+0 | 6 |
+| [19E072ГEM](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E072GEM-2019) | Електромагнетика | О | 3+2+0 | 6 |
+| [19E072ГTEК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E072GTEK-2019) | Теорија електричних кола | О | 3+2+0 | 6 |
+| [19E022MEХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E022MEH-2019) | Механика | О | 3+2+0 | 6 |
+| [19E042OE](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042OE-2019) | Oснoви eлeктрoникe | О | 3+1+1 | 6 |
+| Укупно |  | 26 | 30 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19E022EM1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E022EM1-2019) | Eлeктричнa мeрeњa 1 | O | 2+0+3 | 6 |
+| [19E012ГEMA](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E012GEMA-2019) | Eлeктричнe мaшинe | O | 3+1+1 | 6 |
+| [19E012EИНН](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E012EINN-2019) | Eлeктрoeнeргeтскe инстaлaциje нискoг нaпoнa | O | 2,5+2+0,5 | 6 |
+| Бирa сe бар jeдaн oд двa прeдмeтa |  |  |  |  |
+| [13E052СИСГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SISG-2019) | Сигнaли и систeми | И | 3+2+1 | 6 |
+| [19E032OTГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032OTG-2019) | Oснoви тeлeкoмуникaциja | И | 3+1+1 | 6 |
+| Бирa сe један прeдмeт са 6 кредита 1) или двa предмета са 3 кредита или два практикума или један предмет са 3 кредита и један практикум |  |  |  |  |
+| [13E052СИСГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SISG-2019) | Сигнaли и систeми 1) | И | 3+2+1 | 6 |
+| [19E032OTГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SISG-2019) | Oснoви тeлeкoмуникaциja 1) | И | 3+1+1 | 6 |
+| [13E082ВИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIS-2019) | Вeрoвaтнoћa и стaтистикa | И | 1+1+0,5 | 3 |
+| [13E082НУM](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2019) | Нумeричкa мaтeмaтикa | И | 1+1+0,5 | 3 |
+| [13E062ПФE](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062PFE-2019) | Примeњeнa физикa у eлeктрoeнeргeтици | И | 2+1+0 | 3 |
+| [19E012ПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E012PT-2019) | Прeнoс тoплoтe | И | 1+0,5+1 | 3 |
+| [19E072ПРTК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E072PRTK-2019) | Прaктикум из рaчунaрскe aнaлизe трoфaзних кoлa | И | 1+0+1 | 3 |
+| [13E022ПСA](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E022PSA-2019) | Прaктикум из сoфтвeрских aлaтa у eлeктрoeнeргeтици | И | 0+0+2 | 3 |
+| Укупно | 24-26 | 30 |  |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е013ОМН](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013OMN-2019) | Oбртнe мaшинe зa нaизмeничну струjу | O | 3+2+1 | 6 |
+| [19E013EНT](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013ENT-2019) | Енергетски трансформатори | O | 3+1+0,5 | 6 |
+| [19Е023ЕЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E023EES-2019) | Елементи електроенергетских система | O | 2+2+0 | 6 |
+| [19Е053САУГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E053SAUG-2019) | Системи аутоматског управљања | O | 3+1+0.5 | 6 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 4-5 | 6 |
+| Укупно |  | 23-24 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е023АЕ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E023AE1-2019) | Анализа електроенергетских система 1 | O | 3+2+0 | 6 |
+| [19Е023ТВН1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E023TVN1-2019) | Техника високог напона 1 | O | 2+1+1 | 6 |
+| [19E013EП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013EP1-2019) | Eнeргeтски прeтвaрaчи 1 | O | 2+2+0.5 | 6 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 4-5 | 6 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 4-5 | 6 |
+| Укупно |  | 21.5-23.5 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е024РПОГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024RPOG-2019) | Разводна постројења | O | 2+2+1 | 6 |
+| [19E014EMП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014EMP-2019) | Eлeктрoмoтoрни пoгoни | O | 2+2+0.5 | 6 |
+|  | Бирa сe jeдaн oд двa прeдмeтa сa листe 8 | И | 4-5 | 6 |
+|  | Избoрни прeдмeт сa листe 1, 2, 3 или 8 | И | 4-5 | 6 |
+|  | Избoрни прeдмeт сa листe 1, 2 или 3, или Прaктикум сa листe 4 или 5 или Стрaни jeзик 3 и Прojeкaт сa листe 6 или 7 | И | 4-5 | 6 (или 3+3) |
+| Укупно |  | 21.5-23.5 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е024РЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024RZ-2022) | Релејна заштита 3) | О | 2+1+2 | 6 |
+|  | Изборни предмет са листе 1, 2 или 3 | И | 4-5 | 6 |
+|  | Избoрни прeдмeт сa листe 1, 2 или 3, или Прaктикум сa листe 4 или 5 или Стрaни jeзик 4 и Прojeкaт сa листe 6 или 7 | И | 4-5 | 6 (или 3+3) |
+|  | Стручна пракса | О |  | 2 |
+|  | Завршни рад | О |  | 10 |
+| Укупно |  | 18-20 | 30 |  |
+
+#### Table 4
+
+| Листа 1: Изборни предмети Катедре за електроенергетске системе Напомена: морају да се изаберу најмање 2 предмета са ове листе |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [19Е024АЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024AE2-2019) | Анализа електроенергетских система 2 | Н | 2+2+0 | 6 |
+| [19Е024ТВН2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024TVN2-2019) | Техника високог напона 2 | Н | 2+1+1 | 6 |
+| [19Е023ЕМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E023EM2-2019) | Електрична мерења 2 | Н | 2+0+2 | 6 |
+| [19Е024ЕМН](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024EMN-2019) | Електрична мерења неелектричних величина | П | 2+2+0 | 6 |
+| [19Е023ОИЕГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E023OIEG-2019) | Обновљиви извори енергије | П | 2+2+0,5 | 6 |
+| [19Е024КЕЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024KEE-2019) | Квалитет електричне енергије | П | 2+1+1 | 6 |
+| [19Е023ЕЛЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E023ELE-2019) | Електране | П | 2+2+0 | 6 |
+| [19Е024ТЕД](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024TED-2019) | Тржиште електричне енергије и дерегулација | П | 3+1+0 | 6 |
+| [19Е024ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024PPR-2019) | Пројектовање помоћу рачунара у електронергетици | П | 2+1+1 | 6 |
+| [19Е023ОПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E023OPE-2019) | Општа енергетика | Н | 3+1+0 | 6 |
+| [19Е024ВНО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024VNO-2019) | Високонапонска опрема | П | 2+2+0 | 6 |
+| [19Е024ДЕА](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024DEA-2024) | Друштвено-економски аспекти енергетске транзиције 7) | П | 3+1+0 | 6 |
+
+#### Table 5
+
+| Листа 2: Изборни предмети Катедре за енергетске претвараче и погоне Напомена: морају да се изаберу најмање 2 предмета са ове листе. |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [19Е013ЕЛО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013ELO-2019) | Електрично осветљење | Н | 2+2+0 | 6 |
+| [19Е013ЕИ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013EI2-2019) | Електричне инсталације ниског напона 2 | Н | 2+2+0,5 | 6 |
+| [19Е014ВМП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014VMP-2019) | Вишемоторни погони | П | 2+2+0 | 6 |
+| [19Е014РЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014REP-2019) | Регулација електромоторних погона | П | 2+2+0,5 | 6 |
+| [19Е013ЕП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013EP2-2019) | Енергетски претварачи 2 | Н | 2+2+0,5 | 6 |
+| [19Е013УЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013UEP-2019) | Управљање енергетским претварачима | П | 2+1+1 | 6 |
+| [19Е013ГДПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013GDPP-2019) | Дигитално управљање претварачима и погонима | П | 2+1+1 | 6 |
+| [19Е013ЕВО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013EVO-2019) | Електрична возила | Н | 2,5+1+0,5 | 6 |
+| [19Е013ЗЗЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013ZZE-2019) | Загревање и заштита електричних машина | Н | 3+1+0 | 6 |
+| [19Е013ИЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013IEM-2019) | Испитивање електричних машина | П | 2+0+2 | 6 |
+| [19Е013ЕМЈС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013EMJS-2019) | Електричне машине за једносмерну струју | Н | 2+1+1 | 6 |
+| [19Е013СЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013SEI-2019) | Специјалне електричне инсталације | П | 2+1+1 | 6 |
+| [19E013ЕФТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013EFT-2019) | Енергетски ефикасни електротермички процеси 8) | П | 2+1+1 | 6 |
+| [19Е013САЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013SAE-2019) | Софтверски алати у електроенергетици | Н | 2+2+0 | 6 |
+| [19Е013ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013OPI-2019) | Општи инжењеринг | П | 2+2+0 | 6 |
+| [19Е013АЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013AEM-2019) | Aнaлизa eлeктричних мaшинa мeтoдoм кoнaчних eлeмeнaтa 4) | П | 2+2+0 | 6 |
+| [19Е013ОМН2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013OMN2-2021) | Обртне машине за наизменичну струју 2 | П | 2+1+2 | 6 |
+| [19Е013ПРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E013PRM-2022) | Прекидачки релуктантни мотори 5) | Н | 2+2+0 | 6 |
+
+#### Table 6
+
+| Листа 3: Изборни предмети са осталих модула ЕТФ-а Напомена: са ове листе могуће је изабрати највише 2 предметa. |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13Е112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2019) | Објектно оријентисано програмирање 1 | Н | 2+2+1 | 6 |
+| [13Е053РА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053RA-2019) | Роботика и аутоматизација | П | 3+1+1 | 6 |
+| [13Е054УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054URV-2019) | Управљање у реалном времену | Н | 3+1+1 | 6 |
+| [19Е063ГМУЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E063GMUE-2019) | Материјали у електроенергетици | П | 3+1+1 | 6 |
+
+#### Table 7
+
+| Листа 4: Практикуми Катедре за електроенергетске системе Сви практикуми имају по 2 часа. |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Практикум | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13Е024ПЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PES-2019) | Практикум из елемената електроенергетских система | Н | 0+1+1 | 3 |
+| [13Е022ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E022PSA-2019) | Практикум из софтверских алата у електроенергетици *) | Н | 0+0+2 | 3 |
+| [13Е024ПАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PAE-2019) | Практикум из анализе електроенергетских система | Н | 0+1+1 | 3 |
+| [13Е024ПЛВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E024PLV-2019) | Практикум - Лабораторијске вежбе из електроенергетских система | П | 0+0+2 | 3 |
+| *) Практикум из софтверских алата у електроенергетици може се изабрати уколико није изабран у 4. семестру. |  |  |  |  |
+
+#### Table 8
+
+| Листа 5: Практикуми Катедре за енергетске претвараче и погоне Сви практикуми имају по 2 часа. |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Практикум | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [19Е014ПЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014PEP-2019) | Практикум из електромоторних погона | Н | 0.5+0+1.5 | 3 |
+| [19Е014ПРЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014PREP-2019) | Практикум из регулације електромоторних погона | П | 0.5+0+1.5 | 3 |
+| [13Е013ПДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013PDS-2019) | Практикум из дигиталних сигналних процесора | Н | 0+0+2 | 3 |
+
+#### Table 9
+
+| Листа 6: Пројекти Катедре за електроенергетске системе |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Пројекат | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [19Е024ПРРП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024PRRP-2019) | Пројекат из разводних постројења | Н / П | 0+0+2 | 3 |
+| [19Е024ПРРЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024PRRZ-2019) | Пројекат из релејне заштите | Н / П | 0+0+2 | 3 |
+| [19Е024ПРПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024PRPP-2019) | Пројекат из пројектовања помоћу рачунара у електроенергетици | Н / П | 0+0+2 | 3 |
+| [19Е024ПРТВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024PRTV-2019) | Пројекат из технике високог напона | Н / П | 0+0+2 | 3 |
+
+#### Table 10
+
+| Листа 7: Пројекти Катедре за енергетске претвараче и погоне |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Пројекат | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [19Е014ПРЕТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014PRET-2019) | Пројекат из енергетских трансформатора | Н / П | 0+0+2 | 3 |
+| [19Е014ПРЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014PREI-2019) | Пројекат из електричних инсталација | Н / П | 0+0+2 | 3 |
+| [19Е014ПРПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014PRPE-2019) | Пројекат из електромоторних погона | Н / П | 0+0+2 | 3 |
+| [19Е014ПРСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014PRSM-2019) | Пројекат из синхроних машина | Н / П | 0+0+2 | 3 |
+| [19Е014ПРЕН](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014PREN-2019) | Пројекат из енергетских претварача | Н / П | 0+0+2 | 3 |
+| [19Е014ППРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014PRUP-2019) | Пројекат из дигиталног управљања претварачима и погонима | Н / П | 0+0+2 | 3 |
+| [19Е014ПРУП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014PPRM-2022) | Пројекат из прекидачких релуктантних мотора 5) | Н / П | 0+0+2 | 3 |
+
+#### Table 11
+
+| Листа 8: Услoвни избoрни прeдмeти |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Пројекат | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [19E024ДИМР](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E024DIMR-2022) | Дистрибутивнe и индустриjскe мрeжe 6) | Н | 3+1+1 | 6 |
+| [19E014TПE](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E014TPE-2019) | Teрмички прoцeси у eлeктрoeнeргeтици | Н | 2+1+1 | 6 |
+
+### Рачунарска техника и информатика
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/racunarska-tehnika-i-informatika
+- Study type: Osnovne akademske studije
+- Sidebar title: 2019
+- Strana header: Рачунарска техника и информатика
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E112АСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112ASP-2019) | Алгоритми и структуре података | O | 3+2+0 | 6 |
+| [13E082НАД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NAD-2019) | Нумеричка анализа и дискретна математика | O | 2+2+1 | 6 |
+| [13E112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2019) | Објектно оријентисано програмирање 1 | O | 2+2+1 | 6 |
+| [13E112ОРТ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112ORT2-2019) | Основи рачунарске технике 2 | O | 2+2+1 | 6 |
+| [13E052СИСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SISR-2019) | Сигнали и системи | О | 3+1+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E112АР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112AR-2019) | Архитектура рачунара | O | 2+2+1 | 6 |
+| [13E112ОО2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO2-2019) | Објектно оријентисано програмирање 2 | O | 2+2+1 | 6 |
+| [13E112ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OS1-2019) | Оперативни системи 1 | O | 2+2+1 | 6 |
+| [13E112РМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112RM1-2019) | Рачунарске мреже 1 | O | 2+2+1 | 6 |
+| Бира се један од следећа два предмета |  |  |  |  |
+| [13E082ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VS-2019) | Вероватноћа и статистика | И | 2+2+1 | 6 |
+| [13E082ВИСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VISR-2019) | Вероватноћа и статистика | И | 1+1+0.5 | 3 |
+| Ако се из претходне групе изабере предмет од 3 ЕСПБ, онда се мора изабрати и један практикум/предмет из следеће групе. |  |  |  |  |
+| [13E112ПОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112POS-2019) | Практикум из Оперативних система | И | 0+1+0.5 | 3 |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2019) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2019) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2019) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2019) | Страни језик 4 | И | 2+0+0 | 3 |
+| Укупно |  | 24-25 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E113АОР1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113AOR1-2019) | Архитектура и организација рачунара 1 | O | 2+2+1 | 6 |
+| [13E113БП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113BP1-2019) | Базе података 1 | O | 2+2+1 | 6 |
+| [13E113КДП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113KDP-2019) | Конкурентно и дистрибуирано програмирање | O | 2+2+1 | 6 |
+| Бира се један или два од следећа четири изборна предмета |  |  |  |  |
+| [13E113ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113OS2-2019) | Оперативни системи 2 | И | 2+2+1 | 6 |
+| [13E073РТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073RTEK-2019) | Теорија електричних кола | И | 2+2+1 | 6 |
+| [13E043ОАЕР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043OAER-2019) | Основи аналогне електронике 1) | И | 2+2+1 | 6 |
+| [13E053МСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053MSR-2019) | Мерни системи у рачунарству | И | 2+2+1 | 6 |
+| Уколико се из претходне групе изабере само један предмет онда се бирају два од следећа три предмета |  |  |  |  |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2019) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2019) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2019) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2019) | Страни језик 3 | И | 2+0+0 | 3 |
+| [13E083ПРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E083PRM-2019) | Практикум из рачунарских алата у математици | И | 1+0+1 | 3 |
+| [13E113ППК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113PPK-2019) | Практикум из пословне комуникације и презентације | И | 1+1+0.5 | 3 |
+| Укупно |  | 24-25 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E113ПИА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113PIA-2019) | Програмирање интернет апликација | O | 2+2+1 | 6 |
+| [13E113ЗП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113ZP-2019) | Заштита података | O | 2+2+1 | 6 |
+| [13E113СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113SS-2019) | Системски софтвер | O | 2+2+1 | 6 |
+| [13E033ОТР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OTR-2019) | Основи телекомуникација | O | 2+2+1 | 6 |
+| Бира се један од следећа седам изборна предмета |  |  |  |  |
+| [13E113АОР2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113AOR2-2019) | Архитектура и организација рачунара 2 | И | 2+2+1 | 6 |
+| [13E113УСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113USP-2019) | Управљање софтверским пројектима | И | 2+2+1 | 6 |
+| [13E043ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043OD-2019) | Основи дигиталне електронике 2) | И | 2+2+1 | 6 |
+| [13E053ДОСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053DOSR-2019) | Дигитална обрада сигнала | И | 2+2+1 | 6 |
+| [13E033ПМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033PMT-2019) | Принципи модерних телекомуникација | И | 2+2+1 | 6 |
+| [13E072ОЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OEM-2019) | Електромагнетика | И | 3+2+0 | 6 |
+| [13E073АЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AEF-2019) | Аналогни електрични филтeри | И | 2+2+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E114МИПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114MIPS-2019) | Микропроцесорски системи | O | 2+2+1 | 6 |
+| [13E114ПП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PP1-2019) | Програмски преводиоци 1 | O | 2+2+1 | 6 |
+| [13E114ВЛСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114VLSI-2019) | Рачунарски VLSI системи | О | 2+2+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+| Бирају се два од следећа три изборна предмет а |  |  |  |  |
+| [13E114РМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114RM2-2019) | Рачунарске мреже 2 | И | 2+2+1 | 6 |
+| [13E114ПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PS-2019) | Пројектовање софтвера | И | 2+2+1 | 6 |
+| [13E114ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IS-2019) | Интелигентни системи | И | 2+2+1 | 6 |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E114ПРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PRS-2019) | Перформансе рачунарских система | O | 2+2+1 | 6 |
+| Бираjу се два од следећих седам изборних предмета |  |  |  |  |
+| [13E114БП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114BP2-2019) | Базе података 2 | И | 2+2+1 | 6 |
+| [13E114ИС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IS1-2019) | Информациони системи 1 | И | 2+2+1 | 6 |
+| [13E114ИЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IEP-2019) | Инфраструктура за електронско пословање | И | 2+2+1 | 6 |
+| [13E114МУПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114MUPS-2019) | Мултипроцесорски системи | И | 2+2+1 | 6 |
+| [13E114ПАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PAR-2019) | Паралелни рачунарски системи | И | 2+2+1 | 6 |
+| [13E114РГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114RG-2019) | Рачунарска графика | И | 2+2+1 | 6 |
+| [13E114САБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114SAB-2019) | Софтверски алати база података | И | 2+2+1 | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+### Сигнали и системи
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/signali-i-sistemi
+- Study type: Osnovne akademske studije
+- Sidebar title: 2019
+- Strana header: Сигнали и системи
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2019) | Математика 3 | O | 3+3+0 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2019) | Теорија електричних кола | O | 3+2+0 | 6 |
+| [19E042OAE](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042OAE-2019) | Основи аналогне елeктронике | O | 3+2+1 | 6 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2019) | Објектно оријентисано програмирање 1 | И | 2+2+1 | 6 |
+| [19E112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E112OOP-2019) | Објектно оријентисано програмирање | И | 2+2+1 | 6 |
+| Бира се један предмет или два практикума |  |  |  |  |
+| [19Е062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E062OFE-2019) | Основи физичке електронике | И | 3+2+0 | 6 |
+| [19Е052ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E052EM-2019) | Електрична мерења | И | 2+0+3 | 6 |
+| [19Е052ДМС](https://www.etf.bg.ac.rs/sr-lat/fis/karton_predmeta/19E052DMS-2019#gsc.tab=0) | Динамика механичких система | И | 2+2+1 | 6 |
+| [19E112ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E112OR-2019) | Организација рачунара | И | 2+2+1 | 6 |
+| [19E082НАД](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E082NAD-2019) | Нумеричка анализа и дискретна математика | И | 2+2+1 | 6 |
+| [13E072ПРК3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072PRK3-2019) | Практикум из рачунарске анализе кола | И | 1+0+1 | 3 |
+| [13E082РПМ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082RPM3-2019) | Рачунарски практикум из математике 3 | И | 1+0+1 | 3 |
+| [13E112ПОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112POR-2019) | Практикум из организације рачунара | И | 0+0+2 | 3 |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2019) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2019) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2019) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2019) | Страни језик 3 | И | 2+0+0 | 3 |
+| Укупно |  | 29 | 30 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SIS-2019) | Сигнали и системи | O | 3+1+1 | 6 |
+| [13E032ОТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032OTS-2019) | Основи телекомуникација | O | 3+2+1 | 6 |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2019) | Основи дигиталне електронике | O | 3+1+1 | 6 |
+| Бирају се од два до три од следећих шест предмета |  |  |  |  |
+| [13E082САО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082SAO-2019) | Сложеност алгоритама и одабране методе оптимизације | И | 1+1+0.5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2019) | Диференцијалне једначине | И | 1+1+0.5 | 3 |
+| [13E082ЈМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082JMF-2019) | Једначине математичке физике | И | 1+1+0.5 | 3 |
+| [13E082ВИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIS-2019) | Вероватноћа и статистика | И | 1+1+0.5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2019) | Нумеричка математика | И | 1+1+0.5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2019) | Одабрана поглавља из реалне и комплексне анализе | И | 1+1+0.5 | 3 |
+| Ако су из претходне групе изабрана два предмета из следеће се може бирати један предмет или два практикума, а ако су из претходне групе изабрана три предмета из следеће се може бирати један практикум |  |  |  |  |
+| [13E072ОЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OEM-2019) | Електромагнетика | И | 3+2+0 | 6 |
+| [13E082ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VS-2019) | Вероватноћа и статистика | И | 2+2+1 | 6 |
+| [13E112ОО2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO2-2019) | Објектно оријентисано програмирање 2 | И | 2+2+1 | 6 |
+| [13E112СМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112SMS-2019) | Системски софтвер 5) | И | 2+2+1 | 6 |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2019) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2019) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2019) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2019) | Страни језик 4 | И | 2+0+0 | 3 |
+| [13E052ПСА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052PSA-2019) | Практикум из софтверских алата | И | 1+0+1.5 | 3 |
+| [13E052ПМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052PMS-2019) | Практикум из мерно-аквизиционих система | И | 0+1+2 | 3 |
+| Укупно |  | 24.5-25 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E053САУ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SAU1-2019) | Системи аутоматског управљања 1 | O | 3+2+1 | 6 |
+| [13E053ССЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SSE-2019) | Стохастички системи и естимација | O | 3+2+0 | 6 |
+| [13E053ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053DOS-2019) | Дигитална обрада сигнала | O | 3+1+1 | 6 |
+| Из следеће групе се бирају 2 предмета или 1 предмет и 2 практикума у укупном износу од 12 кредита |  |  |  |  |
+| [13E053СА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SA-2019) | Сензори и актуатори | И | 3+1+1 | 6 |
+| [13E053ХПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053HPS-2019) | Хидраулички и пнеуматички системи | И | 3+1+1 | 6 |
+| [13E053ССО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SSO-2019) | Системи и сигнали у организму | И | 3+1+1 | 6 |
+| [13E013ПДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013PDS-2019) | Практикум из дигиталних сигналних процесора | И | 0+0+2 | 3 |
+| [13E083МОАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E083MOAR-2019) | Математичке основе аутоматског резоновања | И | 1+1+0.5 | 3 |
+| [13E053ПДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053PDO-2019) | Практикум из дигиталне обраде сигнала 4) | И | 0+1+1 | 3 |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2019) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2019) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2019) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2019) | Страни језик 3 1) | И | 2+0+0 | 3 |
+|  | Било који предмет или практикуми са листе овог модула у трећем семестру у укупном збиру од 6 кредита | И |  | 6 |
+|  | Било који предмет или практикуми са листе других модула у трећем или петом семестру у укупном збиру од 6 кредита | И |  | 6 |
+| Укупно |  | 25-26 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E053САУ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SAU2-2019) | Системи аутоматског управљања 2 | О | 3+2+1 | 6 |
+| Бира се један од следећа два изборна предмета |  |  |  |  |
+| [13E013EМА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EMA-2019) | Електричне машине | И | 3+1+1 | 6 |
+| [13E013УПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013UPE-2019) | Управљање електромоторним погонима | И | 3+1+1 | 6 |
+| Бирају се предмети или практикуми из следеће групе у укупном збиру од 18 кредита |  |  |  |  |
+| [13E053САС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SAS-2019) | Спектрална анализа сигнала | И | 3+1+1 | 6 |
+| [13E053НСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053NSU-2019) | Нелинеарни системи управљања | И | 3+1+1 | 6 |
+| [13E053МИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053MIP-2019) | Моделирање и идентификација процеса | И | 3+1+1 | 6 |
+| [13E053РА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053RA-2019) | Роботика и аутоматизација | И | 3+1+1 | 6 |
+| [13E053АЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053AES-2019) | Аквизиција електрофизиолошких сигнала | И | 3+1+1 | 6 |
+| [19Е063РНМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E063RNMT-2019) | Радиолошка и нуклеарна медицинска техника | И | 3+1,5+0,5 | 6 |
+| [13Е093ЕИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E093EIM-2019) | Економија и менаџмент 5) | И | 3+2+0 | 6 |
+| [13E053ПДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053PDO-2019) | Практикум из дигиталне обраде сигнала 4) | И | 0+1+1 | 3 |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2019) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2019) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2019) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2019) | Страни језик 4 2) | И | 2+0+0 | 3 |
+|  | Било који предмет или практикуми са листе овог модула у четвртом семестру у укупном збиру од 6 кредита | И |  | 6 |
+|  | Било који предмет или практикуми са листе других модула у четвртом или шестом семестру у укупном збиру од 6 кредита | И |  | 6 |
+| Укупно |  | 24-26 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E054УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054URV-2019) | Управљање у реалном времену | О | 3+1+1 | 6 |
+| Бирају се четири из листе понуђених предмета |  |  |  |  |
+| [13E054НМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054NM-2019) | Неуралне мреже | И | 3+1+1 | 6 |
+| [13E054ПО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054PO-2019) | Препознавање облика | И | 3+1+1 | 6 |
+| [13E054ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054DOS-2019) | Дигитална обрада слике | И | 3+1+1 | 6 |
+| [13E054АВО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054AVO-2019) | Аутоматско вођење објеката у простору 6) | И | 3+1+1 | 6 |
+| [19Е054ЦНЦ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E054CNC-2019) | ЦНЦ системи и флексибилна аутоматизација | И | 3+0+2 | 6 |
+| [13E044НСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NSS-2019) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+| [13E114ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IP-2019) | Интернет програмирање | И | 2+2+1 | 6 |
+| [13E054НС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054NS2-2019) | Нелинеарни системи управљања 2 | И | 3+2+0 | 6 |
+| [13E054МАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MAS-2019) | Методе анализе електрофизиолошких сигнала | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе овог модула у петом семестру у укупном збиру од 6 кредита | И |  | 6 |
+|  | Било који предмет или практикуми са листе других модула у петом или седмом семестру у укупном збиру од 6 кредита | И |  | 6 |
+| Укупно |  | 24-25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бирају се три из листе понуђених предмета |  |  |  |  |
+| [13E054КЛИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054KLIN-2020) | Клиничко инжењерство 3) | И | 3+1+1 | 6 |
+| [13E054МСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MSU-2019) | Мултиваријабилни системи управљања | И | 3+2+0 | 6 |
+| [13E054ВИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054VI-2019) | Вештачка интелигенција | И | 3+1+1 | 6 |
+| [13E054ОПГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054OPG-2019) | Обрада и препознавање говора | И | 3+1+1 | 6 |
+| [13E054АСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054ASS-2019) | Адаптивни системи за управљање и обраду сигнала 7) | И | 3+1+1 | 6 |
+| [19Е054АМР](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E054AMR-2019) | Аутономни мобилни роботи | И | 3+1+1 | 6 |
+| [13E013ДПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013DPP-2019) | Дигитално управљање претварачима и погонима | И | 2+1+1 | 6 |
+| [13E054ПРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054PRV-2019) | Програмирање у реалном времену | И | 2+2+1 | 6 |
+| [13E054УИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054UIP-2019) | Управљање индустријским процесима | И | 3+1+1 | 6 |
+| [13Е054АБС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054ABS-2019) | Анализа биомедицинске слике | И | 3+0+2 | 6 |
+|  | Било који предмет или практикуми са листе овог модула у шестом семестру у укупном збиру од 6 кредита | И |  | 6 |
+|  | Било који предмет или практикуми са листе других модула у шестом или осмом семестру у укупном збиру од 6 кредита | И |  | 6 |
+|  | Стручна пракса | О |  | 2 |
+|  | Завршни рад | О |  | 10 |
+| Укупно |  | 13-15 | 30 |  |
+
+### Телекомуникације и информационе технологије
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/telekomunikacije-i-informacione-tehnologije
+- Study type: Osnovne akademske studije
+- Sidebar title: 2019
+- Strana header: Телекомуникације и информационе технологије
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2019) | Математика 3 | O | 3+3+0 | 6 |
+| [19Е052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E052SIS-2019) | Сигнали и системи | O | 3+1+1 | 6 |
+| [19Е032ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032OPI-2019) | Основи и примена Интернета | O | 3+2+0 | 6 |
+| Бира се један из групе 1 |  |  |  |  |
+| [13E082ВИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIST-2019) | Вероватноћа и статистика | И | 1+1+0,5 | 3 |
+| [19E082ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E082VS-2019) | Вероватноћа и статистика* | И | 2+2+1 | 6 |
+| Бира се један из групе 2 |  |  |  |  |
+| [19Е042ОАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042OAE-2019) | Основи аналогне електронике | И | 3+2+1 | 6 |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2019) | Теорија електричних кола | И | 3+2+0 | 6 |
+| [19Е032ЕИКТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032EIKT-2019) | Елементи ИКТ склопова 1) | И | 3+2+0 | 6 |
+| [19E112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E112OOP-2019) | Објектно-оријентисано програмирање | И | 2+2+1 | 6 |
+| [13E112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2019) | Објектно оријентисано програмирање 1 | И | 2+2+1 | 6 |
+| Бира се један из групе 3 |  |  |  |  |
+| [13E072ПРК3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072PRK3-2019) | Практикум из рачунарске анализе кола | И | 1+0+1 | 3 |
+| [13E082РПМ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082RPM3-2019) | Рачунарски практикум из математике 3 | И | 1+0+1 | 3 |
+| [19Е032ПСА1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032PSA1-2019) | Практикум софтверски алати 1 | И | 1+0+1.5 | 3 |
+| [13E092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ3-2019) [13E092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ3-2019) [13E092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ3-2019) [13E092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ3-2019) | Страни језик 3 | И | 2+0+0 | 3 |
+| * ако се изабере не мора се изабрати нити један предмет из групе 3 |  |  |  |  |
+| Укупно |  | 25.5-27 | 30 |  |
+|  |  |  |  |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е032ТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032TM-2019) | Телекомуникационе мреже | O | 3+1.5+0.5 | 6 |
+| [13E032Т1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E032T1-2019) | Телекомуникације 1 | O | 3+2+1 | 6 |
+| [13E072ТЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072TEM-2019) | Електромагнетика | O | 3+2+0 | 6 |
+| [19Е032АИКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032AIKS-2019) | Архитектура информационо-комуникационих система | O | 3+1+0 | 5 |
+| Бирaју се два предмета из групе (минимално 7 кредита) |  |  |  |  |
+| [19Е032ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032EM-2019) | Електрична мерења | И | 2+0+2 | 4 |
+| [19Е112БПО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E112BPO-2022) | Базе података 2) | И | 2+2+1 | 4 |
+| [13E082ЕДМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082EDMT-2019) | Елементи дискретне математике у телекомуникацијама | И | 1+1+0,5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2019) | Диференцијалне једначине | И | 1+1+0,5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2019) | Нумеричка математика | И | 1+1+0,5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2019) | Одабрана поглавља из реалне и комплексне анализе | И | 1+1+0,5 | 3 |
+| [19Е032ПСА2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032PSA2-2019) | Практикум софтверски алати 2 6) | И | 1+0+1,5 | 3 |
+| [13E092ЕЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092EJ4-2019) [13E092РЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092RJ4-2019) [13E092НЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092NJ4-2019) [13E092ФЈ4](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E092FJ4-2019) | Страни језик 4 | И | 2+0+0 | 3 |
+| Укупно |  | 26-27.5 | 30-31 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS1-2019) | Обрада сигнала 1 | O | 3+1+1 | 6 |
+| [13E033Т2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T2-2019) | Телекомуникације 2 | O | 3+2+1 | 6 |
+| [19Е033ТИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033TIK-2019) | Теорија информација и кодовање | O | 3+1+1 | 6 |
+| [19Е033ПОП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033POP-2019) | Примена објектног програмирања у мрежама | O | 3+1+1 | 6 |
+| Бира се један из групе |  |  |  |  |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2019) | Електроакустика | И | 3+1+1 | 6 |
+| [13E033ТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TM-2019) | Телекомуникациона мерења | И | 3+1+1 | 6 |
+| [19Е033СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033SOS-2019) | Системи за обраду слике | И | 3+1+1 | 6 |
+| [19Е053ОСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E053OSU-2019) | Основи система управљања | И | 3+2+1 | 6 |
+| [13E073МТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MT-2019) | Микроталасна техника | И | 3+1,5+0,5 | 6 |
+| [13E073АП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AP-2019) | Антене и простирање | И | 3+1+1 | 6 |
+| [13Е112АСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112ASP-2019) | Алгоритми и структуре података 7) | И | 3+2+0 | 6 |
+| [19Е042ОАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042OAE-2019) | Основи аналогне електронике 8) | И | 3+2+1 | 6 |
+| Укупно |  | 26-27 | 30 |  |
+|  |  |  |  |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033РК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033RK-2019) | Радио комуникације | O | 3+1+1 | 6 |
+| [19Е033КТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033KT-2019) | Комуникационе технологије | O | 3+1+1 | 6 |
+| [19Е033МАП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033MAP-2019) | Мрежна администрација и програмирање | O | 3+1+1 | 6 |
+| Бира се један из групе |  |  |  |  |
+| [13E033ОГК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OGK-2019) | Основи говорне комуникације | И | 3+1+1 | 6 |
+| [13E034АС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AS-2019) | Аудио системи | И | 3+1+1 | 6 |
+| [19Е033ВТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033VTS-2019) | Видео технологије и системи | И | 3+1+1 | 6 |
+| Бира се један из групе |  |  |  |  |
+| [19E033УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033URV-2019) | Усмерене радио везе 3) | И | 3+1+1 | 6 |
+| [19Е033СПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033SPT-2019) | Случајни процеси у телекомуникацијама | И | 3+1+1 | 6 |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2019) | Основи дигиталне електронике | И | 3+1+1 | 6 |
+| [13E063ОТК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OTK-2019) | Оптоелектронске телекомуникационе компоненте | И | 3+1+1 | 6 |
+| [19E073САП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E073SAP-2019) | Софтверски алати за пројектовање антена | И | 3+1+1 | 6 |
+| [13E073МПК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MPK-2019) | Микроталасна пасивна кола | И | 3+1+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е034ОБМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034OBM-2019) | Оптичке и бежичне мреже | О | 3+1+1 | 6 |
+| [13E034РС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RS-2019) | Радио системи | О | 3+1+1 | 6 |
+| [13E034КС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034KS-2019) | Комутациони системи | О | 3+1+1 | 6 |
+| Бирају се два из групе |  |  |  |  |
+| [19E034ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034IP-2019) | Интернет програмирање | И | 3+0+1.5 | 6 |
+| [13Е034РМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RMS-2019) | Развој мобилних сервиса 5) | И | 3+1+1 | 6 |
+| [13Е034ИoТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IoT-2019) | IoT мреже | И | 3+1+1 | 6 |
+| [19E034ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034OS2-2019) | Обрада сигнала 2 | И | 2+2+1 | 6 |
+| [19Е034АДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034ADO-2019) | Алгоритми за динамичку оптимизацију 6) | И | 2+2+1 | 6 |
+| [13E044НСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NSS-2019) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+| [13E074ММ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074MM-2019) | Микроталасна мерења | И | 3+1+1 | 6 |
+| [13E074МЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074ME-2019) | Микроталасна електроника | И | 3+1+1 | 6 |
+| [19E033УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033URV-2019) | Усмерене радио везе 3) | И | 3+1+1 | 6 |
+| Укупно |  | 24.5-25 | 30 |  |
+|  |  |  |  |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е034МБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034MB-2019) | Мрежна безбедност | О | 3+0+1.5 | 6 |
+| Бирају се два из групе |  |  |  |  |
+| [19E034ВИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034VIM-2022) | Вештачка интелигенција у мобилним мрежама 4) | И | 3+1+1 | 6 |
+| [13E034ПКХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PKH-2019) | Програмирање комуникационог хардвера | И | 3+1+1 | 6 |
+| [19Е034АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034AI-2019) | Архитектура Интернета | И | 3+1+1 | 6 |
+| [13E034ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PPR-2019) | Принципи позиционирања у радио системима 6) | И | 3+1+1 | 6 |
+| [13E034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MIST-2019) | Моделирање и симулација у телекомуникацијама | И | 3+1+1 | 6 |
+| [19Е074ПМПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E074PMPI-2019) | Програмирање мултипроцесорских платформи за инжењерске апликације 5) | И | 2+2+1 | 6 |
+| [13E074ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074EK-2019) | Eлектромагнетска компатибилност | И | 3+1+1 | 6 |
+|  | Стручна пракса | О |  | 2 |
+|  | Завршни рад | О |  | 10 |
+| Укупно |  | 14.5 | 30 |  |
+
+#### Table 4
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E033ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS1-2019) | Обрада сигнала 1 | O | 3+1+1 | 6 |
+| [13E033Т2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T2-2019) | Телекомуникације 2 | O | 3+2+1 | 6 |
+| [19Е033ТИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033TIK-2019) | Теорија информација и кодовање | O | 3+1+1 | 6 |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2019) | Електроакустика | О | 3+1+1 | 6 |
+| Бира се један из групе |  |  |  |  |
+| [19Е033ПОП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033POP-2019) | Примена објектног програмирања у мрежама | И | 3+1+1 | 6 |
+| [13E033ТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TM-2019) | Телекомуникациона мерења | И | 3+1+1 | 6 |
+| [19Е033СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033SOS-2019) | Системи за обраду слике | И | 3+1+1 | 6 |
+| [19E053ОСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E053OSU-2019) | Основи система управљања | И | 3+2+1 | 6 |
+| [13E073МТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MT-2019) | Микроталасна техника | И | 3+1,5+0,5 | 6 |
+| [13E073АП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AP-2019) | Антене и простирање | И | 3+1+1 | 6 |
+| [13Е112АСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112ASP-2019) | Алгоритми и структуре података 7) | И | 3+2+0 | 6 |
+| [19Е042ОАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042OAE-2019) | Основи аналогне електронике 8) | И | 3+2+1 | 6 |
+| Укупно |  | 26-27 | 30 |  |
+|  |  |  |  |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е033ВТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033VTS-2019) | Видео технологије и системи | O | 3+1+1 | 6 |
+| [13E033РК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033RK-2019) | Радио комуникације | O | 3+1+1 | 6 |
+| [19Е033МАП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033MAP-2019) | Мрежна администрација и програмирање | O | 3+1+1 | 6 |
+| Бира се минимум један предмет из групе |  |  |  |  |
+| [13E033ОГК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OGK-2019) | Основи говорне комуникације | И | 3+1+1 | 6 |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2019) | Основи дигиталне електронике | И | 3+1+1 | 6 |
+| [19Е033СПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033SPT-2019) | Случајни процеси у телекомуникацијама | И | 3+1+1 | 6 |
+| Бира се максимум један предмет из групе |  |  |  |  |
+| [19Е033КТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033KT-2019) | Комуникационе технологије | И | 3+1+1 | 6 |
+| [19Е033УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033URV-2019) | Усмерене радио везе 3) | И | 3+1+1 | 6 |
+| [13E063ОТК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OTK-2019) | Оптоелектронске телекомуникационе компоненте | И | 3+1+1 | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 5
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19E034ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034OS2-2019) | Обрада сигнала 2 | О | 2+2+1 | 6 |
+| [19Е034ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034VS-2019) | Видео сервиси | О | 3+1+1 | 6 |
+| Бира се минимум један предмет из групе |  |  |  |  |
+| [19Е034ОБМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034OBM-2019) | Оптичке и бежичне мреже | И | 3+1+1 | 6 |
+| [13E034РС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RS-2019) | Радио системи | И | 3+1+1 | 6 |
+| [13E034КС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034KS-2019) | Комутациони системи | И | 3+1+1 | 6 |
+| Бира се максимум два предмета из групе |  |  |  |  |
+| [19E034ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034IP-2019) | Интернет програмирање | И | 3+0+1.5 | 6 |
+| [13Е034РМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RMS-2019) | Развој мобилних сервиса 5) | И | 3+1+1 | 6 |
+| [13Е034ИoТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IoT-2019) | IoT мреже | И | 3+1+1 | 6 |
+| [19Е034АДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034ADO-2019) | Алгоритми за динамичку оптимизацију 6) | И | 2+2+1 | 6 |
+| [13E044НСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NSS-2019) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+| [13E074ММ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074MM-2019) | Микроталасна мерења | И | 3+1+1 | 6 |
+| [13E074МЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074ME-2019) | Микроталасна електроника | И | 3+1+1 | 6 |
+| [19E033УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033URV-2019) | Усмерене радио везе 3) | И | 3+1+1 | 6 |
+| Укупно |  | 23.5-25 | 30 |  |
+|  |  |  |  |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E034АС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AS-2019) | Аудио системи | О | 3+1+1 | 6 |
+| Бира се минимум један предмет из групе |  |  |  |  |
+| [13E034ПКХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PKH-2019) | Програмирање комуникационог хардвера | И | 3+1+1 | 6 |
+| [19Е034МБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034MB-2019) | Мрежна безбедност | И | 3+0+1.5 | 6 |
+| Бира се максимум један предмет из групе |  |  |  |  |
+| [13E034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MIST-2019) | Моделирање и симулација у телекомуникацијама | И | 3+1+1 | 6 |
+| [19E034ВИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034VIM-2022) | Вештачка интелигенција у мобилним мрежама 4) | И | 3+1+1 | 6 |
+| [19Е034АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034AI-2019) | Архитектура Интернета | И | 3+1+1 | 6 |
+| [13E034ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PPR-2019) | Принципи позиционирања у радио системима 6) | И | 3+1+1 | 6 |
+| [19Е074ПМПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E074PMPI-2019) | Програмирање мултипроцесорских платформи за инжењерске апликације 5) | И | 2+2+1 | 6 |
+| [13E074ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074EK-2019) | Електромагнетска компатибилност | И | 3+1+1 | 6 |
+|  | Стручна пракса | О |  | 2 |
+|  | Завршни рад | О |  | 10 |
+| Укупно |  | 14.5-15 | 30 |  |
+
+#### Table 6
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E073МТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MT-2019) | Микроталасна техника | O | 3+1,5+0,5 | 6 |
+| [13E073АП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AP-2019) | Антене и простирање | O | 3+1+1 | 6 |
+| [13E033Т2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033T2-2019) | Телекомуникације 2 | O | 3+2+1 | 6 |
+| Бирају се два од следећих шест изборних предмета |  |  |  |  |
+| [13E033ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OS1-2019) | Обрада сигнала 1 | И | 3+1+1 | 6 |
+| [19Е033ТИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033TIK-2019) | Теорија информација и кодовање | И | 3+1+1 | 6 |
+| [19Е033ПОП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033POP-2019) | Примена објектног програмирања у мрежама | И | 3+1+1 | 6 |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2019) | Електроакустика | И | 3+1+1 | 6 |
+| [13E033ТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033TM-2019) | Телекомуникациона мерења | И | 3+1+1 | 6 |
+| [19Е033СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033SOS-2019) | Системи за обраду слике | И | 3+1+1 | 6 |
+| [13Е112АСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112ASP-2019) | Алгоритми и структуре података 7) | И | 3+2+0 | 6 |
+| [19Е042ОАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042OAE-2019) | Основи аналогне електронике 8) | И | 3+2+1 | 6 |
+| Укупно |  | 26 | 30 |  |
+|  |  |  |  |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E073МПК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073MPK-2019) | Микроталасна пасивна кола | O | 3+1+1 | 6 |
+| [19E073САП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E073SAP-2019) | Софтверски алати за пројектовање антена | O | 3+1+1 | 6 |
+| [13E033РК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033RK-2019) | Радио комуникације | O | 3+1+1 | 6 |
+| Бирају се два из групе |  |  |  |  |
+| [13E034МАП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MAP-2019) | Мрежна администрација и програмирање | И | 3+1+1 | 6 |
+| [13ЕО33ОГК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033OGK-2019) | Основи говорних комуникација | И | 3+1+1 | 6 |
+| [13E034АС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AS-2019) | Аудио системи | И | 3+1+1 | 6 |
+| [19Е033ВТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033VTS-2019) | Видео технологије и системи | И | 3+1+1 | 6 |
+| [19E033УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033URV-2019) | Усмерене радио везе 3) | И | 3+1+1 | 6 |
+| [19Е033СПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033SPT-2019) | Случајни процеси у телекомуникацијама | И | 3+1+1 | 6 |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2019) | Основи дигиталне електронике | И | 3+1+1 | 6 |
+| [13E063ОТК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OTK-2019) | Оптоелектронске телекомуникационе компоненте | И | 3+1+1 | 6 |
+| [13E073АЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E073AEF-2019) | Аналогни електрични филтри | И | 2+2+1 | 6 |
+|  | Било који предмет или практикуми са листе других модула у четвртом или шестом семестру у укупном збиру од 6 кредита |  |  | 6 |
+| Укупно |  | 25-26 | 30 |  |
+
+#### Table 7
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E074МЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074ME-2019) | Микроталасна електроника | О | 3+1+1 | 6 |
+| [13E074ММ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074MM-2019) | Микроталасна мерења | О | 3+1+1 | 6 |
+| [13E034РС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RS-2019) | Радио системи | О | 3+1+1 | 6 |
+| Бирају се два из групе |  |  |  |  |
+| [19Е034ОБМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034OBM-2019) | Оптичке и бежичне мреже | И | 3+1+1 | 6 |
+| [13E034КС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034KS-2019) | Комутациони системи | И | 3+1+1 | 6 |
+| [19E034ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034IP-2019) | Интернет програмирање | И | 3+0+1.5 | 6 |
+| [13Е034РМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RMS-2019) | Развој мобилних сервиса 5) | И | 3+1+1 | 6 |
+| [13Е034ИoТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IoT-2019) | IoT мреже | И | 3+1+1 | 6 |
+| [19E034ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034OS2-2019) | Обрада сигнала 2 | И | 2+2+1 | 6 |
+| [19Е034АДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034ADO-2019) | Алгоритми за динамичку оптимизацију 6) | И | 2+2+1 | 6 |
+| [13E044НСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NSS-2019) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+| [19Е074ООА](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E074OOA-2019) | Основни оптимизациони алгоритми у инжењерству | И | 2+2+1 | 6 |
+| [19E033УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033URV-2019) | Усмерене радио везе 3) | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе других модула у петом или седмом семестру у укупном збиру од 6 кредита |  |  | 6 |
+| Укупно |  | 24.5-25 | 30 |  |
+|  |  |  |  |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E074ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E074EK-2019) | Електромагнетска компатибилност | О | 3+1+1 | 6 |
+| [19Е033КТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E033KT-2019) | Комуникационе технологије | О | 3+1+1 | 6 |
+| Бира се један из групе |  |  |  |  |
+| [19Е034МБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034MB-2019) | Мрежна безбедност | И | 3+0+1.5 | 6 |
+| [19E034ВИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034VIM-2022) | Вештачка интелигенција у мобилним мрежама 4) | И | 3+1+1 | 6 |
+| [13E034ПКХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PKH-2019) | Програмирање комуникационог хардвера | И | 3+1+1 | 6 |
+| [19Е034АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034AI-2019) | Архитектура Интернета | И | 3+1+1 | 6 |
+| [13E034ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PPR-2019) | Принципи позиционирања у радио системима 6) | И | 3+1+1 | 6 |
+| [13E034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MIST-2019) | Моделирање и симулација у телекомуникацијама | И | 3+1+1 | 6 |
+| [19Е074ПМПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E074PMPI-2019) | Програмирање мултипроцесорских платформи за инжењерске апликације 5) | И | 2+2+1 | 6 |
+|  | Стручна пракса | О |  | 2 |
+|  | Завршни рад | О |  | 10 |
+| Укупно |  | 14.5-15 | 30 |  |
+
+### Физичка електроника
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/er/2019/fizicka-elektronika
+- Study type: Osnovne akademske studije
+- Sidebar title: 2019
+- Strana header: Физичка електроника
+
+#### Table 1
+
+| 3. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E082М3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082M3-2019) | Математика 3 | O | 3+3+0 | 6 |
+| Бирају се најмање два предмета из следеће групе . |  |  |  |  |
+| [19Е042ОАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042OAE-2019) | Основи аналогне електронике | И | 3+2+1 | 6 |
+| [19Е062ОФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E062OFE-2019) | Основи физичке електронике | И | 3+2+0 | 6 |
+| [19Е062МУЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E062MUE-2019) | Материјали у електротехници | И | 3+2+1 | 6 |
+| Ако су из претходне групе изабрана два предмета, из следеће групе се могу бирати предмети и практикуми са укупним збиром од 12-13 кредита, а ако су изабрана три предмета из следеће групе се могу бирати предмети и практикуми са укупним збиром од 6-7 кредита |  |  |  |  |
+| [13E072ОТЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OTEK-2019) | Теорија електричних кола | И | 3+2+0 | 6 |
+| [19Е052ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E052EM-2019) [19Е042ЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E042EM-2019) | Електрична мерења или Електрична мерења | И И | 2+0+3 2+0+3 | 6 4 |
+| [19Е112ООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E112OOP-2019) [13Е112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E112OO1-2019) | Објектно-оријентисано програмирање или Објектно оријентисано програмирање 1 | И И | 2+2+1 2+2+1 | 6 6 |
+| [19E112ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E112OR-2019) | Организација рачунара | И | 2+2+1 | 6 |
+| [13E062ПСМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062PSMT-2019) | Практикум из савремених материјала и технологија | И | 1+0+1,5 | 3 |
+| [19Е072ПРК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E072PRK-2019) | Практикум из рачунарске анализе кола | И | 1+0+1 | 3 |
+| [19Е092ЕЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092EJ3-2019) [19Е092РЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092RJ3-2019) [19Е092НЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092NJ3-2019) [19Е092ФЈ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E092FJ3-2019) | Страни језик 3 | И | 2+0+0 | 3 |
+| Укупно |  | 24-25 | 30-31 |  |
+| 4. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052SIS-2019) | Сигнали и системи | O | 3+1+1 | 6 |
+| [13E062КМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062KM-2019) | Квантна механика | O | 3+2+0 | 6 |
+| Бирају се два предмета из следеће групе |  |  |  |  |
+| [13E082САО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082SAO-2019) | Сложеност алгоритама и одабране методе оптимизације | И | 1+1+0.5 | 3 |
+| [13E082ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082DIF-2019) | Диференцијалне једначине | И | 1+1+0.5 | 3 |
+| [13E082ЈМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082JMF-2019) | Једначине математичке физике | И | 1+1+0.5 | 3 |
+| [13E082ВИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082VIS-2019) | Вероватноћа и статистика | И | 1+1+0.5 | 3 |
+| [13E082НУМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082NUM-2019) | Нумеричка математика | И | 1+1+0.5 | 3 |
+| [13E082ОПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E082OPA-2019) | Одабрана поглавља из реалне и комплексне анализе | И | 1+1+0.5 | 3 |
+| Бирају се два предмета и ниједан практикум или један предмет и два практикума из следеће групе |  |  |  |  |
+| [19Е062ФОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E062FOE-2019) | Физичке основе електродинамике | И | 3+2+0 | 6 |
+| [19Е032ОТФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E032OTF-2019) | Основи телекомуникација | И | 3+2+1 | 6 |
+| [13E072ОЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E072OEM-2019) | Електромагнетика | И | 3+2+0 | 6 |
+| [13E042ОД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E042OD-2019) | Основи дигиталне електронике | И | 3+1+1 | 6 |
+| [13E062ПКЕУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E062PKEU-2019) | Практикум из конструисања електронских уређаја | И | 1+0+1,5 | 3 |
+| [13Е052ПМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E052PMS-2019) | Практикум из мерно-аквизиционих система 2 | И | 0+1+2 | 3 |
+| Укупно |  | 25-26.5 | 30 |  |
+
+#### Table 2
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E063ФТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063FTM-2019) | Физичко техничка мерења | И | 3+0+2 | 6 |
+| [13E063ОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OE-2019) | Оптоелектроника | И | 3+1+1 | 6 |
+| [13E063ФЕЧТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063FECT-2019) | Физичка електроника чврстог тела | И | 3+2+0 | 6 |
+| [13E063СФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SF-2019) | Статистичка физика | И | 3+2+0 | 6 |
+| Ако је из претходне групе изабрано три предмета из следеће групе се бирају два предмета, а ако је изабрано четири предмета из следеће групе бира се један предмет |  |  |  |  |
+| [13E063ЕЕУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063EEU-2019) | Елементи електронских уређаја | И | 3+1+1 | 6 |
+| [13E063КЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063KE-2019) | Квантна електроника | И | 3+2+0 | 6 |
+|  | Било који предмет са другог смера/модула са минимум истим бројем кредита | И |  | 6 |
+| Укупно |  | 25 | 30 |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бирају се најмање два предмета из следеће групе |  |  |  |  |
+| [13E063МИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063MIN-2019) | Микроелектроника и наноелектроника | И | 3+2+0 | 6 |
+| [19Е063ОПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E063OPT-2019) | Оптичке телекомуникације | И | 3+1+1 | 6 |
+| [13E063МК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063MK-2019) | Микроелектронска кола 3) | И | 3+2+0 | 6 |
+| Ако су из претходне групе изабрана два предмета из следеће групе се бирају три предмета, а ако су из претходне групе изабрана три предмета из следеће групе бирају се два предмета |  |  |  |  |
+| [13E063СП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SP-2019) | Сензори и претварачи | И | 3+0+2 | 6 |
+| [13E063ПОТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063POT-2019) | Простирање оптичких таласа | И | 3+2+0 | 6 |
+| [13E064ОН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064ON-2019) | Оптоелектронске направе 2 ) | И | 3+2+0 | 6 |
+|  | Било који предмет или практикуми са листе овог модула у четвртом семестру са укупним збиром 6 кредита | И |  | 6 |
+|  | Било који предмет са другог смера/модула са минимум истим бројем кредита | И |  | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 3
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бира се пет предмета из следеће групе |  |  |  |  |
+| [13E064ЛТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064LT-2019) | Ласерска техника 4) | И | 3+2+0 | 6 |
+| [13E064ОН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064ON-2019) | Оптоелектронске направе 2 ) | И | 3+2+0 | 6 |
+| [13E064СДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064SDOS-2019) | Системи за дигиталну обраду слике | И | 3+1+1 | 6 |
+| [13E064ПКН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064PKN-2019) | Полупроводничке квантне наноструктуре | И | 3+2+0 | 6 |
+| [13E064АМПН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064AMPN-2019) | Анализа и моделовање полупроводничких направа | И | 3+2+0 | 6 |
+| [13E064ФС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FS-2019) | Фибероптички сензори | И | 3+1+1 | 6 |
+| [13E064ОПТ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OPT2-2019) | Оптичке телекомуникације 2 | И | 3+2+0 | 6 |
+| [13E064ФЕГП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FEGP-2019) | Физичка електроника гасова и плазме | И | 3+2+0 | 6 |
+| [13E044НРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NRS-2019) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+|  | Било који предмет са листе овог смера у петом семестру | И |  | 6 |
+|  | Било који предмет са другог смера/модула из седмог семестра са минимум истим бројем кредита | И |  | 6 |
+| Укупно |  | 25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Бирају се три предмета из следеће групе |  |  |  |  |
+| [13E064ОМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OM-2019) | Оптичке мреже | И | 3+2+0 | 6 |
+| [13E064НАН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064NAN-2019) | Наноелектронске направе 4) | И | 3+2+0 | 6 |
+| [13E064ОЛМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OLMS-2019) | Оптоелектронски и ласерски мерни системи | И | 3+0+2 | 6 |
+| [13E064МЕМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064MEMS-2019) | Микроелектромеханички системи | И | 3+2+0 | 6 |
+|  | Било који предмет са овог или другог смера или другог модула из шестог или осмог семестра са минимум истим бројем кредита | И |  | 6 |
+| 13E004СП | Стручна пракса | О |  | 2 |
+| 13E004ЗР | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+#### Table 4
+
+| 5. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е063НФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E063NF-2019) | Нуклеарна физика | O | 3+2+0 | 6 |
+| [13E063ФТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063FTM-2019) | Физичко техничка мерења | O | 3+0+2 | 6 |
+| [13E053ССО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SSO-2019) | Системи и сигнали у организму | O | 3+1+1 | 6 |
+| [19Е063БМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E063BMT-2019) | Биоматеријали | O | 3+2+0 | 6 |
+| Бира се један предмет из следеће групе |  |  |  |  |
+| [13E063СФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SF-2019) | Статистичка физика | И | 3+2+0 | 6 |
+| [13E063ЕЕУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063EEU-2019) | Елементи електронских уређаја | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе овог или других модула у трећем или петом семестру са укупним збиром 6 кредита | И |  | 6 |
+| Укупно |  | 25 | 30 |  |
+|  |  |  |  |  |
+| 6. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е063ДМЈ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E063DMJ-2019) | Детекција и мерење јонизујућег зрачења | О | 3+1+1 | 6 |
+| [19Е063РНМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E063RNMT-2019) | Радиолошка и нуклеарна медицинска техника | О | 3+1.5+1.5 | 6 |
+| [13Е063ОБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063OB-2019) | Основи биофизике | О | 3+2+0 | 6 |
+| [13E053АЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053AES-2019) | Аквизиција електрофизиолошких сигнала | О | 3+1+1 | 6 |
+| Бира се један предмет из следеће групе |  |  |  |  |
+| [13E063СП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E063SP-2019) | Сензори и претварачи | И | 3+0+2 | 6 |
+| [13E053СОМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SOM-2019) | Системи одлучивања у медицини | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе овог или других модула у четвртом или шестом семестру са укупним збиром 6 кредита | И |  | 6 |
+| Укупно |  | 25 | 30 |  |
+
+#### Table 5
+
+| 7. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19Е064МФМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E064MFMS-2019) | Методе формирања медицинске слике | О | 3+2+0 | 6 |
+| [19Е064БИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E064BI-2019) | Биоинформатика | О | 3+2+0 | 6 |
+| [13E064СДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064SDOS-2019) | Системи за дигиталну обраду слике | О | 3+1+1 | 6 |
+| Бирају се два предмета из следеће групе. |  |  |  |  |
+| [19E064ПЛМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E064PLM-2019) | Примена ласера у медицини | И | 3+2+0 | 6 |
+| [13E054МАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MAS-2019) | Методе анализе електрофизиолошких сигнала | И | 3+1+1 | 6 |
+| [13E054БМХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054BMH-2019) | Биомеханика | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе изборних предмета овог или других модула у петом или седмом семестру са укупним збиром 6 кредита | И |  | 6 |
+| Укупно |  | 25 | 30 |  |
+| 8. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13E064ДЗЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064DZZ-2019) | Дозиметрија и заштита од зрачења | О | 3+1+1 | 6 |
+| [13E064НТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064NT-2019) | Нуклеарна техника | О | 3+1.5+0.5 | 6 |
+| Бира се један предмет из следеће групе |  |  |  |  |
+| [19Е064ЕОИЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E064EOIE-2019) | Еколошки обновљиви извори енергије | И | 3+2+0 | 6 |
+| [13E064ФТФР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FTFR-2019) | Физички и технички принципи функционисања фузионих реактора | И | 3+2+0 | 6 |
+| [13E054КЛИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054KLIN-2020) | Клиничко инжењерство 1) | И | 3+1+1 | 6 |
+|  | Било који предмет или практикуми са листе изборних предмета овог или других модула у четвртом, шестом или осмом семестру са укупним збиром 6 кредита | И |  | 6 |
+|  | Стручна пракса | О |  | 2 |
+|  | Завршни рад | О |  | 10 |
+| Укупно |  | 15 | 30 |  |
+
+### Наставни план и програм 2017
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/softversko-inzenjerstvo-si/nastavni-plan-i-program-2017
+- Study type: Osnovne akademske studije
+- Sidebar title: Софтверско инжењерство (СИ)
+- Strana header: Наставни план и програм 2017
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 1.1 | [13С111П1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111P1-2013) | Програмирање 1 | СА | O | 3+2+0 | 5 |
+| 1.2 | [13С081М1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S081M1-2013) | Математика 1 | ТМ | O | 3+2+0 | 5 |
+| 1.3 | [13С041ОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S041OE-2013) | Основи електронике | НС | O | 2+2+1 | 5 |
+| 1.4 | [13С061Ф](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S061F-2013) | Физика | НС | O | 2+2+1 | 5 |
+| 1.5 | [13С111ПП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111PP1-2013) | Практикум из програмирања 1 | СА | O | 0+0+2 | 3 |
+| 1.6 | [13С091ЕЈН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091EJN-2013) [13С091ЕЈВ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091EJV3-2013) | Енглески језик 1) | АО | O | 2+0+0 | 3 |
+| Бирају се два oд следећа три предмета |  |  |  |  |  |  |
+| 1.7-8 | [13С111ПКР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111PKR-2013) | Практикум из коришћења рачунара | СА | И | 1+0+1 | 2 |
+| 1.7-8 | [13С081ПМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S081PM1-2013) | Практикум из Математике 1 | СА | И | 1+1+0 | 2 |
+| 1.7-8 | [13С091С](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091S-2013) | Социологија | АО | И | 1+1+0 | 2 |
+| Укупно |  |  | 28 | 30 |  |  |
+| 2. семестар |  |  |  |  |  |  |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 2.1 | [13С111П2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111P2-2013) | Програмирање 2 | СА | О | 3+2+0 | 5 |
+| 2.2 | [13С111АСП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111ASP1-2013) | Алгоритми и структуре података 1 | НС | О | 2+2+1 | 5 |
+| 2.3 | [13С111ОРТ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111ORT1-2013) | Основи рачунарске технике 1 | НС | О | 3+2+0 | 5 |
+| 2.4 | [13С081М2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S081M2-2013) | Математика 2 | ТМ | О | 3+2+0 | 5 |
+| 2.5 | [13С091ЕЈВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091EJV-2013) [13С091НЈВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091NJV-2013) [13С091НЈН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091NJN-2013) [13С091РЈВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091RJV-2013) [13С091РЈН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091RJN-2013) [13С091ФЈВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091FJV-2013) [13С091ФЈН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091FJN-2013) | Страни језик 2) | АО | О | 2+0+0 | 2 |
+| 2.6 | [13С111ПОРТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111PORT-2013) | Практикум из основа рачунарске технике | СА | О | 0+0+2 | 3 |
+| 2.7 | [13С111ПП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111PP2-2013) | Практикум из програмирања 2 | СА | О | 0+0+2 | 3 |
+| Бира се један oд следећа три предмета |  |  |  |  |  |  |
+| 2.8 | [13С081ПМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S081PM2-2013) | Практикум из Математике 2 | СА | И | 1+1+0 | 2 |
+| 2.8. | [13С111ППК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111PPK-2013) | Практикум из пословне комуникације и презентације | АО | И | 1+0+1 | 2 |
+| 2.8. | [13С091УМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091UM-2013) | Увод у менаџмент | АО | И | 1+1+0 | 2 |
+| 2.8. | [13С111РМФП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111RMFP-2013) | Рачунарско моделовање физичких појава 7 | СА | И | 1+0+1 | 2 |
+| Укупно |  |  | 28 | 30 |  |  |
+
+#### Table 2
+
+| 3. семестар |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 3.1 | [13С112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112OO1-2013) | Објектно-оријентисано програмирање 1 | СА | О | 2+2+1 | 6 |
+| 3.2 | [13С112БП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112BP1-2013) | Базе података 1 | НС | О | 2+2+1 | 6 |
+| 3.3 | [13С112ОРТ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112ORT2-2013) | Основи рачунарске технике 2 | СА | О | 2+2+1 | 6 |
+| 3.4 | [13С112АСП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112ASP2-2013) | Алгоритми и структуре података 2 | НС | О | 2+2+1 | 6 |
+| Бира се један од следећа три изборнa предмета |  |  |  |  |  |  |
+| 3.5 | [13С052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S052SIS-2013) | Сигнали и системи | НС | И | 3+1+1 | 6 |
+| 3.5 | [13С082НАД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S082NAD-2013) | Нумеричка анализа и дискретна математика | ТМ | И | 2+2+1 | 6 |
+| 3.5 | [13С032ПМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S032PMT-2013) | Принципи модерних телекомуникација | НС | И | 2+2+1 | 6 |
+| Укупно |  |  | 25 | 30 |  |  |
+| 4. семестар |  |  |  |  |  |  |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 4.1 | [13С112ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112OS1-2013) | Оперативни системи 1 | НС | О | 2+2+1 | 6 |
+| 4.2 | [13С112АР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112AR-2013) | Архитектура рачунара | НС | О | 2+2+1 | 6 |
+| 4.3 | [13С112ОО2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112OO2-2013) | Објектно-оријентисано програмирање 2 | СА | О | 2+2+1 | 6 |
+| 4.4 | [13С112РМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112RM1-2013) | Рачунарске мреже 1 | СА | О | 2+2+1 | 6 |
+| Бира се један изборни предмет или два практикума |  |  |  |  |  |  |
+| 4.5 | [13С112ВД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112VD-2013) | Веб дизајн | СА | И | 2+2+1 | 6 |
+| 4.5 | [13С082ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S082VS-2013) | Вероватноћа и статистика | ТМ | И | 2+2+1 | 6 |
+| 4.5 | [13С042ОДЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S042ODE-2013) | Основи дигиталне електронике | НС | И | 2+2+1 | 6 |
+| 4.5 | [13С112ППК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112PPK-2013) | Практикум из пословне комуникације и презентације 3) | АО | И | 1+1+0.5 | 3 |
+| 4.5 | [13С112ПОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112POS-2013) | Практикум из оперативних система | СА | И | 0+1+0.5 | 3 |
+| 4.5 | [13С112ПООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112POOP-2013) | Практикум из објектно оријентисаног програмирања | СА | И | 0.5+0+2 | 3 |
+| Укупно |  |  | 25 | 30 |  |  |
+
+#### Table 3
+
+| 5. семестар |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 5.1 | [13С113ИС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113IS1-2013) | Информациони системи 1 | СА | О | 2+2+1 | 6 |
+| 5.2 | [13С113ПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113PS-2013) | Пројектовање софтвера | СА | О | 2+2+1 | 6 |
+| Бирају се три од следећих шест изборних предмета |  |  |  |  |  |  |
+| 5.3-5 | [13С113РМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113RM2-2013) | Рачунарске мреже 2 | СА | И | 2+2+1 | 6 |
+| 5.3-5 | [13С113ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113OS2-2013) | Оперативни системи 2 | НС | И | 2+2+1 | 6 |
+| 5.3-5 | [13С113АОР1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113AOR1-2013) | Архитектура и организација рачунара 1 | НС | И | 2+2+1 | 6 |
+| 5.3-5 | [13С113ТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113TS-2013) | Тестирање софтвера | НС | И | 2+2+1 | 6 |
+| 5.3-5 | [13С053НМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S053NM-2013) | Неуралне мреже | НС | И | 2+2+1 | 6 |
+| 5.3-5 | [13С113ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113IS-2013) | Интелигентни системи | НС | И | 2+2+1 | 6 |
+| Укупно |  |  | 25 | 30 |  |  |
+| 6. семестар |  |  |  |  |  |  |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 6.1 | [13С113КДП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113KDP-2013) | Конкурентно и дистрибуирано програмирање | СА | О | 2+2+1 | 6 |
+| 6.2 | [13С113ПСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113PSI-2013) | Принципи софтверског инжењерства | НС | О | 2+2+1 | 6 |
+| Бирају се три од следећих десет изборних предмета |  |  |  |  |  |  |
+| 6.3-5 | [13С113ИЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113IEP-2013) | Инфраструктура за електронско пословање | СА | И | 2+2+1 | 6 |
+| 6.3-5 | [13С113СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113SS-2013) | Системски софтвер | СА | И | 2+2+1 | 6 |
+| 6.3-5 | [13С113БП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113BP2-2013) | Базе података 2 | СА | И | 2+2+1 | 6 |
+| 6.3-5 | [13С113АОР2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113AOR2-2013) | Архитектура и организација рачунара 2 | НС | И | 2+2+1 | 6 |
+| 6.3-5 | [13С113УСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113USP-2013) | Управљање софтверским пројектима | ТМ | И | 2+2+1 | 6 |
+| 6.3-5 | [13С112ВД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112VD-2013) | Веб дизајн 4) | СА | И | 2+2+1 | 6 |
+| 6.3-5 | [13С113САБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113SAB-2013) | Софтверски алати база података | НС | И | 2+2+1 | 6 |
+| 6.3-5 | [13С113РГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113RG-2013) | Рачунарска графика | НС | И | 2+2+1 | 6 |
+| 6.3-5 | [13С113ПАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113PAR-2013) | Паралелни рачунарски системи 10) | ТМ | И | 2+2+1 | 6 |
+| 6.3-5 | [13С053УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S053URV-2013) | Управљање у реалном времену 8) | НС | И | 2+2+1 | 6 |
+| Укупно |  |  | 25 | 30 |  |  |
+
+#### Table 4
+
+| 7. семестар |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 7.1 | [13С114ПП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114PP1-2013) | Програмски преводиоци 1 | НС | О | 2+2+1 | 6 |
+| 7.2 | [13С114МИПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114MIPS-2013) | Микропроцесорски системи | СА | О | 2+2+1 | 6 |
+| 7.3 | [13С114ПИА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114PIA-2013) | Програмирање Интернет апликација | СА | О | 2+2+1 | 6 |
+| Бирају се два од следећих шест изборних предмета |  |  |  |  |  |  |
+| 7.4-5 | [13С114ИС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114IS2-2013) | Информациони системи 2 | СА | И | 2+2+1 | 6 |
+| 7.4-5 | [13С114ВЛСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114VLSI-2013) | Рачунарски VLSI системи | НС | И | 2+2+1 | 6 |
+| 7.4-5 | [13С114МУПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114MUPS-2013) | Мултипроцесорски системи | СА | И | 2+2+1 | 6 |
+| 7.4-5 | [13С113ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113IS-2013) | Интелигентни системи 5) | НС | И | 2+2+1 | 6 |
+| 7.4-5 | [13С114ПМУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114PMU-2013) | Програмирање мобилних уређаја | СА | И | 2+2+1 | 6 |
+| 7.4-5 | [13С074ИОА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S074IOA-2013) | Инжењерски оптимизациони алгоритми 9) | СА | И | 2+2+1 | 6 |
+| Укупно |  |  | 25 | 30 |  |  |
+| 8. семестар |  |  |  |  |  |  |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 8.1 | [13С114ЗП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114ZP-2013) | Заштита података | НС | О | 2+2+1 | 6 |
+| 8.2 | [13С114ПРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114PRS-2013) | Перформансе рачунарских система | НС | О | 2+2+1 | 6 |
+| Бира се један од следећих изборних предмета |  |  |  |  |  |  |
+| 8.3 | [13С113САБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113SAB-2013) | Софтверски алати база података 6) | НС | И | 2+2+1 | 6 |
+| 8.3 | [13С113ПАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113PAR-2013) | Паралелни рачунарски системи 6) 10) | ТМ | И | 2+2+1 | 6 |
+| 8.3 | [13С113РГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113RG-2013) | Рачунарска графика 6) | НС | И | 2+2+1 | 6 |
+| 8.3 | [13С113ИЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113IEP-2013) | Инфраструктура за електронско пословање 11) | СА | И | 2+2+1 | 6 |
+| 8.3 | [13С113СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113SS-2013) | Системски софтвер 11) | СА | И | 2+2+1 | 6 |
+| 8.3 | [13С113БП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113BP2-2013) | Базе података 2 11) | СА | И | 2+2+1 | 6 |
+| 8.3 | [13С113АОР2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113AOR2-2013) | Архитектура и организација рачунара 2 11) | НС | И | 2+2+1 | 6 |
+| 8.3 | [13С113УСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113USP-2013) | Управљање софтверским пројектима 11) | ТМ | И | 2+2+1 | 6 |
+| 8.3 | [13С112ВД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112VD-2013) | Веб дизајн 11) | СА | И | 2+2+1 | 6 |
+| 8.3 | [13С053УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S053URV-2013) | Управљање у реалном времену 11) | НС | И | 2+2+1 | 6 |
+| 8.4 | 13С004СП | Стручна пракса |  | О |  | 2 |
+| 8.5 | 13С004ЗР | Завршни рад |  | О |  | 10 |
+| Укупно |  |  | 15 | 30 |  |  |
+
+### Наставни план и програм 2024
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/osnovne-akademske-studije/softversko-inzenjerstvo-si/nastavni-plan-i-program-2024
+- Study type: Osnovne akademske studije
+- Sidebar title: Софтверско инжењерство (СИ)
+- Strana header: Наставни план и програм 2024
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 1.1 | [13С111П1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111P1-2024) | Програмирање 1 | СА | O | 3+2+0 | 5 |
+| 1.2 | [13С081М1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S081M1-2024) | Математика 1 | АО | O | 3+2+0 | 5 |
+| 1.3 | [13С041ОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S041OE-2024) | Основи електронике | НС | O | 2+2+1 | 5 |
+| 1.4 | [13С061Ф](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S061F-2024) | Физика | АО | O | 2+2+1 | 5 |
+| 1.5 | [13С111ПП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111PP1-2024) | Практикум из програмирања 1 | СА | O | 0+0+2 | 3 |
+| 1.6 | [13С091ЕЈН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091EJN-2024) [13С091ЕЈВ3](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091EJV3-2024) | Енглески језик 1) | АО | O | 2+0+0 | 3 |
+| Бирају се два o д следећа четири предмета. |  |  |  |  |  |  |
+| 1.7-8 | [24С111УРА](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S111URA-2024) | Увод у рачунарство | СА | И | 1+0+1 | 2 |
+| 1.7-8 | [13С081ПМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S081PM1-2024) | Практикум из математике 1 | СА | И | 1+1+0 | 2 |
+| 1.7-8 | [13С091С](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091S-2024) | Социологија | АО | И | 1+1+0 | 2 |
+| 1.7-8 | [24С031УИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S031UIM-2024) | Увод у инжењерске методологије | СА | И | 1+1+0 | 2 |
+| Укупно | 28 | 30 |  |  |  |  |
+| 2. семестар |  |  |  |  |  |  |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 2.1 | [13С111П2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111P2-2024) | Програмирање 2 | СА | О | 3+2+0 | 5 |
+| 2.2 | [13С111АСП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111ASP1-2024) | Алгоритми и структуре података 1 | ТМ | О | 2+2+1 | 5 |
+| 2.3 | [13С111ОРТ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111ORT1-2024) | Основи рачунарске технике 1 | ТМ | О | 3+2+0 | 5 |
+| 2.4 | [13С081М2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S081M2-2024) | Математика 2 | AO | О | 3+2+0 | 5 |
+| 2.5 | [13С091ЕЈВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091EJV-2024) [13С091НЈВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091NJV-2024) [13С091НЈН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091NJN-2024) [13С091ФЈВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091FJV-2024) [13С091ФЈН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091FJN-2024) | Страни језик 2) | АО | О | 2+0+0 | 2 |
+| 2.6 | [13С111ПОРТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111PORT-2024) | Практикум из основа рачунарске технике | СА | О | 0+0+2 | 3 |
+| 2.7 | [13С111ПП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111PP2-2024) | Практикум из програмирања 2 | СА | О | 0+0+2 | 3 |
+| Бира се један oд следећа четири изборна предмета. |  |  |  |  |  |  |
+| 2.8 | [13С081ПМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S081PM2-2024) | Практикум из математике 2 | СА | И | 1+1+0 | 2 |
+| 2.8. | [13С111ППК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111PPK-2024) | Практикум из пословне комуникације и презентације | АО | И | 1+0+1 | 2 |
+| 2.8. | [13С091УМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S091UM-2024) | Увод у менаџмент | АО | И | 1+1+0 | 2 |
+| 2.8 | [13С111РМФП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S111RMFP-2024) | Рачунарско моделовање физичких појава | ТМ | И | 1+0+1 | 2 |
+| Укупно | 28 | 30 |  |  |  |  |
+
+#### Table 2
+
+| 3. семестар |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 3.1 | [13С112ОО1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112OO1-2024) | Објектно оријентисано програмирање 1 | СА | О | 2+2+1 | 6 |
+| 3.2 | [13С112БП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112BP1-2024) | Базе података 1 | НС | О | 2+2+1 | 6 |
+| 3.3 | [13С112ОРТ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112ORT2-2024) | Основи рачунарске технике 2 | НС | О | 2+2+1 | 6 |
+| 3.4 | [13С112АСП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112ASP2-2024) | Алгоритми и структуре података 2 | ТМ | О | 2+2+1 | 6 |
+| Бира се један од следећа три изборнa предмета. |  |  |  |  |  |  |
+| 3.5 | [13С052СИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S052SIS-2024) | Сигнали и системи | ТМ | И | 3+1+1 | 6 |
+| 3.5 | [13С082НАД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S082NAD-2024) | Нумеричка анализа и дискретна математика | АО | И | 2+2+1 | 6 |
+| 3.5 | [13С032СПМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S032SPMT-2024) | Принципи модерних телекомуникација | ТМ | И | 2+2+1 | 6 |
+| Укупно | 25 | 30 |  |  |  |  |
+| 4. семестар |  |  |  |  |  |  |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 4.1 | [13С112ОС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112OS1-2024) | Оперативни системи 1 | НС | О | 2+2+1 | 6 |
+| 4.2 | [13С112АР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112AR-2024) | Архитектура рачунара | НС | О | 2+2+1 | 6 |
+| 4.3 | [13С112ОО2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112OO2-2024) | Објектно оријентисано програмирање 2 | СА | О | 2+2+1 | 6 |
+| 4.4 | [13С112РМ1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112RM1-2024) | Рачунарске мреже 1 | НС | О | 2+2+1 | 6 |
+| Бира се један изборни предмет или два практикума |  |  |  |  |  |  |
+| 4.5 | [13С112ВД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112VD-2024) | Веб дизајн | СА | И | 2+2+1 | 6 |
+| 4.5 | [13С082ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S082VS-2024) | Вероватноћа и статистика | АО | И | 2+2+1 | 6 |
+| 4.5 | [13С042ОДЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S042ODE-2024) | Основи дигиталне електронике | НС | И | 2+2+1 | 6 |
+| 4.5 | [13С112ППК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112PPK-2024) | Практикум из пословне комуникације и презентације 3) | АО | И | 1+1+0.5 | 3 |
+| 4.5 | [24С112ПОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S112POS-2024) | Практикум из оперативних система | СА | И | 1+1+0.5 | 3 |
+| 4.5 | [24С112ПООП](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S112POOP-2024) | Практикум из објектно оријентисаног програмирања | СА | И | 1+0+1.5 | 3 |
+| Укупно | 25 | 30 |  |  |  |  |
+
+#### Table 3
+
+| 5. семестар |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 5.1 | [13С113ИС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113IS1-2024) | Информациони системи 1 | СА | О | 2+2+1 | 6 |
+| 5.2 | [13С113ПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113PS-2024) | Пројектовање софтвера | НС | О | 2+2+1 | 6 |
+| Бирају се три од следећих шест изборних предмета |  |  |  |  |  |  |
+| 5.3-5 | [13С113РМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113RM2-2024) | Рачунарске мреже 2 | СА | И | 2+2+1 | 6 |
+| 5.3-5 | [13С113ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113OS2-2024) | Оперативни системи 2 | НС | И | 2+2+1 | 6 |
+| 5.3-5 | [13С113АОР1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113AOR1-2024) | Архитектура и организација рачунара 1 | НС | И | 2+2+1 | 6 |
+| 5.3-5 | [13С113ТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113TS-2024) | Тестирање софтвера | ТМ | И | 2+2+1 | 6 |
+| 5.3-5 | [13С053НМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S053NM-2024) | Неуралне мреже | НС | И | 2+2+1 | 6 |
+| 5.3-5 | [13С113ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113IS-2024) | Интелигентни системи | НС | И | 2+2+1 | 6 |
+| Укупно | 25 | 30 |  |  |  |  |
+| 6. семестар |  |  |  |  |  |  |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 6.1 | [13С113КДП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113KDP-2024) | Конкурентно и дистрибуирано програмирање | СА | О | 2+2+1 | 6 |
+| 6.2 | [13С113ПСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113PSI-2024) | Принципи софтверског инжењерства | НС | О | 2+2+1 | 6 |
+| 6.3 | [24С113ЗП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S113ZP1-2024) | Заштита података 1 | ТМ | О | 2+2+1 | 6 |
+| Бирају се два од следећих шест изборних предмета |  |  |  |  |  |  |
+| 6.4-5 | [13С113ИЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113IEP-2024) | Инфраструктура за електронско пословање | СА | И | 2+2+1 | 6 |
+| 6.4-5 | [13С113СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113SS-2024) | Системски софтвер | СА | И | 2+2+1 | 6 |
+| 6.4-5 | [13С113АОР2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113AOR2-2024) | Архитектура и организација рачунара 2 | НС | И | 2+2+1 | 6 |
+| 6.4-5 | [24С113УСП](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S113USP-2024) | Управљање софтверским пројектима и технолошко предузетништво | ТМ | И | 2+2+1 | 6 |
+| 6.4-5 | [13С112ВД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S112VD-2024) | Веб дизајн 4) | СА | И | 2+2+1 | 6 |
+| 6.4-5 | [13С053УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S053URV-2024) | Управљање у реалном времену | НС | И | 2+2+1 | 6 |
+| Укупно | 25 | 30 |  |  |  |  |
+
+#### Table 4
+
+| 7. семестар |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 7.1 | [13С114ПП1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114PP1-2024) | Програмски преводиоци 1 | НС | О | 2+2+1 | 6 |
+| 7.2 | [13С114МИПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114MIPS-2024) | Микропроцесорски системи | СА | О | 2+2+1 | 6 |
+| 7.3 | [13С114ПИА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114PIA-2024) | Програмирање интернет апликација | СА | О | 2+2+1 | 6 |
+| Бирају се два од следећих седам изборних предмета. |  |  |  |  |  |  |
+| 7.4-5 | [13С114ИС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114IS2-2024) | Информациони системи 2 | СА | И | 2+2+1 | 6 |
+| 7.4-5 | [13С114ВЛСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114VLSI-2024) | Рачунарски VLSI системи | НС | И | 2+2+1 | 6 |
+| 7.4-5 | [13С114МУПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114MUPS-2024) | Мултипроцесорски системи | ТМ | И | 2+2+1 | 6 |
+| 7.4-5 | [13С113ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S113IS-2024) | Интелигентни системи 5) | НС | И | 2+2+1 | 6 |
+| 7.4-5 | [13С114ПМУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114PMU-2024) | Програмирање мобилних уређаја | СА | И | 2+2+1 | 6 |
+| 7.4-5 | [13С074ИОА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S074IOA-2024) | Инжењерски оптимизациони алгоритми | СА | И | 2+2+1 | 6 |
+| 7.4-5 | [24С114ЗП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S114ZP2-2024) | Заштита података 2 | ТМ | И | 2+2+1 | 6 |
+| Укупно | 25 | 30 |  |  |  |  |
+| 8. семестар |  |  |  |  |  |  |
+| Р.Б. | Шифра | Предмет | Тип предмета | Статус | Часови (П+В+Л) | Кредити |
+| 8.1 | [13С114ПРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13S114PRS-2024) | Перформансе рачунарских система | ТМ | О | 2+2+1 | 6 |
+| 8.2* | [24С114СЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S114SZ-2024) | Семинар за припрему пројекта завршног рада | ТМ | О | 4+0+0 | 4 |
+| Бирају се два од следећаих пет изборних предмета |  |  |  |  |  |  |
+| 8.3-4 | [24С114БП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S114BP2-2024) | Базе података 2 | НС | И | 2+2+1 | 6 |
+| 8.3-4 | [24С114ПАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S114PAR-2024) | Паралелни рачунарски системи | ТМ | И | 2+2+1 | 6 |
+| 8.3-4 | [24С114РГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S114RG-2024) | Рачунарска графика | НС | И | 2+2+1 | 6 |
+| 8.3-4 | [24С114ТДУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S114TDU-2024) | Технике дубоког учења | НС | И | 2+2+1 | 6 |
+| 8.3-4 | [24С114САБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/24S114SAB-2024) | Софтверски алати база података | НС | И | 2+2+1 | 6 |
+| 8.5 | 24С004СП | Стручна пракса |  | О | остало - 6 | 3 |
+| 8.6* | 24С004ЗРИО | Завршни рад - израда и одбрана |  | О | остало - 2 | 1 |
+| 8.7 | 24С004ЗИСТ | Завршни рад - истраживања |  |  | ИР - 3 | 4 |
+| Укупно | 15 | 30 |  |  |  |  |
+
+### Аудио и видео комуникације
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/audio-i-video-komunikacije
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Аудио и видео комуникације
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети – Група А |  |  |  |  |
+| [13М031СОЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031SOZ-2013) | Снимање и обрада звука 4) | И | 3+1+0 | 6 |
+| [13М031АДП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ADP-2013) | Акустични дизајн просторија | И | 3+1+0 | 6 |
+| [13М031ФПГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031FPG-2013) | Форензичко препознавање говорника 6) | И | 3+1+0 | 6 |
+| [13М031ММТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031MMT-2013) | Мултимедијалне телекомуникације 3) | И | 3+1+0 | 6 |
+| [13М031СТТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031STT-2013) | Статистичка теорија телекомуникација | И | 3+1+0 | 6 |
+| [13М031ПТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031PTS-2013) | Персонализација телекомуникационих сервиса | И | 3+1+0 | 6 |
+| [13М031СВБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031SVB-2013) | Системи са више брзина | И | 3+1+0 | 6 |
+| [13М031ФВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031FVS-2013) | Форензика видео сигнала | И | 3+1+1 | 6 |
+| [13M031АСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ASM-2013) | Анализа и синтеза музичких сигнала 5) | И | 3+1+1 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E033Е](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033E-2013) | Електроакустика | И | 3+1+1 | 6 |
+| [13E034ТВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TV-2013) | Телевизија | И | 3+1+1 | 6 |
+| [13E034АОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AOS-2013) | Адаптивна обрада сигнала | И | 3+1+1 | 6 |
+| [13E034Р](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034R-2013) | Радио технологије | И | 3+1+1 | 6 |
+| [13E034СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SOS-2013) | Системи за обраду слике | И | 3+1+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети – Група А |  |  |  |  |
+| [13М031О](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031O-2013) | Озвучавање | И | 3+1+0 | 6 |
+| [13М031КЧР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031KCR-2013) | Комуникација човек-рачунар 2) | И | 3+1+0 | 6 |
+| [13М031ОАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031OAS-2013) | Обрада аудио сигнала | И | 3+1+0 | 6 |
+| [13М031ЗОБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ZOB-2013) | Заштита од буке и вибрација | И | 3+1+0 | 6 |
+| [13М031ОСЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031OSZ-2013) | Обрада сигнала заснована на знању | И | 3+1+0 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E034АС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AS-2013) | Аудио системи | И | 3+1+1 | 6 |
+| [13E034ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034VS-2013) | Видео системи | И | 3+1+1 | 6 |
+| [13E034ТИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TIK-2013) | Теорија информација и кодови у телекомуникацијама | И | 3+1+1 | 6 |
+| [13E034ММС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MMS-2013) | Мултимедијални системи | И | 3+1+1 | 6 |
+| [13E034ЈМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034JMS-2013) | Јавни мобилни системи | И | 3+1+1 | 6 |
+| [13E034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MIST-2013) | Моделирање и симулација у телекомуникацијама 1) | И | 3+1+1 | 6 |
+| 13М001ЗР | Завршни рад | О |  | 30 |
+| Укупно | 20-22 | 60 |  |  |
+
+### Биомедицинско и еколошко инжењерство
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/biomedicinsko-i-ekolosko-inzenjerstvo
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Биомедицинско и еколошко инжењерство
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М051НИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051NI-2013) | Неурално инжењерство | И | 3+1+0 | 6 |
+| [13М051СРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051SRS-2013) | Специјални роботски системи | И | 3+1+0 | 6 |
+| [13М051МСО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051MSO-2013) | Моделирање система и процеса у организму 4) | И | 3+1+0 | 6 |
+| [13M061ММРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061MMRS-2013) | Метрологија и мерни рачунарски системи | И | 2+2+0 | 6 |
+| [13M061МИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061MI-2013) | Медицинска информатика | И | 3+1+0 | 6 |
+| [13M061ФМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061FMS-2013) | Физика медицинског сликања | И | 3+1+0 | 6 |
+| [13M061ФКСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061FKSM-2013) | Физика кондензованог стања и нових материјала | И | 2+2+0 | 6 |
+| [13M061ОООМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061OOOM-2013) | Обрада и одлагање токсичних и радиоактивних отпадних материјала | И | 2+2+0 | 6 |
+| [13M061ЕСВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061ESV-2013) | Енергија сунца и ветра | И | 2+2+0 | 6 |
+| [13M061НЕГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061NEG-2013) | Нуклеарна енергетика | И | 3+1+0 | 6 |
+| [13M061ПРИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061PRI-2013) | Примена радиоизотопа у индустрији | И | 3+1+0 | 6 |
+| [13M061НМНП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061NMNP-2013) | Нумеричко моделовање нуклеарних процеса | И | 3+1+0 | 6 |
+| [13M061НЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061NEF-2013) | Неутронска физика 3) | И | 3+1+0 | 6 |
+| [13M061ТНР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061TNR-2013) | Теорија нуклеарних реактора 3) | И | 3+1+0 | 6 |
+| [13M061УНР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061UNR-2013) | Управљање нуклеарним реактором 3) | И | 3+1+0 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E064СДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064SDOS-2013) | Системи за дигиталну обраду слике | И | 3+1+1 | 6 |
+| [13E054МАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MAS-2013) | Методе анализе електрофизиолошких сигнала | И | 3+1+1 | 6 |
+| [13E054БМХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054BMH-2013) | Биомеханика 3) | И | 3+1+1 | 6 |
+| [13E064БМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064BMT-2013) | Биоматеријали | И | 3+1+1 | 6 |
+| [13E064НМТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064NMT-2013) | Нуклеарна медицинска техника | И | 3+1.5+0.5 | 6 |
+| [13E064НФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064NF-2013) | Нуклеарна физика | И | 3+2+0 | 6 |
+| [13E053ОСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053OSU-2013) | Основи система управљања 1) | И | 3+1+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E053СОМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E053SOM-2013) | Системи одлучивања у медицини | И | 3+1+1 | 6 |
+| [13E054КЛИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054KLI-2013) | Клиничко инжењерство | И | 3+2+0 | 6 |
+| [13E064ТМД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064TMD-2013) | Телемедицина | И | 3+2+0 | 6 |
+| [13E064КИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064KI-2013) | Квантна информатика | И | 3+2+0 | 6 |
+| [13E064НТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064NT-2013) | Нуклеарна техника | И | 3+1.5+0.5 | 6 |
+| [13E064СНП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064SNP-2013) | Симулација нуклеарних процеса 2) | И | 3+2+0 | 6 |
+| [13E064ФТФР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FTFR-2013) | Физички и технички принципи функционисања фузионих реактора 2) | И | 3+2+0 | 6 |
+| [13E064ФЕА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FEA-2013) | Физика и екологија атмосфере 2) | И | 3+2+0 | 6 |
+| [13E064ДЗЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064DZZ-2013) | Дозиметрија и заштита од зрачења | И | 3+1+1 | 6 |
+| 13М001ЗР | Завршни рад | О |  | 30 |
+| Укупно | 20-25 | 60 |  |  |
+
+### Електроенергетски системи
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/elektroenergetski-sistemi
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Електроенергетски системи
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021ПЕС](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021PES-2013) | Планирање електроенергетских систем 3) | И | 3+1+0 | 6 |
+| [13М021ИЕМ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021IEM-2013) | Интелигентне електроенергетске мреже | И | 2+2+0 | 6 |
+| [13М021АДМ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021ADM-2013) | Аутоматизација дистрибутивних мрежа | И | 3+1+1 | 6 |
+| [13М021ЕЕС](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021EES-2013) | Експлоатација електроенергетских система 1) | И | 2+2+0 | 6 |
+| [13М021РЕС](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E021RES-2013) | Регулација електроенергетских система 2) | И | 2+1+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021РЕС](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021RES-2013) | Регулација електроенергетских система 2) | И | 2+1+1 | 6 |
+| [13М021ТСУ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021TSU-2013) | Технички системи управљања у електроенергетским системима | И | 2+2+0 | 6 |
+
+#### Table 2
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021ДРЗ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021DRZ-2013) | Дигиталне релејне заштите | И | 2+2+0 | 6 |
+| [13М021ЕКО](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021EKO-2013) | Електромагнетна компатибилност | И | 2+2+0 | 6 |
+| [13М021МИД](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021MID-2013) | Мониторинг и дијагностика високонапонских постројења | И | 3+1+0 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021ПНВ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021PNV-2013) | Пројектовање ТС надземних и кабловских водова | И | 2+2+0 | 6 |
+| [13М021КТ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021KT-2013) | Кабловска техника | И | 2+2+0 | 6 |
+
+#### Table 3
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021ИОИГ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021IOI-2013) | Интеграција обновљивих извора у електроенергетским системима 1) | И | 2+2+0 | 6 |
+| [13М021ССЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021SSE-2013) | Системи за складиштење енергије у електроенергетским системима | И | 2+2+0 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021РСОИ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021RSOI-2013) | Регулација електроенергетских система са обновљивим изворима енергије | И | 2+2+0 | 6 |
+| [13М011ПКO](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M011PKO-2013) | Претварачкa кола за обновљиве изворе енергије | И | 2+2+0 | 6 |
+
+#### Table 4
+
+| Листа 1 - предмети Катедре за електроенергетске системе |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13М021АЕ2](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021AE2-2013) | Анализа електроенергетских система 2 | Н | 2+2+0 | 6 |
+| [13М021ТВН2](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021TVN2-2013) | Техника високог напона 2 | Н | 2+1+1 | 6 |
+| [13М021ЕМ2](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021EM2-2013) | Електрична мерења 2 | Н | 2+0+2 | 6 |
+| [13М021ОПЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021OPE-2013) | Општа енергетика 2) | Н | 3+1+0 | 6 |
+| [13М021ЕМН](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021EMN-2013) | Електрична мерења неелектричних величина | П | 2+2+0 | 6 |
+| [13М021ОИЕГ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021OIE-2013) | Обновљиви извори енергије 3) | П | 2+2+0 | 6 |
+| [13М021КЕЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021KEE-2013) | Квалитет електричне енергије | П | 2+1+1 | 6 |
+| [13М021ЕЛЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021ELE-2013) | Електране | П | 2+2+0 | 6 |
+| [13М021ТЕД](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021TED-2013) | Тржиште електричне енергије и дерегулација | П | 3+1+0 | 6 |
+| [13М021ППР](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021PPR-2013) | Пројектовање помоћу рачунара у електроенергетици | П | 2+1+1 | 6 |
+| [13М021ВНО](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021VNO-2013) | Високонапонска опрема | П | 2+2+0 | 6 |
+| [13М021ЕЕС](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021EES-2013) | Експлоатација електроенергетских система 1) | Н | 2+2+0 | 6 |
+
+#### Table 5
+
+| Предмет | Шифра на мастер студијама | Шифра на основним студијама |
+| --- | --- | --- |
+| Анализа електроенергетских система 2 | [13М021АЕ2](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021AE2-2013) | [13Е024АЕ2](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E024AE2-2013) |
+| Техника високог напона 2 | [13М021ТВН2](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021TVN2-2013) | [13Е024ТВН2](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E024TVN2-2013) |
+| Електрична мерења 2 | [13М021ЕМ2](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021EM2-2013) | [13Е023ЕМ2](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E023EM2-2013) |
+| Општа енергетика | [13М021ОПЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021OPE-2013) | [13Е023ОПЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E023OPE-2013) |
+| Електрична мерења неелектричних величина | [13М021ЕМН](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021EMN-2013) | [13Е024ЕМН](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E024EMN-2013) |
+| Обновљиви извори енергије | [13М021ОИЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021OIE-2013#gsc.tab=0) [13М021ОИЕГ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021OIEG-2013#gsc.tab=0) *) | [13Е023ОИЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E023OIE-2013#gsc.tab=0) [13Е023ОИЕГ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E023OIEG-2013#gsc.tab=0) *) |
+| Квалитет електричне енергије | [13М021КЕЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021KEE-2013) | [13Е024КЕЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E024KEE-2013) |
+| Електране | [13М021ЕЛЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021ELE-2013) | [13Е023ЕЛЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E023ELE-2013) |
+| Тржиште електричне енергије и дерегулација | [13М021ТЕД](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021TED-2013) | [13Е024ТЕД](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E024TED-2013) |
+| Пројектовање помоћу рачунара у електроенергетици | [13М021ППР](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021PPR-2013) | [13Е024ППР](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E024PPR-2013) |
+| Високонапонска опрема | [13М021ВНО](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021VNO-2013) | [13Е024ВНО](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E024VNO-2013) |
+| Експлоатација електроенергетских система | [13М021ЕЕС](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13M021EES-2013#gsc.tab=0) | [13E024ЕЕС](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E024EES-2013#gsc.tab=0) |
+
+### Електроника
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/elektronika
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Електроника
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M041АИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041AIK-2013) | Аналогна интегрисана кола | И | 3+1+0 | 6 |
+| [13M041ДПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041DPS-2013) | Дигитални процесори сигнала | И | 2+2+0 | 6 |
+| [13M041СЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041SEF-2013) | Синтеза електричних филтара 1) | И | 4+0+0 | 6 |
+| [13М071ПPМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071PRMF-2013) | Пројектовање микроталасних филтара 10) | И | 4+0+0 | 6 |
+| [13М041ИРС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041IRS2-2013) | Интегрисани рачунарски системи 2 7) | И | 3+1+0 | 6 |
+| [13M041ДВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041DVS-2013) | Дигитални VLSI системи 5) | И | 3+1+0 | 6 |
+| [13M041ИВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041IVS-2013) | Интегрисани вишепроцесорски системи 6) | И | 2+2+0 | 6 |
+| [13M041ИКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041IKS-2013) | Интегрисана кола за комуникационе системе 6) | И | 2+2+0 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E044ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044DOS-2013) | Дигитална обрада слике | И | 3+1+1 | 6 |
+| [13E044НРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NRS-2013) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+| [13E044РФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044RFE-2013) | РФ електроника 3) | И | 3+1+1 | 6 |
+| [13E044УПВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044UPV-2013) | Увод у пројектовање VLSI система | И | 2+1+2 | 6 |
+| [13E043ДСГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043DOS-2013) | Дигитална обрада сигнала 4) | И | 3+1+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M041АДЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041ADE-2013) | Аналогно-дигитална електроника | И | 3+1+0 | 6 |
+| [13M041ДВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041DVS-2013) | Дигитални VLSI системи 5) | И | 3+1+0 | 6 |
+| [13M041ЕЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041EE2-2013) | Енергетска електроника 2 | И | 4+0+0 | 6 |
+| [13M041РИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041RI-2013) | Рачунарски интерфејси 8) | И | 3+1+0 | 6 |
+| [13M041ПДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041PDS-2013) | Пројектовање дигиталних система 2) | И | 3+1+0 | 6 |
+| [13M041СМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041SMS-2013) | Савремени мерни системи | И | 2+2+0 | 6 |
+| [13M041МВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041MV-2013) | Машинска визија 6) | И | 3+0+2 | 6 |
+| [13М041ИОТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041IoT-2013) | Пројектовање IoT система 9) | И | 3+1+0 | 6 |
+| [13М041АЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041AES-2013) | Аутономни електронски системи 9) | И | 3+1+0 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E044ЕМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044EMS-2013) | Електронски мерни системи | И | 2+1+2 | 6 |
+| [13E043ЕЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043EE-2013) | Енергетска електроника | И | 3+1+1 | 6 |
+| [13E044ИРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044IRS-2013) | Интегрисани рачунарски системи | И | 3+1+1 | 6 |
+| [13E043ЛЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043LE-2013) | Линеарна електроника | И | 3+1+1 | 6 |
+| [13E043РЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043RE-2013) | Рачунарска електроника | И | 3+1+1 | 6 |
+| [13E044СРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044SRV-2013) | Системи у реалном времену | И | 3+1+1 | 6 |
+| [13E043УПК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043UPK-2013) | Увод у пројектовање интегрисаних кола | И | 3+1+2 | 6 |
+| [13E043ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E043DOS-2013) | Дигитална обрада сигнала 4) | И | 3+1+1 | 6 |
+| [13Е044ВХД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044VHD-2013) | Верификација хардвера у дигиталним интегрисаним системима 9) | И | 2+1+2 | 6 |
+| [13Е044ХСОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044HSOS-2013) | Хардверско-софтверска обрада сигнала 9) | И | 3+1+1 | 6 |
+| 13М001ЗР | Завршни рад | О |  | 30 |
+| Укупно | 20-22 | 60 |  |  |
+
+### Микроталасна техника
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/mikrotalasna-tehnika
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Микроталасна техника
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М071МИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071MIS-2013) | Моделовање и симулација електромагнетских поља | И | 2+2+0 | 6 |
+| [13М071ПPМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071PRMF-2013) | Пројектовање микроталасних филтара 2) | И | 4+0+0 | 6 |
+| [13М071ИЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071IEK-2013) | Испитивање електромагнетске компатибилности | И | 1+0+3 | 6 |
+| [13М071MМT](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071MMT-2013) | Милиметарски таласи 1) | И | 2+2+0 | 6 |
+| [13М071САП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071SAP-2013) | Софтверски алати за пројектовање антена | И | 3+1+0 | 6 |
+| [13М071ФМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071FMS-2013) | Формирање микроталасних слика | И | 4+0+0 | 6 |
+| [13М071ООА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071OOA-2013) | Основни оптимизациони алгоритми у инжењерству | И | 3+1+0 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М071МMT](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071MMT-2013) | Милиметарски таласи 1) | И | 2+2+0 | 6 |
+| 13М001ЗР | Завршни рад | О |  | 30 |
+| Укупно | 20 | 60 |  |  |
+
+### Наноелектроника и фотоника
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/nanoelektronika-i-fotonika
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Наноелектроника и фотоника
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M061ДНКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061DNKS-2013) | Дизајн наноелектронских квантних структура | И | 4+0+0 | 6 |
+| [13M061ММН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061MMN-2013) | Моделовање микроелектронских направа | И | 3+1+0 | 6 |
+| [13M061НИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061NIN-2013) | Наномагнетизам и наноспинтроника | И | 3+1+0 | 6 |
+| [13M061ЛИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061LIP-2013) | Ласери и њихова примена | И | 4+0+0 | 6 |
+| [13M061С](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061S-2013) | Спинтроника | И | 4+0+0 | 6 |
+| [13M061ОММ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061OMM-2013) | Оптичке мреже са мултиплексирањем по таласним дужинама (DWDM) | И | 3+1+0 | 6 |
+| [13M061СТПГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061STPG-2013) | Судари и транспортни процеси у јонизованим гасовима | И | 3+1+0 | 6 |
+| [13M061ФП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061FP-2013) | Физика плазме | И | 3+1+0 | 6 |
+| [13M061ММРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061MMRS-2013) | Метрологија и мерни рачунарски системи | И | 2+2+0 | 6 |
+| [13M061МНР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061MNR-2013) | Методологија научног рада | И | 4+0+0 | 6 |
+| [13M061ЕНН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061ENN-2013) | Елементи нанооптике и нанофотонике 1) | И | 3+1+0 | 6 |
+| [13M061OРОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061OROE-2013) | Органска оптоелектроника | И | 3+1+0 | 6 |
+| [13M061СИФО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061SIFO-2013) | Силицијумска фотоника | И | 3+1+0 | 6 |
+| [13M061ПАФК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061PAFK-2013) | Пројектовање активних фотонских интегрисаних кола 3) | И | 4+1+0 | 6 |
+| [13М061ПИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061PIK-2013) | Пројектовање и карактеризација пасивних фотонских интегрисаних кола 4) | И | 2+0.5+1.5 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E064ФС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064FS-2013) | Фибероптички сензори | И | 3+1+1 | 6 |
+| [13E064ОПТ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OPT2-2013) | Oптичке телекомуникације 2 | И | 3+2+0 | 6 |
+| 2. семестар |  |  |  |  |
+| Уже стручни предмети - Група А |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [13M061ПАФК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061PAFK-2013) | Пројектовање активних фотонских интегрисаних кола 3) | И | 4+1+0 | 6 |
+| [13M061ИВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061IVS-2013) | Индустријски видео системи 2) | И | 3+2+0 | 6 |
+| [13М061ПИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061PIK-2013) | Пројектовање и карактеризација пасивних фотонских интегрисаних кола 4) | И | 2+0.5+1.5 | 6 |
+| 13М001ЗР | Завршни рад | О |  | 30 |
+| Укупно | 20-22 | 60 |  |  |
+
+### Општеобразовни предмети
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/opsteobrazovni-predmeti
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Општеобразовни предмети
+
+#### Table 1
+
+| 1. семестар |  |  |  |
+| --- | --- | --- | --- |
+| Шифра | Предмет | Часови (П+В+Л) | Кредити |
+| [13М091ЕJ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091EJ-2013) [13М091РJ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091RJ-2013) [13М091НJ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091NJ-2013) [13М091ФЈ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091FJ-2013) | Страни језик | 2+0+0 | 3 |
+| [13М091ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091EK-2013) | Економија | 3+1+0 | 3 |
+| [13М091ОР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091OR-2013) | Организација рада 1) | 3+1+0 | 3 |
+| [13M061ОИТИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061OITI-2013) | Основи иновација, трансфера технологије и заштите интелектуалне својине у електротехници и рачунарству | 3+2+0 | 3 |
+| 2. семестар |  |  |  |
+| Шифра | Предмет | Часови (П+В+Л) | Кредити |
+| [13М111КЕР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111KER-2013) | Креативност у електротехници и рачунарству 2) | 2+2+1 | 3 |
+
+### Примењена математика
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/primenjena-matematika
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Примењена математика
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M081ЛАЛГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081LALG-2013) | Линеарна алгебра |  | 3+1+0 | 6 |
+| [13M081НМД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081NMD-2013) | Нумерички методи решавања диференцијалних једначина |  | 3+1+0 | 6 |
+| [13M081ОПНА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081OPNA-2013) | Одабрана поглавља из нумеричке анализе 1) |  | 3+1+0 | 6 |
+| [13M081ДЦЈ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081DCJ-2013) | Диференцне једначине 3) |  | 3+1+0 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M081ОПДМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081OPDM-2013) | Одабрана поглавља из дискретне математике |  | 3+1+0 | 6 |
+| [13M081ОПРА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081OPRA-2013) | Одабрана поглавља из реалне анализе |  | 3+1+0 | 6 |
+| [13M081МАСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081MAST-2013) | Математичка статистика |  | 3+1+0 | 6 |
+| [13M081СПЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081SPEF-2013) | Специјалне функције |  | 3+1+0 | 6 |
+| [13M081ФМПР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081FMPR-2013) | Фази метрички простори |  | 3+1+0 | 6 |
+| [13M081ВИНТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081VINT-2013) | Вештачка интелигенција |  | 3+1+0 | 6 |
+| [13M081ОПНА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081OPNA-2013) | Одабрана поглавља из нумеричке анализе 1) |  | 3+1+0 | 6 |
+| [13M081ЕСН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081ESN-2013) | Елементи симболичко-нумеричких израчунавања у математици 2) |  | 3+1+0 | 6 |
+| 13М001ЗР | Завршни рад | О |  | 30 |
+| Укупно | 20 | 60 |  |  |
+
+### Рачунарска техника и информатика
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/racunarska-tehnika-i-informatika
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Рачунарска техника и информатика
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М111СОН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111SON-2013) | Системи отпорни на отказе | И | 2+2+0 | 6 |
+| [13М111ПСЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PSZ-2013) | Проналажење скривеног знања 6) | И | 2+2+0 | 6 |
+| [13М111РБМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111RBM-2013) | Рачунарство у био-медицини | И | 2+2+0 | 6 |
+| [13М111ПУС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PUS-2013) | Програмирање уграђених система 1) | И | 2+2+1 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E114ПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PS-2013) | Пројектовање софтвера | И | 2+2+1 | 6 |
+| [13E113ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113OS2-2013) | Оперативни системи 2 | И | 2+2+1 | 6 |
+| [13E114ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IS-2013) | Интелигентни системи 2) | И | 2+2+1 | 6 |
+| [13E114РМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114RM2-2013) | Рачунарске мреже 2 3) | И | 2+2+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М111СИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111SIP-2013) | Социолошки и професионални аспекти рачунарства | И | 2+2+0 | 6 |
+| [13М111ПРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PRV-2013) | Програмирање у реалном времену | И | 2+2+0 | 6 |
+| [13М111ПРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PRM-2013) | Пројектовање рачунарских мрежа | И | 2+2+1 | 6 |
+| [13М111ПП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PP2-2013) | Програмски преводиоци 2 | И | 2+2+1 | 6 |
+| [13М111ПСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PSI-2013) | Принципи софтверског инжењерства | И | 2+2+1 | 6 |
+| [13М111ГИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111GI-2013) | Геномска информатика 5) | И | 2+2+1 | 6 |
+| [13М111ПСЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PSZ-2013) | Проналажење скривеног знања 6) | И | 2+2+0 | 6 |
+| [13М111ЗРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111ZRM-2013) | Заштита рачунарских система и мрежа 7) | И | 2+2+1 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E114МУПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114MUPS-2013) | Мултипроцесорски системи | И | 2+2+1 | 6 |
+| [13E114САБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114SAB-2013) | Софтверски алати база података | И | 2+2+1 | 6 |
+| [13E114ИС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IS1-2013) | Информациони системи 1 | И | 2+2+1 | 6 |
+| [13E114ПАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PAR-2013) | Паралелни рачунарски системи 8) | И | 2+2+1 | 6 |
+| [13E114РГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114RG-2013) | Рачунарска графика | И | 2+2+1 | 6 |
+| [13E113АОР2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113AOR2-2013) | Архитектура и организација рачунара 2 | И | 2+2+1 | 6 |
+| [13E034ММС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MMS-2013) | Мултимедијални системи | И | 3+1+1 | 6 |
+| [13E113ЗП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113ZP-2013) | Заштита података 4) | И | 2+2+1 | 6 |
+| 13М001ЗР | Завршни рад | О |  | 30 |
+| Укупно | 20-25 | 60 |  |  |
+
+### Сигнали и системи
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/signali-i-sistemi
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Сигнали и системи
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М051РС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051RS-2013) | Роботски системи | И | 3+1+0 | 6 |
+| [13М051АУК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051AUK-2013) | Аутоматско управљање кретањем 8) | И | 3+1+0 | 6 |
+| [13М051ТСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051TSS-2013) | Теорија стохастичких система | И | 3+1+0 | 6 |
+| [13М051ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051DIF-2013) | Дистрибуирани и фракциони системи управљања | И | 3+1+0 | 6 |
+| [13М051РМР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051RMR-2013) | Робусна мултиваријабилна регулација | И | 3+2+0 | 6 |
+| [13М051МЕР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051MER-2013) | Методе нелинеарне регулације 11) | И | 3+2+0 | 6 |
+| [13М051СКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051SKS-2013) | Статистичка класификација сигнала 2) | И | 3+1+0 | 6 |
+| [13М051ОУС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051OUS-2013) | Оптимално управљање системима 7) | И | 3+1+0 | 6 |
+| [13М051МУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051MU-2013) | Машинско учење 6) | И | 3+1+0 | 6 |
+| [13М051ПСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051PSU-2013) | Пројектовање система управљања 10) | И | 3+1+0 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E054НМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054NM-2013) | Неуралне мреже | И | 3+1+1 | 6 |
+| [13E054ПО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054PO-2013) | Препознавање облика | И | 3+1+1 | 6 |
+| [13E054ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054DOS-2013) | Дигитална обрада слике | И | 3+1+1 | 6 |
+| [13E054ЦНЦ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054CNC-2013) | ЦНЦ системи и флексибилна аутоматизација | И | 3+1+1 | 6 |
+| [13E054МАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MAS-2013) | Методе анализе електрофизиолошких сигнала | И | 3+1+1 | 6 |
+| [13E054СУР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054SUR-2013) | Сензори у роботици 4) | И | 3+1+1 | 6 |
+| [13E044НСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E044NSS-2013) | Наменски рачунарски системи | И | 3+1+1 | 6 |
+| [13E114ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IP-2013) | Интернет програмирање 1) | И | 2+2+1 | 6 |
+| [13Е054АВО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054AVO-2013) | Аутоматско вођење објеката у простору 6) | И | 3+1+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М051АСО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051ASO-2013) | Адаптивни системи у обради сигнала и управљању процесима | И | 3+1+0 | 6 |
+| [13М051ОУС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051OUS-2013) | Оптимално управљање системима 7) | И | 3+1+0 | 6 |
+| [13М051МСЦ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051MSC-2013) | Методе soft-computing-а | И | 3+1+0 | 6 |
+| [1МE051СОМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051SOM-2013) | Системи одлучивања у медицини | И | 3+1+1 | 6 |
+| [13М031ТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031TS-2013) | Термовизијски системи 5) | И | 3+1+0 | 6 |
+| [13М051ПСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051PSU-2013) | Пројектовање система управљања 10) | И | 3+1+0 | 6 |
+| [13М051СКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051SKS-2013) | Статистичка класификација сигнала 2) | И | 3+1+0 | 6 |
+| [13М041ПМК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041PMK-2013) | Примена микроконтролера | И | 3+1+1 | 6 |
+| [13М051КВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051KV-2013) | Компјутерска визија | И | 3+0+2 | 6 |
+| [13М051АСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051ASS-2013) | Анализа сложених система | И | 3+1+0 | 6 |
+| [13М051СЗН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051SZN-2013) | Системи за навигацију 4) | И | 3+1+0 | 6 |
+| [13М051ТОБС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051TOBS-2013) | Технике обраде биомедицинских сигнала 3) | И | 2+0+2 | 6 |
+| [13М051ИоТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051IoT-2013) | IoT системи 9) | И | 3+1+0 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13E054УИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054UIP-2013) | Управљање индустријским процесима | И | 3+1+1 | 6 |
+| [13E054МСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054MSU-2013) | Мултиваријабилни системи управљања | И | 3+2+0 | 6 |
+| [13E054ВИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054VI-2013) | Вештачка интелигенција | И | 3+1+1 | 6 |
+| [13E054ОПГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054OPG-2013) | Обрада и препознавање говора | И | 3+1+1 | 6 |
+| [13E054ТРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054TRS-2013) | Теорија роботских система | И | 3+2+0 | 6 |
+| [13E054КИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054KLI-2013) | Клиничко инжењерство | И | 3+2+0 | 6 |
+| [13Е054АБС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E054ABS-2013) | Анализа биомедицинске слике 6) | И | 3+0+2 | 6 |
+|  | Завршни рад | О |  | 30 |
+| Укупно | 20-22 | 60 |  |  |
+
+### Системско инжењерство и радио комуникације
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/sistemsko-inzenjerstvo-i-radio-komunikacije
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Системско инжењерство и радио комуникације
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети – Група А |  |  |  |  |
+| [13М031АСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ASR-2013) | Архитектура свичева и рутера | И | 3+1+0 | 6 |
+| [13М031СДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031SDO-2013) | Системи даљинског осматрања 8) | И | 3+1+0 | 6 |
+| [13М031АНТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ANT-2013) | Антенски низови у телекомуникационим системима | И | 3+1+0 | 6 |
+| [13М031ПСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031PST-2013) | Принципи савремених телекомуникација 1) | И | 3+1+0 | 6 |
+| [13М031СТТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031STT-2013) | Статистичка теорија телекомуникација | И | 3+1+0 | 6 |
+| [13М031ПТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031PTS-2013) | Персонализација телекомуникационих сервиса | И | 3+1+0 | 6 |
+| [13М031КР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031KR-2013) | Когнитивни радио 5) | И | 3+1+0 | 6 |
+| [13М031МКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031MKS-2013) | М2М комуникациони системи | И | 3+1+0 | 6 |
+| [13М031АДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ADO-2013) | Алгоритми за динамичку оптимизацију 9) | И | 2+2+0 | 6 |
+| [13М031СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031SS-2013) | Сателитски системи 9) | И | 3+1+0 | 6 |
+| Предмети са основних студија - Групa Б |  |  |  |  |
+| [13E034УРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034URV-2013) | Усмерене радио везе | И | 3+1+1 | 6 |
+| [13E034Р](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034R-2013) | Радио технологије | И | 3+1+1 | 6 |
+| [13E034ИПТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IPT-2013) | ИП телефонија 7) | И | 3+1+1 | 6 |
+| [13E034СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SS-2013) | Сателитски системи 2) | И | 3+1+1 | 6 |
+| [13E064ОТП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E064OTP-2013) | Оптоелектронски телекомуникациони подсистеми | И | 3+2+0 | 6 |
+| [13E034ТВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034TV-2013) | Телевизија | И | 3+1+1 | 6 |
+| [13E034АОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034AOS-2013) | Адаптивна обрада сигнала | И | 3+1+1 | 6 |
+| [13E034СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034SOS-2013) | Системи за обраду слике | И | 3+1+1 | 6 |
+| [13E033АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033AI-2013) | Архитектура Интернета 3) | И | 3+1+1 | 6 |
+| [13Е034ИoТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IoT-2013) | IoT мреже 9) | И | 3+1+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети – Група А |  |  |  |  |
+| [13М031ТС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031TS-2013) | Термовизијски системи 8) | И | 3+1+0 | 6 |
+| [13М031БМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031BM-2013) | Бежичне мреже | И | 3+1+1 | 6 |
+| [13М031ПТМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031PTM-2013) | Пројектовање телекомуникационих мрежа 1) | И | 3+1+1 | 6 |
+| [13М031БСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031BSM-2013) | Бежичне сензорске мреже | И | 3+1+1 | 6 |
+| [13М031ПДТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031PDT-2013) | Принципи дизајна телекомуникационих мрежа високе расположивости 9) | И | 3+1+1 | 6 |
+| Предмети са основних студија - Групa Б |  |  |  |  |
+| [13E034ЈМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034JMS-2013) | Јавни мобилни системи | И | 3+1+1 | 6 |
+| [13E034ПКХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PKH-2013) | Програмирање комуникационог хардвера | И | 3+1+1 | 6 |
+| [13E034ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034IP-2013) | Интернет програмирање | И | 3+1+1 | 6 |
+| [13E034ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034PPR-2013) | Принципи позиционирања у радио системима 4) | И | 3+1+1 | 6 |
+| [13E034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MIST-2013) | Моделирање и симулација у телекомуникацијама 6) | И | 3+1+1 | 6 |
+| [13E033АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E033AI-2013) | Архитектура Интернета 3) | И | 3+1+1 | 6 |
+| [13Е034РМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034RMS-2013) | Развој мобилних сервиса 9) | И | 3+1+1 | 6 |
+| 13М001ЗР | Завршни рад | О |  | 30 |
+| Укупно | 20-25 | 60 |  |  |
+
+### Софтверско инжењерство
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/softversko-inzenjerstvo
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Софтверско инжењерство
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М111ПКИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PKI-2013) | Програмирање корисничких интерфејса | И | 2+2+1 | 6 |
+| [13М111ТА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111TA-2013) | Теорија алгоритама 1) | И | 2+2+0 | 6 |
+| [13М111УЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111UES-2013) | Управљање електронским садржајима 1) | И | 2+2+0 | 6 |
+| [13М111СИБП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111SIBP-2013) | Софтверско инжењерство великих база података | И | 2+2+1 | 6 |
+| [13М111РГ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111RG2-2013) | Рачунарска графика 2 6) | И | 2+2+1 | 6 |
+| [13М111АСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111ASM-2013) | Анализа социјалних мрежа 8) | И | 2+2+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13E113ОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113OS2-2013) | Оперативни системи 2 | И | 2+2+1 | 6 |
+| [13E114ВЛСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114VLSI-2013) | Рачунарски VLSI системи | И | 2+2+1 | 6 |
+| [13E114ПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PS-2013) | Пројектовање софтвера | И | 2+2+1 | 6 |
+| [13E114РМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114RM2-2013) | Рачунарске мреже 2 3) | И | 2+2+1 | 6 |
+| [13E114ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IS-2013) | Интелигентни системи 2) | И | 2+2+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М111СИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111SIP-2013) | Социолошки и професионални аспекти рачунарства | И | 2+2+0 | 6 |
+| [13М111ЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111ES-2013) | Еволуција софтвера | И | 2+2+0 | 6 |
+| [13М111ПРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PRV-2013) | Програмирање у реалном времену | И | 2+2+0 | 6 |
+| [13E034ММС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E034MMS-2013) | Mултимедијални системи | И | 3+1+1 | 6 |
+| [13М111ПП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PP2-2013) | Програмски преводиоци 2 | И | 2+2+1 | 6 |
+| [13М111ИС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111IS2-2013) | Информациони системи 2 4) | И | 2+2+1 | 6 |
+| [13М111ФП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111FP-2013) | Функционално програмирање 7) | И | 2+2+1 | 6 |
+| [13M111ОПЈ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111OPJ-2013) | Обрада природних језика 8) | И | 2+2+1 | 6 |
+| [13М111РБС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111RBS-2013) | Развој безбедног софтвера 9) | И | 2+2+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13E114БП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114BP2-2013) | Базе података 2 | И | 2+2+1 | 6 |
+| [13E114РГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114RG-2013) | Рачунарска графика | И | 2+2+1 | 6 |
+| [13E113ПИА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E113PIA-2013) | Програмирање Интернет апликација 5) | И | 2+2+1 | 6 |
+| [13Е114ПАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PAR-2013) | Паралелни рачунарски системи 8) | И | 2+2+1 | 6 |
+| 13М001ЗР | Завршни рад | О |  | 30 |
+| Укупно | 20-25 | 60 |  |  |
+
+### Енергетска ефикасност
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2013/energetska-efikasnost
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2013
+- Strana header: Енергетска ефикасност
+
+#### Table 1
+
+| Група А.1 |  |  |  |
+| --- | --- | --- | --- |
+| Нова шифра | Предмет | Часови (П+В+Л) | Кредити |
+| 1. семестар |  |  |  |
+| [13М011ЕЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EEP-2013) | Енергетски ефикасни електромоторни погони | 3+1+0 | 6 |
+| [13М011ДП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011DP2-2013) | Дигитално управљање енергетским претварачима и погонима 2 | 2+1+1 | 6 |
+| [13М011ЕИПЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EIPZ-2013) | Електричне инсталације паметних зграда 6) | 3+1+0,5 | 6 |
+| 2. семестар |  |  |  |
+| [13М011ССП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011SSP-2013) | Синхрони сервомотори са перманентним магнетима | 3+1+0 | 6 |
+| [13М011ЕСО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011ESO-2013) | Енергетски ефикасни системи осветљења | 3+1+0 | 6 |
+| [13М011ПФН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PFN-2013) | Пројектовање фотонапонских система | 2+1+1 | 6 |
+| [13М011ОПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011OPE-2013) | Одабрана поглавља из електромоторних погона 4) | 3+2+0 | 6 |
+
+#### Table 2
+
+| Група А.2 |  |  |  |
+| --- | --- | --- | --- |
+| Нова шифра | Предмет | Часови (П+В+Л) | Кредити |
+| 1. семестар |  |  |  |
+| [13М011РСТП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011RSTP-2013) | Рачунарска симулација термичких процеса у електроенергетици 5) | 3+1+0 | 6 |
+| [13М011УЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011UEM-2013) | Управљање енергетским претварачима у електроенергетским мрежама 6) | 3+1+1 | 6 |
+| 2. семестар |  |  |  |
+| [13М011ЛВЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011LVE-2013) | Лабораторијске вежбе из енергетских претварача и погона (избор 2 блока вежби) | 3+0+1 | 6 |
+| [13М011ЕАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EAE-2013) | Електроенергетски аспекти енергетске ефикасности зграда 6) | 3+1+0 | 6 |
+
+#### Table 3
+
+| Група A.3 Предмети Катедре за енергетске претвараче и погоне |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Нова шифра | Предмет | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [13М011ЕЛО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011ELO-2013) | Електрично осветљење | Н | 2+2+0 | 6 |
+| [13М011ЕИ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EI2-2013) | Електричне инсталације ниског напона 2 | Н | 2+2+0,5 | 6 |
+| [13М011ВМП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011VMP-2013) | Вишемоторни погони | П | 2+2+0 | 6 |
+| [13М011РЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011REP-2013) | Регулација електромоторних погона | Н | 2+1,5+0,5 | 6 |
+| [13М011ЕП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EP2-2013) | Енергетски претварачи 2 | П | 2+2+0,5 | 6 |
+| [13М011УЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011UEP-2013) | Управљање енергетским претварачима 5) | Н | 2+1+1 | 6 |
+| [13E013ДПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013DPP-2013) | Дигитално управљање претварачима и погонима | П | 2+1+1 | 6 |
+| [13М011ЕВО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EVO-2013) | Електрична возила | Н | 2,5+1+1,5 | 6 |
+| [13М011ЗЗЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011ZZE-2013) | Загревање и заштита електричних машина 3) | Н | 3+1+0 | 6 |
+| [13М011ИЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011IEM-2013) | Испитивање електричних машина | П | 2+0+2 | 6 |
+| [13М011ЕМЈС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EMJS-2013) | Електричне машине за једносмерну струју | Н | 2+1+1 | 6 |
+| [13М011СЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011SEI-2013) | Специјалне електричне инсталације | П | 2+1+1 | 6 |
+| [13М011ЕФТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EFT-2013) | Енергетски ефикасни електротермички процеси | П | 2+1+1 | 6 |
+| [13М011ПКО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PKO-2013) | Претварачка кола за обновљиве изворе енергије | П | 2+2+0 | 6 |
+| [13М011САЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011SAE-2013) | Софтверски алати у електроенергетици 1) | Н | 2+2+0 | 6 |
+| [13М011ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011OPI-2013) | Општи инжењеринг 2) | П | 2+2+0 | 6 |
+
+#### Table 4
+
+| Група A.4 Практикуми Катедре за енергетске претвараче и погоне |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Нова шифра | Практикум | Парни или непарни семестар | Часови (П+В+Л) | ЕСПБ |
+| [13E014ПЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PEP-2013) | Практикум из електромоторних погона | Н | 0+0+2 | 3 |
+| [13E014ПРЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PREP-2013) | Практикум из регулације електромоторних погона | П | 0+0+2 | 3 |
+| [13E013ПДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013PDS-2013) | Практикум из дигиталних сигналних процесора | Н | 0+0+2 | 3 |
+
+#### Table 5
+
+| Група A.5 Пројекти Катедре за енергетске претвараче и погоне |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Нова шифра | Пројекат | Парни или непарни семестар | Часови (П+В+Л) | ЕСПБ |
+| [13М011ПРЕТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PRET-2013) | Пројекат из енергетских трансформатора | Н | 0+0+2 | 3 |
+| [13М011ПРЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PREI-2013) | Пројекат из електричних инсталација | Н | 0+0+2 | 3 |
+| [13М011ПРПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PRPE-2013) | Пројекат из електромоторних погона | Н | 0+0+2 | 3 |
+| [13М011ПРСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PRSM-2013) | Пројекат из синхроних машина | Н | 0+0+2 | 3 |
+| [13М011ПРЕН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PREN-2013) | Пројекат из енергетских претварача | Н | 0+0+2 | 3 |
+| [13М011ПРУП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PRUP-2013) | Пројекат из дигиталног управљања претварачима и погонима | Н | 0+0+2 | 3 |
+
+#### Table 6
+
+| Предмет | Шифра на мастер студијама | Шифра на основним студијама |
+| --- | --- | --- |
+| Електрично осветљење | [13М011ЕЛО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011ELO-2013) | [13Е013ЕЛО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013ELO-2013) |
+| Електричне инсталације ниског напона 2 | [13М011ЕИ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EI2-2013) | [13Е013ЕИ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EI2-2013) |
+| Вишемоторни погони | [13М011ВМП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011VMP-2013) | [13Е013ВМП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013VMP-2013) |
+| Регулација електромоторних погона | [13М011РЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011REP-2013) | [13Е013РЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013REP-2013) |
+| Енергетски претварачи 2 | [13М011ЕП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EP2-2013) | [13Е013ЕП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EP2-2013) |
+| Управљање енергетским претварачима | [13М011УЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011UEP-2013) | [13Е013УЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013UEP-2013) |
+| Дигитално управљање претварачима и погонима | [13Е013ДПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013DPP-2013) | [13Е013ГДПП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013GDPP-2013) |
+| Електрична возила | [13М011ЕВО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EVO-2013) | [13Е013ЕВО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EVO-2013) |
+| Загревање и заштита електричних машина | [13М011ЗЗЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011ZZE-2013) | [13Е013ЗЗЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013ZZE-2013) |
+| Испитивање електричних машина | [13М011ИЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011IEM-2013) | [13Е013ИЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013IEM-2013) |
+| Електричне машине за једносмерну струју | [13М011ЕМЈС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EMJS-2013) | [13Е013ЕМЈС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EMJS-2013) |
+| Специјалне електричне инсталације | [13М011СЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011SEI-2013) | [13Е013СЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013SEI-2013) |
+| Енергетски ефикасни електротермички процеси | [13М011ЕФТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EFT-2013) | [13E013ЕФТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013EFT-2013) |
+| Претварачка кола за обновљиве изворе енергије | [13М011ПКО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PKO-2013) | [13Е013ПКО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013PKO-2013) |
+| Софтверски алати у електроенергетици | [13М011САЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011SAE-2013) | [13Е013САЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013SAE-2013) |
+| Општи инжењеринг | [13М011ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011OPI-2013) | [13Е013ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013OPI-2013) |
+
+#### Table 7
+
+| Предмет | Шифра на мастер студијама | Шифра на основним студијама |
+| --- | --- | --- |
+| Практикум из електромоторних погона | [13Е014ПЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PEP-2013) | [13Е014ПЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PEP-2013) |
+| Практикум из регулације електромоторних погона | [13Е014ПРЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PREP-2013) | [13Е014ПРЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PREP-2013) |
+| Практикум из дигиталних сигналних процесора | [13Е014ПДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PDS-2013) | [13Е014ПДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PDS-2013) |
+
+#### Table 8
+
+| Предмет | Шифра на мастер студијама | Шифра на основним студијама |
+| --- | --- | --- |
+| Пројекат из енергетских трансформатора | [13М011ПРЕТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PRET-2013) | [13Е014ПРЕТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PRET-2013) |
+| Пројекат из електричних инсталација | [13М011ПРЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PREI-2013) | [13Е014ПРЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PREI-2013) |
+| Пројекат из електромоторних погона | [13М011ПРПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PRPE-2013) | [13Е014ПРПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PRPE-2013) |
+| Пројекат из синхроних машина | [13М011ПРСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PRSM-2013) | [13Е014ПРСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PRSM-2013) |
+| Пројекат из енергетских претварача | [13М011ПРЕН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PREN-2013) | [13Е014ПРЕН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PREN-2013) |
+| Пројекат из дигиталног управљања претварачима и погонима | [13М011ПРУП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PRUP-2013) | [13Е014ПРУП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E014PRUP-2013) |
+
+### Аудио и видео технологије
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/audio-i-video-tehnologije
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Аудио и видео технологије
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети – Група А |  |  |  |  |
+| [13М031СОЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031SOZ-2019) | Снимање и обрада звука 1) | И | 3+1+0 | 6 |
+| [19М031АДП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M031ADP-2019) | Акустични дизајн просторија и звучна заштита | И | 3+1+0 | 6 |
+| [13М031СТТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031STT-2019) | Статистичка теорија телекомуникација | И | 3+1+0 | 6 |
+| [19М031ПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M031PA-2019) | Персонализоване апликације | И | 3+1+0 | 6 |
+| [13М031ФВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031FVS-2019) | Форензика видео сигнала | И | 3+1+1 | 6 |
+| [13M031АСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ASM-2019) | Анализа и синтеза музичких сигнала | И | 3+1+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [19M061ОТП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061OTP-2019) | Оптоелектронски телекомуникациони подсистеми | И | 3+2+0 | 6 |
+| [19M034ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M034VS-2020) | Интерактивни видео сервиси | И | 3+1+1 | 6 |
+| [19М033СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M033SOS-2020) | Савремени системи за обраду слике | И | 3+1+1 | 6 |
+| [13М034ИoТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034IoT-2020) | Архитектура IoT мрежа | И | 3+1+1 | 6 |
+| [19М034АДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M034ADO-2020) | Итеративни алгоритми за динамичку оптимизацију | И | 2+2+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети – Група А |  |  |  |  |
+| [19M031СТА](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M031STA-2019) | Савремене технологије у аудио системима | И | 3+1+0 | 6 |
+| [13М031КЧР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031KCR-2019) | Комуникација човек-рачунар 1) | И | 3+1+0 | 6 |
+| [13М031ОАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031OAS-2019) | Обрада аудио сигнала | И | 3+1+0 | 6 |
+| [19M031ММС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M031MMS-2019) | Мултимедијални системи | И | 3+1+1 | 6 |
+| [19M031ИКТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M031IKT-2019) | Информационо комуникационе технологије у телемедицини | И | 3+1+1 | 6 |
+| [13М031СВБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031SVB-2019) | Системи са више брзина | И | 3+1+0 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [19М034ВИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M034VIM-2022) | Вештачка интелигенција у мобилним системима 2) | И | 3+1+1 | 6 |
+| [13М034ПКХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034PKH-2020) | Напредно програмирање комуникационог хардвера | И | 3+1+1 | 6 |
+| [13М034ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034PPR-2020) | Позиционирање у мобилним мрежама 3) | И | 3+1+1 | 6 |
+| [13М034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034MIST-2020) | Симулација телекомуникационих мрежа | И | 3+1+1 | 6 |
+| [19М034АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M034AI-2020) | Архитектура савременог интернета | И | 3+1+1 | 6 |
+| [19М034ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M034IP-2020) | Алати за интернет програмирање 1) | И | 3+0+1.5 | 6 |
+| [13М034РМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034RMS-2020) | Развој сервиса за мобилне мреже 1) | И | 3+1+1 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 25-20 | 60 |  |  |
+
+### Биомедицински и еколошки инжењеринг
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/biomedicinski-i-ekoloski-inzenjering
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Биомедицински и еколошки инжењеринг
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М051НИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051NI-2019) | Неурално инжењерство | И | 3+1+0 | 6 |
+| [13М051СРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051SRS-2019) | Специјални роботски системи | И | 3+1+0 | 6 |
+| [19M061ММРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061MMRS-2019) | Метрологија и мерни рачунарски системи | И | 3+1+0 | 6 |
+| [19M061МИТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061MIT-2019) | Медицинска информатика и телемедицина | И | 3+1+0 | 6 |
+| [19M061ФМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061FMS-2019) | Физика медицинског сликања и радиотерапије | И | 3+1+0 | 6 |
+| [13M061ЕСВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061ESV-2019) | Енергија сунца и ветра | И | 2+2+0 | 6 |
+| [13M061НЕГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061NEG-2019) | Нуклеарна енергетика | И | 3+1+0 | 6 |
+| [19M061УРО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061URO-2019) | Управљање радиоактивним отпадом | И | 3+1+0 | 6 |
+| [19М061РЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061RE-2019) | Радиоекологија | И | 3+1+0 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13M054МАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054MAS-2020) | Одабране методе обраде биосигнала | И | 3+1+1 | 6 |
+| [19М063НФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E063NF-2019) | Одабрана поглавља из нуклеарне физике и технике | И | 3+2+0 | 6 |
+| [19М064МФМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M064MFMS-2020) | Одабрана поглавља из медицинских примена зрачења | И | 3+2+0 | 6 |
+| [19М064БИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M064BI-2020) | Напредне технике у биоинформатици 2) | И | 3+2+0 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [19M061ФЕА](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061FEA-2019) | Физика и екологија атмосфере | И | 3+1+0 | 6 |
+| [19M061КИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061KI-2019) | Квантна информатика | И | 3+1+0 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13М054КЛИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054KLIN-2020) | Клиничка инструментација 1 | И | 3+1+1 | 6 |
+| [13М064ДЗЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M064DZZ-2020) | Одабрана поглавља из метрологије јонизујућег зрачења | И | 3+1+1 | 6 |
+| [13М063СП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M063SP-2020) | Сензори у биомедицини | И | 3+0+2 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗР | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 20-25 | 60 |  |  |
+
+### Електроенергетски системи
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/elektroenergetski-sistemi
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Електроенергетски системи
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021ПЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021PES-2019) | Планирање електроенергетских система | И | 3+1+0 | 6 |
+| [13М021ИЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021IEM-2019) | Интелигентне електроенергетске мреже | И | 2+2+0 | 6 |
+| [13М021АДМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021ADM-2019) | Аутоматизација дистрибутивних мрежа | И | 3+1+1 | 6 |
+| [13М021ЕЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021EES-2019) | Експлоатација електроенергетских система | И | 2+2+0 | 6 |
+| [13М021РЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021RES-2019) | Регулација електроенергетских система | И | 2+1+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [19М021ЕСЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/19M021ESE-2021) | Eстимaциja стaњa eлeктрoeнeргeтских систeмa и SCADA системи 1) | И | 2+2+0 | 6 |
+| [19M021ПОЕ](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/19M021POE-2021) | Примењена оптимизација у енергетици 2) | И | 3+1+0 | 6 |
+
+#### Table 2
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021ДРЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021DRZ-2019) | Дигиталне релејне заштите | И | 2+2+0 | 6 |
+| [13М021ЕКО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021EKO-2019) | Електромагнетна компатибилност | И | 2+2+0 | 6 |
+| [13М021МИД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021MID-2019) | Мониторинг и дијагностика високонапонских постројења | И | 3+1+0 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021ПНВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021PNV-2019) | Пројектовање ТС надземних и кабловских водова | И | 2+2+0 | 6 |
+| [13М021КТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021KT-2019) | Кабловска техника | И | 2+2+0 | 6 |
+| [19М021ГЗД](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M021GZD-2022) | Громобранска заштита у дистрибутивним мрежама 3) | И | 2+2+0 | 6 |
+
+#### Table 3
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [19М021ИОИГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M021IOIG-2020) | Интеграција обновљивих извора у електроенергетским системима | И | 2+2+1 | 6 |
+| [19М021ССЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M021SSE-2020) | Системи за складиштење енергије у електроенергетским системима | И | 2+2+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М021РСОИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M021RSOI-2019) | Регулација електроенергетских система са обновљивим изворима енергије | И | 2+2+0 | 6 |
+| [13М011ПКO](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PKO-2019) | Претварачкa кола за обновљиве изворе енергије | И | 2+2+0 | 6 |
+| [19М021СОИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M021SOI-2020) | Софтвер за обновљиве изворе енергије | И | 2+2+1 | 6 |
+
+#### Table 4
+
+| Листа 1 - предмети Катедре за електроенергетске системе |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| [19М024АЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M024AE2-2020) | Анализа електроенергетских система са уређајима енергетске електронике | Н | 2+2+0 | 6 |
+| [19М024ТВН2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M024TVN2-2020) | Одабрана поглавља из технике високог напона 2 | Н | 2+1+1 | 6 |
+| [19М023ЕМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M023EM2-2020) | Електрична мерења у електроенергетици | Н | 2+0+2 | 6 |
+| [19М024ЕМН](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M024EMN-2019) | Мерења неелектричних величина | П | 2+2+0 | 6 |
+| [19М024КЕЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M024KEE-2020) | Квалитет електричне енергије у електроенергетским мрежама | П | 2+1+1 | 6 |
+| [19М024ТЕД](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M024TED-2020) | Тржиште електричне енергије | П | 3+1+0 | 6 |
+| [19М024ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M024PPR-2020) | Одабрана поглавља из пројектовања помоћу рачунара у електроенергетици | П | 2+1+1 | 6 |
+| [19М024ВНО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M024VNO-2020) | Испитивање високонапонске опреме | П | 2+2+0 | 6 |
+| [19М024ДЕА](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M024DEA-2024) | Друштвено-економски аспекти енергетике 4) | П | 3+1+0 | 6 |
+
+#### Table 5
+
+| Завршни рад и стручна пракса |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+
+### Електроника и дигитални системи
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/elektronika-i-digitalni-sistemi
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Електроника и дигитални системи
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M041АИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041AIK-2019) | Аналогна интегрисана кола | И | 3+1+0 | 6 |
+| [13M041ДПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041DPS-2019) | Дигитални процесори сигнала | И | 2+2+0 | 6 |
+| [13M041СЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041SEF-2019) | Синтеза електричних филтара 1) | И | 4+0+0 | 6 |
+| [13М071ПPМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071PRMF-2019) | Пројектовање микроталасних филтара | И | 4+0+0 | 6 |
+| [13М041ИРС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041IRS2-2019) | Интегрисани рачунарски системи 2 | И | 3+1+0 | 6 |
+| [13M041ДВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041DVS-2019) | Дигитални VLSI системи | И | 3+1+0 | 6 |
+| [13M041ИВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041IVS-2019) | Интегрисани вишепроцесорски системи | И | 2+2+0 | 6 |
+| [13M041ИКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041IKS-2019) | Интегрисана кола за комуникационе системе | И | 2+2+0 | 6 |
+| [19M041ДОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M041DOS2-2019) | Дигитална обрада слике 2 3) | И | 3+1+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13M044ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M044DOS-2020) | Напредна дигитална обрада слике | И | 3+1+1 | 6 |
+| [13М044НРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M044NRS-2020) | Наменски рачунарски системи 2 | И | 3+1+1 | 6 |
+| [19M043ВЛСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M043VLSI-2020) | Пројектовање VLSI система 2 | И | 2+1+2 | 6 |
+| [19M044ЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M044EI-2020) | Одабрана поглавља из електронске инструментације 7) | И | 3+1+1 | 6 |
+| [19M044РНС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M044RNS-2020) | Пројектовање и развој наменског софтвера | И | 3+1+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M041АДЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041ADE-2019) | Аналогно-дигитална електроника 8) | И | 3+1+0 | 6 |
+| [13M041ЕЕ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041EE2-2019) | Енергетска електроника 2 5) | И | 4+0+0 | 6 |
+| [13M041РИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041RI-2019) | Рачунарски интерфејси | И | 3+1+0 | 6 |
+| [13M041СМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041SMS-2019) | Савремени мерни системи 7) | И | 2+2+0 | 6 |
+| [13M041МВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041MV-2019) | Машинска визија | И | 3+0+2 | 6 |
+| [13М041ИОТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041IoT-2019) | Пројектовање IoT система | И | 3+1+0 | 6 |
+| [13М041АЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041AES-2019) | Аутономни електронски системи | И | 3+1+0 | 6 |
+| [19М041ОСН2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M041OSN2-2019) | Оперативни системи наменских рачунара 2 2) | И | 3+1+0 | 6 |
+| [19M041ДОС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M041DOS2-2019) | Дигитална обрада слике 2 3) | И | 3+1+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [19М043МС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M043MS-2020) | Одабрана поглавља из мерних система | И | 3+1+1 | 6 |
+| [19М043МРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M043MRS-2020) | Микроконтролерски рачунарски системи 2 2) | И | 3+1+1 | 6 |
+| [13М044РФЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M044RFE-2020) | Одабрана поглавља из РФ електронике 4) | И | 3+1+1 | 6 |
+| [19М044ОСН1](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M044OSN1-2020) | Одабрана поглавља из оперативних система наменских рачунара 2) | И | 3+1+1 | 6 |
+| [13М044СРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M044SRV-2020) | Наменски системи за рад у реалном времену | И | 3+1+1 | 6 |
+| [13М044ВХД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M044VHD-2020) | Верификација хардвера у дигиталним интегрисаним системима 2 6) | И | 2+1+2 | 6 |
+| [13М044ХСОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M044HSOS-2020) | Одабрана поглавља из хардверско-софтверске обраде сигнала | И | 3+1+1 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 25-29 | 60 |  |  |
+
+### Енергетска ефикасност
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/energetska-efikasnost
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Енергетска ефикасност
+
+#### Table 1
+
+| Група А.1 |  |  |  |
+| --- | --- | --- | --- |
+| Нова шифра | Предмет | Часови (П+В+Л) | Кредити |
+| 1. семестар |  |  |  |
+| [13М011ЕЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EEP-2019) | Енергетски ефикасни електромоторни погони | 3+1+0 | 6 |
+| [13М011ДП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011DP2-2019) | Дигитално управљање енергетским претварачима и погонима 2 | 2+1+1 | 6 |
+| [13М011ЕИПЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EIPZ-2019) | Електричне инсталације паметних зграда | 3+1+0,5 | 6 |
+| 2. семестар |  |  |  |
+| [13М011ССП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011SSP-2019) | Синхрони сервомотори са перманентним магнетима | 3+1+0 | 6 |
+| [13М011ЕСО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011ESO-2019) | Енергетски ефикасни системи осветљења | 3+1+0 | 6 |
+| [13М011ПФН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PFN-2019) | Пројектовање фотонапонских система | 2+1+1 | 6 |
+| [13М011ОПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011OPE-2019) | Одабрана поглавља из електромоторних погона | 3+2+0 | 6 |
+
+#### Table 2
+
+| Група А.2 |  |  |  |
+| --- | --- | --- | --- |
+| Нова шифра | Предмет | Часови (П+В+Л) | Кредити |
+| 1. семестар |  |  |  |
+| [19М011РСТП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M011RSTP-2019) | Рачунарска симулација термичких процеса у електроенергетици | 1+1+2 | 6 |
+| 2. семестар |  |  |  |
+| [13М011ПКО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011PKO-2019) | Претварачка кола за обновљиве изворе енергије | 2+2+0 | 6 |
+| [13М011ЕАЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M011EAE-2019) | Електроенергетски аспекти енергетске ефикасности зграда | 3+1+0 | 6 |
+
+#### Table 3
+
+| Група A.3 Предмети Катедре за енергетске претвараче и погоне |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Нова шифра | Предмет | Парни или непарни семестар | Часови (П+В+Л) | Кредити |
+| [19M013ЕЛО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013ELO-2020) | Електрично осветљење – одабрана поглавља | Н | 2+2+0 | 6 |
+| [19М013ЕИ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013EI2-2020) | Електричне инсталације ниског напона – одабрана поглавља | Н | 2+2+0.5 | 6 |
+| [19М014ВМП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M014VMP-2020) | Регулисани вишемоторни погони | П | 2+2+0 | 6 |
+| [19М014РЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M014REP-2020) | Регулисани електромоторни погони 2 | П | 2+2+0,5 | 6 |
+| [19М013TЕП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013TEP2-2023) | Напредне топологије енергетских претварача 2) | Н | 2+2+0,5 | 6 |
+| [19М013MУЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013MUEP-2023) | Методе управљања енергетским претварачима 2) | П | 2+1+1 | 6 |
+| [19М013ЗЗЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013ZZE-2020) | Топлотни прорачун и заштита електричних машина | Н | 3+1+0 | 6 |
+| [19М013ИЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013IEM-2020) | Испитивање и одржавање електричних машина | П | 2+0+2 | 6 |
+| [19М013ЕМЈС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013EMJS-2020) | Електричне машине за једносмерну струју 2 | Н | 2+1+1 | 6 |
+| [19М013СЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013SEI-2020) | Специфичне електричне инсталације | П | 2+1+1 | 6 |
+| [19М013ЕФТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013EFT-2020) | Енергетски ефикасни електротермички процеси 3) | П | 2+1+1 | 6 |
+| [19М013ОПИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013OPI-2020) | Управљање пројектима | П | 2+2+0 | 6 |
+| [19М013ПРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013PRM-2022) | Прекидачки релуктантни мотори 2 1) | Н | 2+2+0 | 6 |
+| [19М013АЕМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M013AEM-2022) | Анализа и моделовање електричних машина методом коначних елемената 1) | П | 2+2+0 | 6 |
+
+#### Table 4
+
+| Група A.4 Практикуми Катедре за енергетске претвараче и погоне |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Нова шифра | Практикум | Парни или непарни семестар | Часови (П+В+Л) | ЕСПБ |
+| [19М014ПЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M014PEP-2020) | Електромоторни погони - Практикум | Н | 0,5+0+1,5 | 3 |
+| [19М014ПРЕП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M014PREP-2020) | Регулација електромоторних погона - Практикум | П | 0,5+0+1,5 | 3 |
+| [13М013ПДС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E013PDS-2019) | Практикум из дигиталних сигналних процесора | Н | 0+0+2 | 3 |
+
+#### Table 5
+
+| Група A.5 Пројекти Катедре за енергетске претвараче и погоне |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Нова шифра | Пројекат | Парни или непарни семестар | Часови (П+В+Л) | ЕСПБ |
+| [19М014ПРЕТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M014PRET-2020) | Пројектовање дистрибутивних трансформатора | Н | 0+0+2 | 3 |
+| [19М014ПРЕИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M014PREI-2020) | Пројекат из нисконапонских електричних инсталација стамбене зграде | Н | 0+0+2 | 3 |
+| [19М014ПРПЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M014PRPE-2020) | Пројекат регулисаног електромоторног погона | Н | 0+0+2 | 3 |
+| [19М014ПРЕН](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M014PREN-2020) | Пројекат из енергетских претварача 2 | Н | 0+0+2 | 3 |
+| [19М014ППРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M014PPRM-2022) | Пројекат из прекидачких релуктантних мотора 2 1) | Н | 0+0+2 | 3 |
+
+#### Table 6
+
+| Завршни рад и стручна пракса |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Нова шифра | Предмет | Статус | Часови | ЕСПБ |
+| 2. семестар |  |  |  |  |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+
+### Микроталасна техника
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/mikrotalasna-tehnika
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Микроталасна техника
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М071МИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071MIS-2019) | Моделовање и симулација електромагнетских поља | И | 2+2+0 | 6 |
+| [13М071ПPМФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071PRMF-2019) | Пројектовање микроталасних филтара | И | 4+0+0 | 6 |
+| [13М071ИЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071IEK-2019) | Испитивање електромагнетске компатибилности | И | 1+0+3 | 6 |
+| [13М071ФМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071FMS-2019) | Формирање микроталасних слика | И | 2+2+0 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [19M074ООА](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M074OOA-2020) | Оптимизациони алгоритми у инжењерству | И | 2+2+1 | 6 |
+| [19M073САП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M073SAP-2020) | Пројектовање електромагнетских система коришћењем софтверских алата 1) | И | 3+1+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М071МMT](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M071MMT-2019) | Милиметарски таласи | И | 2+2+0 | 6 |
+| [19М071АМК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M071AMK-2019) | Алгоритми метода коначних елемената у инжењерству | И | 2+2+0 | 6 |
+| [19М071ИАГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M071IAG-2019) | Инжењерски аспекти генерисања слике коришћењем магнетске резонансе | И | 2+2+0 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [19M073САП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M073SAP-2020) | Пројектовање електромагнетских система коришћењем софтверских алата 1) | И | 3+1+1 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001СП | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 25 | 60 |  |  |
+
+### Наноелектроника и фотоника
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/nanoelektronika-i-fotonika
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Наноелектроника и фотоника
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M061ДНКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061DNKS-2019) | Дизајн наноелектронских квантних структура | И | 4+0+0 | 6 |
+| [13M061ММН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061MMN-2019) | Моделовање микроелектронских направа | И | 3+1+0 | 6 |
+| [13M061НИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061NIN-2019) | Наномагнетизам и наноспинтроника | И | 3+1+0 | 6 |
+| [19M061ПЛЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061PLZ-2019) | Примена ласерског зрачења | И | 2+1+1 | 6 |
+| [13M061С](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061S-2019) | Спинтроника 2) | И | 4+0+0 | 6 |
+| [13M061ОММ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061OMM-2019) | Оптичке мреже са мултиплексирањем по таласним дужинама (DWDM) | И | 3+1+0 | 6 |
+| [13M061СТПГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061STPG-2019) | Судари и транспортни процеси у јонизованим гасовима | И | 3+1+0 | 6 |
+| [13M061ФП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061FP-2019) | Физика плазме | И | 3+1+0 | 6 |
+| [19M061ММРС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061MMRS-2019) | Метрологија и мерни рачунарски системи | И | 3+1+0 | 6 |
+| [13M061МНР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061MNR-2019) | Методологија научног рада | И | 4+0+0 | 6 |
+| [13M061ЕНН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061ENN-2019) | Елементи нанооптике и нанофотонике | И | 3+1+0 | 6 |
+| [13M061OРОЕ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061OROE-2019) | Органска оптоелектроника | И | 3+1+0 | 6 |
+| [13M061СИФО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061SIFO-2019) | Силицијумска фотоника | И | 3+1+0 | 6 |
+| [19M061ПАФК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061PAFK-2019) | Пројектовање активних фотонских интегрисаних колa | И | 4+0+0 | 6 |
+| [19M061ИВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061IVS-2019) | Индустријски видео системи 1) | И | 3+1+0 | 6 |
+| [19М061ПИК](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061PIK-2019) | Пројектовање и карактеризација пасивних фотонских интегрисаних кола | И | 3+0+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13M064ФС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M064FS-2020) | Оптички сензори | И | 3+1+1 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 25-27 | 60 |  |  |
+
+### Општеобразовни предмети
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/opsteobrazovni-predmeti
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Општеобразовни предмети
+
+#### Table 1
+
+| 1. семестар |  |  |  |
+| --- | --- | --- | --- |
+| Шифра | Предмет | Часови (П+В+Л) | Кредити |
+| [13М091ЕJ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091EJ-2019) [13М091РJ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091RJ-2019) [13М091НJ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091NJ-2019) [13М091ФЈ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091FJ-2019) | Страни језик | 2+0+0 | 3 |
+| [13М091ЕК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M091EK-2019) | Економија 1) | 3+1+0 | 3 |
+| [13M061ОИТИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M061OITI-2019) | Основи иновација, трансфера технологије и заштите интелектуалне својине у електротехници и рачунарству 2) | 3+2+0 | 3 |
+| 2. семестар |  |  |  |
+| Шифра | Предмет | Часови (П+В+Л) | Кредити |
+| [13М111КЕР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111KER-2019) | Креативност у електротехници и рачунарству | 2+2+1 | 3 |
+
+### Информационо комуникационе технологије
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/informaciono-komunikacione-tehnologije
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Информационо комуникационе технологије
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети – Група А |  |  |  |  |
+| [13М031АСР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ASR-2019) | Архитектура свичева и рутера | И | 3+1+0 | 6 |
+| [13М031АНТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ANT-2019) | Антенски низови у телекомуникационим системима | И | 3+1+0 | 6 |
+| [13М031СТТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031STT-2019) | Статистичка теорија телекомуникација | И | 3+1+0 | 6 |
+| [19М031ПА](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M031PA-2019) | Персонализоване апликације | И | 3+1+0 | 6 |
+| [13М031КР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031KR-2019) | Когнитивни радио | И | 3+1+0 | 6 |
+| [13М031МКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031MKS-2019) | М2М комуникациони системи | И | 3+1+0 | 6 |
+| [13М031СС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031SS-2019) | Сателитски системи | И | 3+1+0 | 6 |
+| [19M031АОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M031AOS-2019) | Адаптивна обрада сигнала | И | 3+1+1 | 6 |
+| [13М031ПДТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031PDT-2019) | Принципи дизајна телекомуникационих мрежа високе расположивости 2) | И | 3+1+1 | 6 |
+| Предмети са основних студија - Групa Б |  |  |  |  |
+| [19M061ОТП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M061OTP-2019) | Оптоелектронски телекомуникациони подсистеми | И | 3+2+0 | 6 |
+| [19М034ВС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M034VS-2020) | Интерактивни видео сервиси | И | 3+1+1 | 6 |
+| [19М033СОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M033SOS-2020) | Савремени системи за обраду слике | И | 3+1+1 | 6 |
+| [13М034ИoТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034IoT-2020) | IoT мреже | И | 3+1+1 | 6 |
+| [19М034АДО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M034ADO-2020) | Итеративни алгоритми за динамичку оптимизацију 4) | И | 2+2+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети – Група А |  |  |  |  |
+| [13М031БМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031BM-2019) | Бежичне мреже | И | 3+1+1 | 6 |
+| [13М031БСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031BSM-2019) | Бежичне сензорске мреже | И | 3+1+1 | 6 |
+| [13М031ПДТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031PDT-2019) | Принципи дизајна телекомуникационих мрежа високе расположивости 2) | И | 3+1+1 | 6 |
+| [13М031СВБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031SVB-2019) | Системи са више брзина | И | 3+1+0 | 6 |
+| Предмети са основних студија - Групa Б |  |  |  |  |
+| [19М034ВИМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M034VIM-2022) | Вештачка интелигенција у мобилним системима 3) | И | 3+1+1 | 6 |
+| [13М034ПКХ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034PKH-2020) | Напредно програмирање комуникационог хардвера | И | 3+1+1 | 6 |
+| [19М034ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19E034IP-2019) | Алати за интернет програмирање 1) | И | 3+0+1.5 | 6 |
+| [13М034ППР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034PPR-2020) | Позиционирање у мобилним мрежама 4) | И | 3+1+1 | 6 |
+| [13М034МИСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034MIST-2020) | Симулација телекомуникационих мрежа | И | 3+1+1 | 6 |
+| [19М034АИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M034AI-2020) | Архитектура савременог интернета | И | 3+1+1 | 6 |
+| [13М034РМС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M034RMS-2020) | Развој сервиса за мобилне мреже 1) | И | 3+1+1 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 25-30 | 60 |  |  |
+
+### Примењена математика
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/primenjena-matematika
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Примењена математика
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M081ЛАЛГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081LALG-2019) | Линеарна алгебра | И | 3+1+0 | 6 |
+| [13M081НМД](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081NMD-2019) | Нумерички методи решавања диференцијалних једначина | И | 3+1+0 | 6 |
+| [13M081ОПНА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081OPNA-2019) | Одабрана поглавља из нумеричке анализе | И | 3+1+0 | 6 |
+| [13M081ДЦЈ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081DCJ-2019) | Диференцне једначине | И | 3+1+0 | 6 |
+| [13M081СПЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081SPEF-2019) | Специјалне функције 1) | И | 3+1+0 | 6 |
+| [13M081МАСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081MAST-2019) | Математичка статистика 3) | И | 3+1+0 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13M081ОПДМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081OPDM-2019) | Одабрана поглавља из дискретне математике | И | 3+1+0 | 6 |
+| [13M081ОПРА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081OPRA-2019) | Одабрана поглавља из реалне анализе | И | 3+1+0 | 6 |
+| [13M081МАСТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081MAST-2019) | Математичка статистика 3) | И | 3+1+0 | 6 |
+| [13M081СПЕФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081SPEF-2019) | Специјалне функције 1) | И | 3+1+0 | 6 |
+| [19M081ФМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M081FM-2019) | Фази математика | И | 3+1+0 | 6 |
+| [13M081ВИНТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M081VINT-2019) | Вештачка интелигенција | И | 3+1+0 | 6 |
+| [19М081ЕТО](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M081ETO-2020) | Елементи теорије оптимизације и симболичких израчунавања 2) | И | 3+1+0 | 6 |
+| [19M081ММС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M081MMS-2019) | Математичко моделирање и симулације | И | 3+1+0 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 25 | 60 |  |  |
+
+### Рачунарска техника и информатика
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/racunarska-tehnika-i-informatika
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Рачунарска техника и информатика
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М111СОН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111SON-2019) | Системи отпорни на отказе | И | 2+2+0 | 6 |
+| [13М111РБМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111RBM-2019) | Рачунарство у био-медицини 2 ) | И | 2+2+0 | 6 |
+| [13М111ПУС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PUS-2019) | Програмирање уграђених система 2) | И | 2+2+1 | 6 |
+| [13М111ЗРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111ZRM-2019) | Заштита рачунарских система и мрежа 1) | И | 2+2+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13M114ПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114PS-2020) | Моделовање и пројектовање софтвера | И | 2+2+1 | 6 |
+| [13М114ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114IS-2020) | Интелигентни сервиси и системи | И | 2+2+1 | 6 |
+| [13М114РМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114RM2-2020) | Одабрана поглавља из рачунарских мрежа | И | 2+2+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М111СИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111SIP-2019) | Социолошки и професионални аспекти рачунарства | И | 2+2+0 | 6 |
+| [13М111ПРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PRV-2019) | Програмирање у реалном времену | И | 2+2+0 | 6 |
+| [13М111ПРМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PRM-2019) | Пројектовање рачунарских мрежа 4) | И | 2+2+1 | 6 |
+| [13М111ПП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PP2-2019) | Програмски преводиоци 2 | И | 2+2+1 | 6 |
+| [13М111ГИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111GI-2019) | Геномска информатика | И | 2+2+1 | 6 |
+| [13М111ПСЗ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PSZ-2019) | Проналажење скривеног знања | И | 2+2+0 | 6 |
+| [13М111ЗРM](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111ZRM-2019) | Заштита рачунарских система и мрежа 1) | И | 2+2+1 | 6 |
+| [19М111РИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M111RIP-2022) | Развој и примена рачунарских акцелератора 3) | И | 2+2+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13М114МУПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114MUPS-2020) | Примењено паралално програмирање | И | 2+2+1 | 6 |
+| [13М114САБ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114SAB-2020) | Алати за програмирање база података | И | 2+2+1 | 6 |
+| [13М114ИС1](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114IS1-2020) | Пројектовање информационих система 1 | И | 2+2+1 | 6 |
+| [13М114ПАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PAR-2019) | Паралелизам у архитектури рачунара и програмским преводиоцима 5) | И | 2+2+1 | 6 |
+| [13М114РГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114RG-2020) | Интерактивна рачунарска графика | И | 2+2+1 | 6 |
+| [13М113АОР2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M113AOR2-2020) | Напредне архитектуре и организације рачунара | И | 2+2+1 | 6 |
+| [19M031ММС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M031MMS-2019) | Мултимедијални системи | И | 3+1+1 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 20-25 | 60 |  |  |
+
+### Сигнали и системи
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/signali-i-sistemi
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Сигнали и системи
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М051РС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051RS-2019) | Роботски системи | И | 3+1+0 | 6 |
+| [13М051ТСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051TSS-2019) | Теорија стохастичких система | И | 3+1+0 | 6 |
+| [13М051ДИФ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051DIF-2019) | Дистрибуирани и фракциони системи управљања | И | 3+1+0 | 6 |
+| [13М051ПСУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051PSU-2019) | Пројектовање система управљања | И | 3+1+0 | 6 |
+| [13М051РМР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051RMR-2019) | Робусна мултиваријабилна регулација | И | 3+2+0 | 6 |
+| [13М051СКС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051SKS-2019) | Статистичка класификација сигнала | И | 3+1+0 | 6 |
+| [13М051ОУС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051OUS-2019) | Оптимално управљање системима | И | 3+1+0 | 6 |
+| [13М051МУ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051MU-2019) | Машинско учење | И | 3+1+0 | 6 |
+| [13М031AСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M031ASM-2019) | Анализа и синтеза музичких сигнала | И | 3+1+1 | 6 |
+| Предмети са основних студија - Група Б |  |  |  |  |
+| [13М054НМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054NM-2020) | Неуралне мреже и системи за обраду сигнала | И | 3+1+1 | 6 |
+| [13М054ПО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054PO-2020) | Статистичко препознавање облика | И | 3+1+1 | 6 |
+| [13М054ДОС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054DOS-2020) | Напредне технике дигиталне обраде слике | И | 3+1+1 | 6 |
+| [19М054ЦНЦ](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M054CNC-2020) | Рачунарски управљани производни флексибилни системи | И | 3+0+2 | 6 |
+| [13М054МАС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054MAS-2020) | Одабране методе обраде биосигнала | И | 3+1+1 | 6 |
+| [13М044НСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M044NSS-2020) | Пројектовање наменских рачунарских система | И | 3+1+1 | 6 |
+| [13М114ИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114IP-2020) | Веб системи и технологије | И | 2+2+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М051АСО](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051ASO-2019) | Адаптивни системи у обради сигнала и управљању процесима | И | 3+1+0 | 6 |
+| [13М051МСЦ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051MSC-2019) | Методе soft-computing-а | И | 3+1+0 | 6 |
+| [1МE051СОМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051SOM-2019) | Системи одлучивања у медицини | И | 3+1+1 | 6 |
+| [13М051ИоТ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051IoT-2019) | IoT системи | И | 3+1+0 | 6 |
+| [13М041ПМК](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M041PMK-2019) | Примена микроконтролера 3) | И | 3+1+1 | 6 |
+| [13М051КВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051KV-2019) | Компјутерска визија | И | 3+0+2 | 6 |
+| [13М051АСС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051ASS-2019) | Анализа сложених система | И | 3+1+0 | 6 |
+| [13М051СЗН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051SZN-2019) | Системи за навигацију 2) | И | 3+1+0 | 6 |
+| [13М051ТОБС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M051TOBS-2019) | Технике обраде биомедицинских сигнала | И | 2+0+2 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13М054УИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054UIP-2020) | Управљање сложеним индустријским процесима | И | 3+1+1 | 6 |
+| [13М054ОПГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054OPG-2020) | Дигитална обрада и препознавање говора | И | 3+1+1 | 6 |
+| [19М054АМР](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M054AMR-2020) | Аутономни мобилни системи | И | 3+1+1 | 6 |
+| [13М054КЛИН](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054KLIN-2020) | Клиничка инструментација 1 | И | 3+1+1 | 6 |
+| [13М054АБС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M054ABS-2020) | Обрада медицинске слике | И | 3+0+2 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 25-30 | 60 |  |  |
+
+### Софтверско инжењерство
+
+- URL: https://www.etf.bg.ac.rs/sr/studiranje/master-akademske-studije/elektrotehnika-i-racunarstvo-2019/softversko-inzenjerstvo
+- Study type: Master akademske studije
+- Sidebar title: Електротехника и рачунарство 2019
+- Strana header: Софтверско инжењерство
+
+#### Table 1
+
+| 1. семестар |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М111ПКИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PKI-2019) | Програмирање корисничких интерфејса | И | 2+2+1 | 6 |
+| [13М111ТА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111TA-2019) | Теорија алгоритама 2) | И | 2+2+0 | 6 |
+| [13М111УЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111UES-2019) | Управљање електронским садржајима 2) | И | 2+2+0 | 6 |
+| [13М111СИБП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111SIBP-2019) | Софтверско инжењерство великих база података 4) | И | 2+2+1 | 6 |
+| [13М111РГ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111RG2-2019) | Рачунарска графика 2 | И | 2+2+1 | 6 |
+| [13М111АСМ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111ASM-2019) | Анализа социјалних мрежа | И | 2+2+1 | 6 |
+| [13М111РБС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111RBS-2019) | Развој безбедног софтвера 1) | И | 2+2+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13М114ВЛСИ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114VLSI-2019) | Рачунарски VLSI системи | И | 2+2+1 | 6 |
+| [13M114ПС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114PS-2019) | Моделовање и пројектовање софтвера | И | 2+2+1 | 6 |
+| [13М114РМ2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114RM2-2019) | Одабрана поглавља из рачунарских мрежа | И | 2+2+1 | 6 |
+| [13М114ИС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13E114IS-2019) | Интелигентни сервиси и системи | И | 2+2+1 | 6 |
+| 2. семестар |  |  |  |  |
+| Шифра | Предмет | Статус | Часови (П+В+Л) | Кредити |
+| Уже стручни предмети - Група А |  |  |  |  |
+| [13М111СИП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111SIP-2019) | Социолошки и професионални аспекти рачунарства | И | 2+2+0 | 6 |
+| [13М111ЕС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111ES-2019) | Еволуција софтвера | И | 2+2+0 | 6 |
+| [13М111ПРВ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PRV-2019) | Програмирање у реалном времену | И | 2+2+0 | 6 |
+| [19M031ММС](https://www.etf.bg.ac.rs/fis/karton_predmeta/19M031MMS-2019) | Mултимедијални системи | И | 3+1+1 | 6 |
+| [13М111ПП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111PP2-2019) | Програмски преводиоци 2 | И | 2+2+1 | 6 |
+| [13М111ИС2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111IS2-2019) | Информациони системи 2 | И | 2+2+1 | 6 |
+| [13М111ФП](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111FP-2019) | Функционално програмирање | И | 2+2+1 | 6 |
+| [13M111ОПЈ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111OPJ-2019) | Обрада природних језика | И | 2+2+1 | 6 |
+| [13М111РБС](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M111RBS-2019) | Развој безбедног софтвера 1) | И | 2+2+1 | 6 |
+| Предмети из Групе Б |  |  |  |  |
+| [13М114БП2](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114BP2-2020) | Одабрана поглавља база података | И | 2+2+1 | 6 |
+| [13М114РГ](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114RG-2020) | Интерактивна рачунарска графика | И | 2+2+1 | 6 |
+| [13М113ПИА](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M113PIA-2020) | Програмирање веб апликација | И | 2+2+1 | 6 |
+| [13М114ПАР](https://www.etf.bg.ac.rs/fis/karton_predmeta/13M114PAR-2020) | Паралелизам у архитектури рачунара и програмским преводиоцима 3) | И | 2+2+1 | 6 |
+| 13М001СП | Стручна пракса | О | 6 | 3 |
+| 13М001ЗРИ | Завршни рад - СИР (истраживање) | О/И | 20 | 14 |
+| 13М001ЗРО | Завршни рад - израда и одбрана | О/И | 4 | 13 |
+| Укупно | 20-25 | 60 |  |  |
