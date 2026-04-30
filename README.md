@@ -64,7 +64,7 @@ Do not upload `.env` to GitHub. This project already has `.env` patterns in `.gi
 Start the app:
 
 ```powershell
-.\venv\Scripts\streamlit.exe run app.py
+streamlit run app.py
 ```
 
 Then open the local URL shown by Streamlit.
