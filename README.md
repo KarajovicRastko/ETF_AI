@@ -1,81 +1,70 @@
-# ETF AI Assistant
+# ETF AI Ukis
 
-ETF AI Assistant is a Streamlit chatbot for information about the University of Belgrade School of Electrical Engineering (ETF). It answers from local markdown files in `.NewSkills` and is designed to stay focused on faculty-related questions.
+ETF AI Ukis is a Streamlit assistant for questions about Elektrotehnicki fakultet Univerziteta u Beogradu. The app uses locally generated knowledge files about study programs and employees, then sends the selected context to the UKIS AI chat API.
 
-## Data Sources
+## Files
 
-The assistant uses these local files:
+- `app_ukisAI.py` - Streamlit chat app for asking ETF-related questions.
+- `ETF_scrape_Studiranje.py` - scraper that collects ETF study program and course information.
+- `ETF_scrape_Workers.py` - scraper that collects ETF employee information and related subjects.
+- `.NewSkills/Studiranje.md` - generated knowledge file used by the app.
+- `.NewSkills/Workers.md` - generated knowledge file used by the app.
 
-- `.NewSkills/Studiranje.md` - study programs, modules, years, semesters, and courses.
-- `.NewSkills/Workers.md` - ETF employees, positions, departments, contacts, and subjects.
+## Requirements
 
-## Features
+- Python 3.10 or newer
+- Internet access for scraping ETF pages and calling `https://api.ukisai.academy`
 
-- Streamlit chat interface.
-- Recommended prompt buttons.
-- Local retrieval over the markdown files before calling the AI model.
-- Faculty-only guardrails.
-- Provider selection through `.env`.
-- Supports Gemini and Cursor API-key based configuration.
+Install Python dependencies from `requirements.txt`.
 
 ## Setup
 
-Create and activate a virtual environment:
+Create a virtual environment:
+
+```bash
+python -m venv venv
+```
+
+Activate it on Windows PowerShell:
 
 ```powershell
-python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
 
 Install dependencies:
 
-```powershell
+```bash
 pip install -r requirements.txt
 ```
 
-## Environment Variables
+## Generate Knowledge Files
 
-Copy `.env.example` to `.env` if needed:
+Run the scrapers before starting the app:
 
-```powershell
-Copy-Item .env.example .env
+```bash
+python ETF_scrape_Studiranje.py
+python ETF_scrape_Workers.py
 ```
 
-Use Gemini:
+The scripts create the `.NewSkills` folder and write:
 
-```env
-AI_PROVIDER=gemini
-GEMINI_API_KEY=your_gemini_api_key
-GEMINI_MODEL=gemini-2.5-flash-lite
+- `.NewSkills/Studiranje.json`
+- `.NewSkills/Studiranje.md`
+- `.NewSkills/Workers.json`
+- `.NewSkills/Workers.md`
+
+## Run The App
+
+Start the Streamlit application:
+
+```bash
+streamlit run app_ukisAI.py
 ```
 
-Use Cursor:
-
-```env
-AI_PROVIDER=cursor
-CURSOR_API_KEY=your_cursor_api_key
-CURSOR_MODEL=gpt-5.5-medium
-```
-
-Do not upload `.env` to GitHub. This project already has `.env` patterns in `.gitignore`.
-
-## Run
-
-Start the app:
-
-```powershell
-streamlit run app.py
-```
-
-Then open the local URL shown by Streamlit.
-
-## Recommended Prompts
-
-- `Ko je profesor Mladen Koprivica?`
-- `Koji predmeti su na drugoj godini smer Telekomunikacije?`
-- `Ko predaje Osnove Elektrotehnike 2?`
+Then open the local Streamlit URL shown in the terminal.
 
 ## Notes
 
-- If the assistant does not find relevant context in `.NewSkills`, it should answer that the information is not available in the ETF data.
-- Keep `.NewSkills` files updated when faculty data changes.
+- The app answers only from the generated ETF context files.
+- If the `.NewSkills` markdown files are missing, run the scrapers again.
+- The scrapers depend on the current HTML structure of `www.etf.bg.ac.rs`, so they may need updates if the website changes.

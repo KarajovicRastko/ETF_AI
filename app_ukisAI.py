@@ -1,17 +1,29 @@
-import os
 import re
-import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 
+import requests
 import streamlit as st
-from dotenv import load_dotenv
 
 
 BASE_DIR = Path(__file__).parent
+API_URL = "https://api.ukisai.academy"
+DEFAULT_MODEL = "qwen3-80b"
+
 SKILLS_DIR = BASE_DIR / ".NewSkills"
 STUDIRANJE_PATH = SKILLS_DIR / "Studiranje.md"
 WORKERS_PATH = SKILLS_DIR / "Workers.md"
+
+SYSTEM_PROMPT = """
+Ti si AI asistent Elektrotehnickog fakulteta Univerziteta u Beogradu.
+
+Pravila:
+- Odgovaraj samo na pitanja o ETF-u, studiranju, predmetima, modulima i zaposlenima.
+- Koristi iskljucivo informacije iz konteksta koji korisnik dostavlja u poruci (odeljak Kontekst).
+- Ako pitanje nije vezano za fakultet ili odgovor nije u kontekstu, reci: "Nemam tu informaciju u dostupnim podacima o ETF-u."
+- Odgovaraj na srpskom jeziku, jasno i kratko.
+- Kada je korisno, navedi predmet, zvanje, katedru, email ili telefon koji postoje u kontekstu.
+""".strip()
 
 DEFAULT_PROMPTS = [
     "Ko je profesor Mladen Koprivica?",
@@ -256,6 +268,18 @@ def load_knowledge() -> list[KnowledgeChunk]:
     return split_studiranje(studying) + split_workers(workers)
 
 
+@st.cache_data(ttl=3600, show_spinner=False)
+def fetch_ukis_models() -> list[str]:
+    try:
+        response = requests.get(f"{API_URL}/models", timeout=15)
+        response.raise_for_status()
+        data = response.json()
+        models = data.get("models") or []
+        return list(models) if isinstance(models, list) else []
+    except (requests.RequestException, ValueError):
+        return []
+
+
 def score_chunk(chunk: KnowledgeChunk, query_tokens: list[str], question: str) -> int:
     score = 0
     searchable = normalize_text(chunk.searchable_text)
@@ -299,26 +323,6 @@ def retrieve_context(question: str, chunks: list[KnowledgeChunk], limit: int = 8
     return [chunk for _, chunk in scored[:limit]]
 
 
-def build_prompt(question: str, context_chunks: list[KnowledgeChunk]) -> str:
-    context = format_context(context_chunks)
-    return f"""
-Ti si AI asistent Elektrotehnickog fakulteta Univerziteta u Beogradu.
-
-Pravila:
-- Odgovaraj samo na pitanja o ETF-u, studiranju, predmetima, modulima i zaposlenima.
-- Koristi iskljucivo informacije iz konteksta ispod.
-- Ako pitanje nije vezano za fakultet ili odgovor nije u kontekstu, reci: "Nemam tu informaciju u dostupnim podacima o ETF-u."
-- Odgovaraj na srpskom jeziku, jasno i kratko.
-- Kada je korisno, navedi predmet, zvanje, katedru, email ili telefon koji postoje u kontekstu.
-
-Kontekst:
-{context}
-
-Pitanje:
-{question}
-""".strip()
-
-
 def format_context(context_chunks: list[KnowledgeChunk], max_chars: int = 45000) -> str:
     context_parts = []
     current_size = 0
@@ -336,105 +340,73 @@ def format_context(context_chunks: list[KnowledgeChunk], max_chars: int = 45000)
     return "\n\n".join(context_parts)
 
 
-def call_gemini(prompt: str, model_name: str, api_key: str) -> str:
-    from google import genai
+def build_user_message(question: str, context_chunks: list[KnowledgeChunk]) -> str:
+    context = format_context(context_chunks)
+    return f"""
+Kontekst:
+{context}
 
-    client = genai.Client(api_key=api_key)
-    response = client.models.generate_content(model=model_name, contents=prompt)
-    return response.text or "Nemam odgovor iz modela."
+Pitanje:
+{question}
+""".strip()
 
 
-def call_cursor(prompt: str, api_key: str, model_name: str, command: str) -> str:
-    result = subprocess.run(
-        [
-            command,
-            "agent",
-            "--api-key",
-            api_key,
-            "--model",
-            model_name,
-            "--mode",
-            "ask",
-            "--print",
-            "--output-format",
-            "text",
-            prompt,
-        ],
-        text=True,
-        capture_output=True,
-        timeout=120,
-        cwd=BASE_DIR,
-        encoding="utf-8",
-        errors="replace",
+def call_ukis_chat(system: str, message: str, model: str, timeout: int = 120) -> str:
+    response = requests.post(
+        f"{API_URL}/chat",
+        json={"model": model, "system": system, "message": message},
+        timeout=timeout,
     )
+    response.raise_for_status()
+    data = response.json()
+    text = data.get("response")
+    if text is None:
+        return "Server nije vratio polje 'response'."
+    return str(text).strip() or "Nemam odgovor iz modela."
 
-    if result.returncode != 0:
-        details = result.stderr.strip() or result.stdout.strip()
-        raise RuntimeError(details or f"Cursor returned exit code {result.returncode}.")
 
-    return result.stdout.strip() or "Cursor nije vratio odgovor."
-
-
-def answer_question(question: str, chunks: list[KnowledgeChunk]) -> str:
+def answer_question(question: str, chunks: list[KnowledgeChunk], model: str) -> str:
     context_chunks = retrieve_context(question, chunks)
     if not context_chunks:
         return "Nemam tu informaciju u dostupnim podacima o ETF-u."
 
-    prompt = build_prompt(question, context_chunks)
-    provider = os.getenv("AI_PROVIDER", "gemini").strip().lower()
-
-    if provider == "gemini":
-        api_key = os.getenv("GEMINI_API_KEY", "").strip()
-        model_name = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite").strip()
-        if not api_key or api_key == "your_api_key_here":
-            return "GEMINI_API_KEY nije podesen u .env fajlu."
-        return call_gemini(prompt, model_name, api_key)
-
-    if provider == "cursor":
-        api_key = os.getenv("CURSOR_API_KEY", "").strip()
-        model_name = os.getenv("CURSOR_MODEL", "gpt-5.5-medium").strip()
-        command = os.getenv("CURSOR_COMMAND", "agent").strip()
-        if not api_key or api_key == "your_cursor_api_key_here":
-            return "CURSOR_API_KEY nije podesen u .env fajlu."
-        try:
-            return call_cursor(prompt, api_key, model_name, command)
-        except FileNotFoundError:
-            return f"Cursor komanda nije pronadjena: {command}"
-        except subprocess.TimeoutExpired:
-            return "Cursor nije odgovorio u predvidjenom vremenu."
-        except RuntimeError as exc:
-            return f"Cursor greska: {exc}"
-
-    return f"Nepoznat AI_PROVIDER: {provider}. Koristi 'gemini' ili 'cursor'."
+    user_message = build_user_message(question, context_chunks)
+    try:
+        return call_ukis_chat(SYSTEM_PROMPT, user_message, model)
+    except requests.HTTPError as exc:
+        detail = ""
+        if exc.response is not None:
+            try:
+                detail = exc.response.text[:500]
+            except Exception:
+                detail = str(exc.response.status_code)
+        return f"UKIS API greska ({exc.response.status_code if exc.response else '?'}): {detail or str(exc)}"
+    except requests.RequestException as exc:
+        return f"Greska pri pozivu UKIS servera: {exc}"
 
 
-def render_sidebar() -> None:
-    provider = os.getenv("AI_PROVIDER", "gemini").strip().lower()
+def render_sidebar(models: list[str]) -> str:
     st.sidebar.header("Podesavanja")
-    st.sidebar.write(f"Provider: `{provider}`")
+    st.sidebar.caption("LLM: [api.ukisai.academy](https://api.ukisai.academy) — bez API kljuca.")
 
-    if provider == "gemini":
-        model_name = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite").strip()
-        api_key = os.getenv("GEMINI_API_KEY", "").strip()
-        st.sidebar.write(f"Model: `{model_name}`")
-        st.sidebar.write("API key: configured" if api_key and api_key != "your_api_key_here" else "API key: missing")
-    elif provider == "cursor":
-        model_name = os.getenv("CURSOR_MODEL", "gpt-5.5-medium").strip()
-        api_key = os.getenv("CURSOR_API_KEY", "").strip()
-        st.sidebar.write(f"Cursor model: `{model_name}`")
-        st.sidebar.write("Cursor API key: configured" if api_key and api_key != "your_cursor_api_key_here" else "Cursor API key: missing")
-    else:
-        st.sidebar.warning("AI_PROVIDER mora biti 'gemini' ili 'cursor'.")
+    choices = models if models else [DEFAULT_MODEL]
+    default_index = 0
+    if DEFAULT_MODEL in choices:
+        default_index = choices.index(DEFAULT_MODEL)
+
+    model = st.sidebar.selectbox("Model", choices, index=min(default_index, len(choices) - 1))
+    return model
 
 
 def main() -> None:
-    load_dotenv(BASE_DIR / ".env")
-    st.set_page_config(page_title="ETF AI Asistent", page_icon="ETF", layout="centered")
+    st.set_page_config(page_title="ETF AI Asistent (UKIS)", page_icon="ETF", layout="centered")
 
     st.title("ETF AI Asistent")
-    st.caption("Postavi pitanje o studiranju, predmetima ili zaposlenima na Elektrotehnickom fakultetu u Beogradu.")
+    st.caption("Postavi pitanje o studiranju, predmetima ili zaposlenima na Elektrotehnickom fakultetu u Beogradu. (UKIS AI server)")
 
-    render_sidebar()
+    models = fetch_ukis_models()
+    selected_model = render_sidebar(models)
+
     chunks = load_knowledge()
 
     if "messages" not in st.session_state:
@@ -469,7 +441,7 @@ def main() -> None:
 
     with st.chat_message("assistant"):
         with st.spinner("Trazim odgovor u ETF podacima..."):
-            response = answer_question(question, chunks)
+            response = answer_question(question, chunks, selected_model)
         st.markdown(response)
 
     st.session_state.messages.append({"role": "assistant", "content": response})
