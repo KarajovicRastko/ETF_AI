@@ -6,6 +6,7 @@ import requests
 import streamlit as st
 
 
+# Base paths for the app and the knowledge files used for retrieval.
 BASE_DIR = Path(__file__).parent
 API_URL = "https://api.ukisai.academy"
 DEFAULT_MODEL = "qwen3-80b"
@@ -14,11 +15,13 @@ SKILLS_DIR = BASE_DIR / ".NewSkills"
 STUDIRANJE_PATH = SKILLS_DIR / "Studiranje.md"
 WORKERS_PATH = SKILLS_DIR / "Workers.md"
 
+# System instructions sent to the LLM so it answers only from the provided ETF knowledge context.
 SYSTEM_PROMPT = """
 Ti si AI asistent Elektrotehnickog fakulteta Univerziteta u Beogradu.
 
 Pravila:
-- Odgovaraj samo na pitanja o ETF-u, studiranju, predmetima, modulima i zaposlenima.
+- Ti si ETF AI 
+-Odgovaraj samo na pitanja o ETF-u, studiranju, predmetima, modulima i zaposlenima.
 - Koristi iskljucivo informacije iz konteksta koji korisnik dostavlja u poruci (odeljak Kontekst).
 - Ako pitanje nije vezano za fakultet ili odgovor nije u kontekstu, reci: "Nemam tu informaciju u dostupnim podacima o ETF-u."
 - Odgovaraj na srpskom jeziku, jasno i kratko.
@@ -122,6 +125,7 @@ SERBIAN_CYRILLIC_TO_LATIN = str.maketrans(
 )
 
 
+# Represents one searchable piece of ETF knowledge extracted from markdown files.
 @dataclass(frozen=True)
 class KnowledgeChunk:
     source: str
@@ -130,6 +134,7 @@ class KnowledgeChunk:
     searchable_text: str
 
 
+# Text normalization helpers used to make searches and matching more robust.
 def normalize_text(value: str) -> str:
     latin = value.translate(SERBIAN_CYRILLIC_TO_LATIN).lower()
     latin = latin.replace("š", "s").replace("đ", "dj").replace("ž", "z")
@@ -138,6 +143,7 @@ def normalize_text(value: str) -> str:
 
 
 def tokenize(value: str) -> list[str]:
+    # Split text into useful words while removing stop words and short noise tokens.
     return [
         token
         for token in normalize_text(value).split()
@@ -145,6 +151,7 @@ def tokenize(value: str) -> list[str]:
     ]
 
 
+# Reads raw markdown knowledge files from disk.
 def read_markdown(path: Path) -> str:
     if not path.exists():
         return ""
@@ -171,6 +178,7 @@ def subject_name(subject: str) -> str:
     return subject.strip()
 
 
+# Parses the Studiranje markdown file into smaller knowledge chunks for retrieval.
 def split_studiranje(markdown: str) -> list[KnowledgeChunk]:
     chunks: list[KnowledgeChunk] = []
     current_title = "Studiranje"
@@ -191,6 +199,7 @@ def split_studiranje(markdown: str) -> list[KnowledgeChunk]:
     return chunks
 
 
+# Parses the Workers markdown file into worker and subject-related knowledge chunks.
 def split_workers(markdown: str) -> list[KnowledgeChunk]:
     chunks: list[KnowledgeChunk] = []
     subject_workers: dict[str, dict[str, object]] = {}
@@ -252,6 +261,7 @@ Ko predaje / ko radi na predmetu:
     return chunks
 
 
+# Creates a chunk with both original text and normalized searchable text.
 def make_chunk(source: str, title: str, text: str) -> KnowledgeChunk:
     return KnowledgeChunk(
         source=source,
@@ -261,6 +271,7 @@ def make_chunk(source: str, title: str, text: str) -> KnowledgeChunk:
     )
 
 
+# Loads all ETF knowledge from markdown files and prepares it for search.
 @st.cache_data(show_spinner=False)
 def load_knowledge() -> list[KnowledgeChunk]:
     studying = read_markdown(STUDIRANJE_PATH)
@@ -268,6 +279,7 @@ def load_knowledge() -> list[KnowledgeChunk]:
     return split_studiranje(studying) + split_workers(workers)
 
 
+# Fetches available LLM models from the UKIS API for the sidebar selector.
 @st.cache_data(ttl=3600, show_spinner=False)
 def fetch_ukis_models() -> list[str]:
     try:
@@ -280,6 +292,7 @@ def fetch_ukis_models() -> list[str]:
         return []
 
 
+# Scores each knowledge chunk based on how relevant it is to the user's question.
 def score_chunk(chunk: KnowledgeChunk, query_tokens: list[str], question: str) -> int:
     score = 0
     searchable = normalize_text(chunk.searchable_text)
@@ -309,6 +322,7 @@ def score_chunk(chunk: KnowledgeChunk, query_tokens: list[str], question: str) -
     return score
 
 
+# Selects the most relevant knowledge chunks for the current question.
 def retrieve_context(question: str, chunks: list[KnowledgeChunk], limit: int = 8) -> list[KnowledgeChunk]:
     query_tokens = tokenize(question)
     if not query_tokens:
@@ -323,6 +337,7 @@ def retrieve_context(question: str, chunks: list[KnowledgeChunk], limit: int = 8
     return [chunk for _, chunk in scored[:limit]]
 
 
+# Formats the selected context into a compact prompt section for the LLM.
 def format_context(context_chunks: list[KnowledgeChunk], max_chars: int = 45000) -> str:
     context_parts = []
     current_size = 0
@@ -340,17 +355,28 @@ def format_context(context_chunks: list[KnowledgeChunk], max_chars: int = 45000)
     return "\n\n".join(context_parts)
 
 
-def build_user_message(question: str, context_chunks: list[KnowledgeChunk]) -> str:
+# Builds the final prompt that is sent to the model, including context and conversation history.
+def build_user_message(question: str, context_chunks: list[KnowledgeChunk], conversation_history: list[dict] | None = None) -> str:
     context = format_context(context_chunks)
+    
+    # Build conversation history section
+    history_text = ""
+    if conversation_history:
+        history_text = "\nPrethodna Konverzacija:\n"
+        for msg in conversation_history:
+            role = "Korisnik" if msg["role"] == "user" else "ETF Asistent"
+            history_text += f"{role}: {msg['content']}\n"
+        history_text += "\n"
+    
     return f"""
 Kontekst:
-{context}
-
+{context}{history_text}
 Pitanje:
 {question}
 """.strip()
 
 
+# Sends the prompt to the UKIS chat API and returns the model's reply.
 def call_ukis_chat(system: str, message: str, model: str, timeout: int = 120) -> str:
     response = requests.post(
         f"{API_URL}/chat",
@@ -365,14 +391,21 @@ def call_ukis_chat(system: str, message: str, model: str, timeout: int = 120) ->
     return str(text).strip() or "Nemam odgovor iz modela."
 
 
-def answer_question(question: str, chunks: list[KnowledgeChunk], model: str) -> str:
+# Main answer flow: retrieve context, build the prompt, and call the LLM.
+def answer_question(question: str, chunks: list[KnowledgeChunk], model: str, conversation_history: list[dict] | None = None, previous_context_chunks: list[KnowledgeChunk] | None = None) -> tuple[str, list[KnowledgeChunk]]:
     context_chunks = retrieve_context(question, chunks)
+    
+    # If no context found for this question, reuse relevant context from previous questions
+    if not context_chunks and previous_context_chunks:
+        context_chunks = previous_context_chunks
+    
     if not context_chunks:
-        return "Nemam tu informaciju u dostupnim podacima o ETF-u."
+        return "Nemam tu informaciju u dostupnim podacima o ETF-u.", []
 
-    user_message = build_user_message(question, context_chunks)
+    user_message = build_user_message(question, context_chunks, conversation_history)
     try:
-        return call_ukis_chat(SYSTEM_PROMPT, user_message, model)
+        response = call_ukis_chat(SYSTEM_PROMPT, user_message, model)
+        return response, context_chunks
     except requests.HTTPError as exc:
         detail = ""
         if exc.response is not None:
@@ -380,29 +413,30 @@ def answer_question(question: str, chunks: list[KnowledgeChunk], model: str) -> 
                 detail = exc.response.text[:500]
             except Exception:
                 detail = str(exc.response.status_code)
-        return f"UKIS API greska ({exc.response.status_code if exc.response else '?'}): {detail or str(exc)}"
+        return f"UKIS API greska ({exc.response.status_code if exc.response else '?'}): {detail or str(exc)}", context_chunks
     except requests.RequestException as exc:
-        return f"Greska pri pozivu UKIS servera: {exc}"
+        return f"Greska pri pozivu UKIS servera: {exc}", context_chunks
 
 
+# Renders the sidebar controls for choosing the LLM model.
 def render_sidebar(models: list[str]) -> str:
-    st.sidebar.header("Podesavanja")
-    st.sidebar.caption("LLM: [api.ukisai.academy](https://api.ukisai.academy) — bez API kljuca.")
+    st.sidebar.header("Izaberi LLM model")
 
     choices = models if models else [DEFAULT_MODEL]
     default_index = 0
     if DEFAULT_MODEL in choices:
         default_index = choices.index(DEFAULT_MODEL)
 
-    model = st.sidebar.selectbox("Model", choices, index=min(default_index, len(choices) - 1))
+    model = st.sidebar.selectbox("Modeli:", choices, index=min(default_index, len(choices) - 1))
     return model
 
 
+# Main Streamlit entry point that builds the chat UI and handles question answering.
 def main() -> None:
-    st.set_page_config(page_title="ETF AI Asistent (UKIS)", page_icon="ETF", layout="centered")
+    st.set_page_config(page_title="ETF AI", page_icon="ETF", layout="centered")
 
-    st.title("ETF AI Asistent")
-    st.caption("Postavi pitanje o studiranju, predmetima ili zaposlenima na Elektrotehnickom fakultetu u Beogradu. (UKIS AI server)")
+    st.title("ETF AI")
+    st.caption("Postavi pitanje o studiranju, predmetima ili zaposlenima na Elektrotehnickom fakultetu u Beogradu. (Trenutne dostupne inforamcije o predmetima i zaposlenima.)")
 
     models = fetch_ukis_models()
     selected_model = render_sidebar(models)
@@ -411,40 +445,46 @@ def main() -> None:
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
-
-    st.subheader("Postavi pitanje")
-    with st.form("custom_question_form", clear_on_submit=True):
-        custom_question = st.text_input(
-            "Unesi svoje pitanje za ETF asistenta",
-            placeholder="Npr. Ko predaje Osnove elektrotehnike 2?",
-        )
-        submitted = st.form_submit_button("Posalji")
+    if "pending_prompt" not in st.session_state:
+        st.session_state.pending_prompt = None
+    if "last_context" not in st.session_state:
+        st.session_state.last_context = None
 
     st.subheader("Preporucena pitanja")
     columns = st.columns(len(DEFAULT_PROMPTS))
-    selected_prompt = None
     for column, prompt in zip(columns, DEFAULT_PROMPTS, strict=True):
         if column.button(prompt, use_container_width=True):
-            selected_prompt = prompt
+            st.session_state.pending_prompt = prompt
 
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    question = (custom_question if submitted and custom_question else None) or selected_prompt or st.chat_input("Pitaj ETF asistenta...")
-    if not question:
-        return
+    # Always render chat input in the same position
+    user_input = st.chat_input("Pitaj ETF asistenta...")
+    question = st.session_state.pending_prompt or user_input
+    
+    if question:
+        st.session_state.pending_prompt = None  # Clear after using
+        st.session_state.messages.append({"role": "user", "content": question})
+        with st.chat_message("user"):
+            st.markdown(question)
 
-    st.session_state.messages.append({"role": "user", "content": question})
-    with st.chat_message("user"):
-        st.markdown(question)
+        with st.chat_message("assistant"):
+            with st.spinner("Trazim odgovor u ETF podacima..."):
+                # Pass conversation history and previous context for follow-up questions
+                response, context_chunks = answer_question(
+                    question, 
+                    chunks, 
+                    selected_model, 
+                    st.session_state.messages[:-1],
+                    st.session_state.last_context
+                )
+                # Store context for potential follow-up questions
+                st.session_state.last_context = context_chunks
+            st.markdown(response)
 
-    with st.chat_message("assistant"):
-        with st.spinner("Trazim odgovor u ETF podacima..."):
-            response = answer_question(question, chunks, selected_model)
-        st.markdown(response)
-
-    st.session_state.messages.append({"role": "assistant", "content": response})
+        st.session_state.messages.append({"role": "assistant", "content": response})
 
 
 if __name__ == "__main__":

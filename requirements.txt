@@ -1,2 +1,5 @@
-streamlit
-requests
+streamlit>=1.39.0
+requests>=2.31.0
+
+# ETF_scrape_Studiranje.py and ETF_scrape_Workers.py use only Python standard library modules,
+# so no additional third-party packages are required for them.
